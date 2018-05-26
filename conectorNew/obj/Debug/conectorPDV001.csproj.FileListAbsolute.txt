@@ -1,0 +1,133 @@
+C:\project vs 2013_home\conectorNew\obj\Debug\conectorPDV001.cep.resources
+C:\project vs 2013_home\conectorNew\obj\Debug\conectorPDV001.chequeRecebimento.resources
+C:\project vs 2013_home\conectorNew\obj\Debug\conectorPDV001.consultaCliente.resources
+C:\project vs 2013_home\conectorNew\obj\Debug\conectorPDV001.consultaClienteNome.resources
+C:\project vs 2013_home\conectorNew\obj\Debug\conectorPDV001.consultaFone.resources
+C:\project vs 2013_home\conectorNew\obj\Debug\conectorPDV001.editorPrestacao.resources
+C:\project vs 2013_home\conectorNew\obj\Debug\conectorPDV001.ConectorCF.resources
+C:\project vs 2013_home\conectorNew\obj\Debug\conectorPDV001.mainConfig.resources
+C:\project vs 2013_home\conectorNew\obj\Debug\conectorPDV001.msgInfo.resources
+C:\project vs 2013_home\conectorNew\obj\Debug\conectorPDV001.networkCard.resources
+C:\project vs 2013_home\conectorNew\obj\Debug\conectorPDV001.pequisaMuncipio.resources
+C:\project vs 2013_home\conectorNew\obj\Debug\conectorPDV001.pesquisaPessoa.resources
+C:\project vs 2013_home\conectorNew\obj\Debug\conectorPDV001.Properties.Resources.resources
+C:\project vs 2013_home\conectorNew\obj\Debug\conectorPDV001.telefone.resources
+C:\project vs 2013_home\conectorNew\obj\Debug\conectorPDV001.typeCard.resources
+C:\project vs 2013_home\conectorNew\obj\Debug\conectorPDV001.csproj.GenerateResource.Cache
+C:\project vs 2013_home\conectorNew\obj\Debug\conectorPDV001.TrustInfo.xml
+C:\project vs 2013_home\conectorNew\obj\Debug\conectorPDV001.exe.manifest
+C:\project vs 2013_home\conectorNew\obj\Debug\conectorPDV001.application
+C:\project vs 2013_home\conectorNew\obj\Debug\conectorPDV001.exe
+C:\project vs 2013_home\conectorNew\obj\Debug\conectorPDV001.pdb
+C:\project vs 2013_home\conectorNew\obj\Debug\conectorPDV001.csprojResolveAssemblyReference.cache
+C:\bin\Debug\conectorPDV001.exe.config
+C:\bin\Debug\conectorPDV001.exe.manifest
+C:\bin\Debug\conectorPDV001.application
+C:\bin\Debug\conectorPDV001.exe
+C:\bin\Debug\conectorPDV001.pdb
+D:\project vs 2013_home\MG001\conectorNew\bin\Debug\conectorPDV001.exe.config
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.exe
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.pdb
+D:\project vs 2013_home\MG001\conectorNew\bin\Debug\conectorPDV001.exe.manifest
+D:\project vs 2013_home\MG001\conectorNew\bin\Debug\conectorPDV001.application
+D:\project vs 2013_home\MG001\conectorNew\bin\Debug\conectorPDV001.exe
+D:\project vs 2013_home\MG001\conectorNew\bin\Debug\conectorPDV001.pdb
+D:\project vs 2013_home\MG001\conectorNew\bin\Debug\fiscal.dll
+D:\project vs 2013_home\MG001\conectorNew\bin\Debug\MessagingToolkit.QRCode.dll
+D:\project vs 2013_home\MG001\conectorNew\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+D:\project vs 2013_home\MG001\conectorNew\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\project vs 2013_home\MG001\conectorNew\bin\Debug\mva.dll
+D:\project vs 2013_home\MG001\conectorNew\bin\Debug\MySql.Data.dll
+D:\project vs 2013_home\MG001\conectorNew\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.ATO0202.ConectorCF02.resources
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.MG001.ConectorCF.resources
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.cep.resources
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.chequeRecebimento.resources
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.consultaCliente.resources
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.consultaClienteNome.resources
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.consultaFone.resources
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.editorPrestacao.resources
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.mainConfig.resources
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.msgInfo.resources
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.networkCard.resources
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.pequisaMuncipio.resources
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.pesquisaPessoa.resources
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.Properties.Resources.resources
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.telefone.resources
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.typeCard.resources
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.csproj.GenerateResource.Cache
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.TrustInfo.xml
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.exe.manifest
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.application
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\bin\Debug\conectorPDV001.exe.config
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.exe
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.pdb
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\bin\Debug\conectorPDV001.exe.manifest
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\bin\Debug\conectorPDV001.application
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\bin\Debug\conectorPDV001.exe
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\bin\Debug\conectorPDV001.pdb
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\bin\Debug\fiscal.dll
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\bin\Debug\MessagingToolkit.QRCode.dll
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\bin\Debug\mva.dll
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\bin\Debug\MySql.Data.dll
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.csprojResolveAssemblyReference.cache
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.ATO0202.ConectorCF02.resources
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.MG001.ConectorCF.resources
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.cep.resources
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.chequeRecebimento.resources
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.consultaCliente.resources
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.consultaClienteNome.resources
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.consultaFone.resources
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.editorPrestacao.resources
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.mainConfig.resources
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.msgInfo.resources
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.networkCard.resources
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.pequisaMuncipio.resources
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.pesquisaPessoa.resources
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.Properties.Resources.resources
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.telefone.resources
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.typeCard.resources
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.csproj.GenerateResource.Cache
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.TrustInfo.xml
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.exe.manifest
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\obj\Debug\conectorPDV001.application
+D:\project vs 2013_home\MG001 - PONTO\conectorNew\bin\Debug\System.Security.dll
+D:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.csprojResolveAssemblyReference.cache
+C:\project vs 2013_home\MG001\conectorNew\bin\Debug\conectorPDV001.exe.config
+C:\project vs 2013_home\MG001\conectorNew\bin\Debug\conectorPDV001.exe.manifest
+C:\project vs 2013_home\MG001\conectorNew\bin\Debug\conectorPDV001.application
+C:\project vs 2013_home\MG001\conectorNew\bin\Debug\conectorPDV001.exe
+C:\project vs 2013_home\MG001\conectorNew\bin\Debug\conectorPDV001.pdb
+C:\project vs 2013_home\MG001\conectorNew\bin\Debug\fiscal.dll
+C:\project vs 2013_home\MG001\conectorNew\bin\Debug\MessagingToolkit.QRCode.dll
+C:\project vs 2013_home\MG001\conectorNew\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+C:\project vs 2013_home\MG001\conectorNew\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\project vs 2013_home\MG001\conectorNew\bin\Debug\mva.dll
+C:\project vs 2013_home\MG001\conectorNew\bin\Debug\MySql.Data.dll
+C:\project vs 2013_home\MG001\conectorNew\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.ATO0202.ConectorCF02.resources
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.MG001.ConectorCF.resources
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.cep.resources
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.chequeRecebimento.resources
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.consultaCliente.resources
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.consultaClienteNome.resources
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.consultaFone.resources
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.editorPrestacao.resources
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.mainConfig.resources
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.msgInfo.resources
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.networkCard.resources
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.pequisaMuncipio.resources
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.pesquisaPessoa.resources
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.Properties.Resources.resources
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.telefone.resources
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.typeCard.resources
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.csproj.GenerateResource.Cache
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.TrustInfo.xml
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.exe.manifest
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.application
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.exe
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.pdb
+C:\project vs 2013_home\MG001\conectorNew\obj\Debug\conectorPDV001.csprojResolveAssemblyReference.cache

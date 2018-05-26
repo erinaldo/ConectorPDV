@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="ISO8859-1"?>
+<bematech>
+	<readBemaFIFile Time="29-10-2015 18:52:10:267">
+		<NivelLog Time="29-10-2015 18:52:10:267">1</NivelLog>
+		<Path Time="29-10-2015 18:52:10:268">C:\conector\MFD\</Path>
+		<BemaFI_path Time="29-10-2015 18:52:10:269">C:\Windows\system32\bemafi32.dll</BemaFI_path>
+		<BemaFI_version Time="29-10-2015 18:52:10:270">7,0,0,74</BemaFI_version>
+		<BemaFI_path_configuracao Time="29-10-2015 18:52:10:270">C:\Windows\system32\bemafi.xml</BemaFI_path_configuracao>
+		<Path_manutencao Time="29-10-2015 18:52:10:271">C:\Windows\system32\manutencao.xml</Path_manutencao>
+		<BemaMFD_path Time="29-10-2015 18:52:10:290">C:\Windows\system32\bemaMFD.dll</BemaMFD_path>
+		<BemaMFD_version Time="29-10-2015 18:52:10:290">2,1,1,1</BemaMFD_version>
+		<BemaMFD2_path Time="29-10-2015 18:52:10:312">C:\Windows\system32\bemaMFD2.dll</BemaMFD2_path>
+		<BemaMFD2_version Time="29-10-2015 18:52:10:313">2,1,1,5</BemaMFD2_version>
+		<BemaMFD3_path Time="29-10-2015 18:52:10:350">C:\Windows\system32\bemaMFD3.dll</BemaMFD3_path>
+		<BemaMFD3_version Time="29-10-2015 18:52:10:351">1,0,0,0</BemaMFD3_version>
+		<Porta Time="29-10-2015 18:52:10:351">COM3</Porta>
+		<BaudRate Time="29-10-2015 18:52:10:352">9600</BaudRate>
+		<Status Time="29-10-2015 18:52:10:352">0</Status>
+		<Retorno Time="29-10-2015 18:52:10:353">0</Retorno>
+		<StatusFuncao Time="29-10-2015 18:52:10:353">0</StatusFuncao>
+		<ControlePorta Time="29-10-2015 18:52:10:354">1</ControlePorta>
+		<ModoGaveta Time="29-10-2015 18:52:10:354">0</ModoGaveta>
+		<CrLfVinculado Time="29-10-2015 18:52:10:355">1</CrLfVinculado>
+		<CrLfGerencial Time="29-10-2015 18:52:10:355">1</CrLfGerencial>
+		<TimeOutReducaoZ Time="29-10-2015 18:52:10:356">5940</TimeOutReducaoZ>
+		<TimeOutGerencialExtendido Time="29-10-2015 18:52:10:356">40</TimeOutGerencialExtendido>
+		<ConfigRede Time="29-10-2015 18:52:10:357">0</ConfigRede>
+		<Tentativas Time="29-10-2015 18:52:10:357">10</Tentativas>
+		<WakMilisegundos Time="29-10-2015 18:52:10:357">40</WakMilisegundos>
+		<TimeoutSegundos Time="29-10-2015 18:52:10:358">20</TimeoutSegundos>
+		<VersaoAtoCotepe Time="29-10-2015 18:52:10:358">1</VersaoAtoCotepe>
+		<CleanValidation Time="29-10-2015 18:52:10:359">0</CleanValidation>
+		<ProtocoloUnico Time="29-10-2015 18:52:10:359">1</ProtocoloUnico>
+		<GerarRFD Time="29-10-2015 18:52:10:360">0</GerarRFD>
+		<CAT52 Time="29-10-2015 18:52:10:360">0</CAT52>
+		<CupomMania Time="29-10-2015 18:52:10:361">0</CupomMania>
+		<MinasLegal Time="29-10-2015 18:52:10:361">0</MinasLegal>
+		<NotaFiscalParanaense Time="29-10-2015 18:52:10:362">0</NotaFiscalParanaense>
+		<NotaLegal Time="29-10-2015 18:52:10:362">0</NotaLegal>
+		<ParaibaLegal Time="29-10-2015 18:52:10:363">0</ParaibaLegal>
+		<CupomAdicional Time="29-10-2015 18:52:10:364">0</CupomAdicional>
+		<Impressora Time="29-10-2015 18:52:10:364">1</Impressora>
+		<EmulMFD Time="29-10-2015 18:52:10:365">0</EmulMFD>
+		<Aliquota01 Time="29-10-2015 18:52:10:365"></Aliquota01>
+		<Aliquota02 Time="29-10-2015 18:52:10:366"></Aliquota02>
+		<Aliquota03 Time="29-10-2015 18:52:10:366"></Aliquota03>
+		<Aliquota04 Time="29-10-2015 18:52:10:367"></Aliquota04>
+		<Aliquota05 Time="29-10-2015 18:52:10:367"></Aliquota05>
+		<Aliquota06 Time="29-10-2015 18:52:10:368"></Aliquota06>
+		<Aliquota07 Time="29-10-2015 18:52:10:368"></Aliquota07>
+		<Aliquota08 Time="29-10-2015 18:52:10:369"></Aliquota08>
+		<Aliquota09 Time="29-10-2015 18:52:10:369"></Aliquota09>
+		<Aliquota10 Time="29-10-2015 18:52:10:370"></Aliquota10>
+		<Aliquota11 Time="29-10-2015 18:52:10:370"></Aliquota11>
+		<Aliquota12 Time="29-10-2015 18:52:10:371"></Aliquota12>
+		<Aliquota13 Time="29-10-2015 18:52:10:371"></Aliquota13>
+		<Aliquota14 Time="29-10-2015 18:52:10:372"></Aliquota14>
+		<Aliquota15 Time="29-10-2015 18:52:10:372"></Aliquota15>
+		<Aliquota16 Time="29-10-2015 18:52:10:373"></Aliquota16>
+		<COO Time="29-10-2015 18:52:10:373"></COO>
+		<NumeroAplicativo Time="29-10-2015 18:52:10:374">ConectorPDV</NumeroAplicativo>
+		<CNPJ Time="29-10-2015 18:52:10:374">19386573000123</CNPJ>
+		<IE Time="29-10-2015 18:52:10:375">0022756120081</IE>
+		<IM Time="29-10-2015 18:52:10:375">3070316670</IM>
+		<RazaoSocial Time="29-10-2015 18:52:10:376">Fat Automacao e Consultoria Ltda</RazaoSocial>
+		<NomeAplicativo Time="29-10-2015 18:52:10:376">ConectorPDV</NomeAplicativo>
+		<Versao Time="29-10-2015 18:52:10:377">1</Versao>
+		<Linha1 Time="29-10-2015 18:52:10:377"></Linha1>
+		<Linha2 Time="29-10-2015 18:52:10:378"></Linha2>
+		<IM_ECF Time="29-10-2015 18:52:10:378"></IM_ECF>
+		<UF Time="29-10-2015 18:52:10:379"></UF>
+		<Cidade Time="29-10-2015 18:52:10:379"></Cidade>
+		<Favorecido Time="29-10-2015 18:52:10:380"></Favorecido>
+		<Return Time="29-10-2015 18:52:10:380">1</Return>
+	</readBemaFIFile>
+	<Bematech_FI_ModeloImpressora CV="0909" Time="29-10-2015 18:52:10:381">
+		<Return Time="29-10-2015 18:52:10:382">0</Return>
+	</Bematech_FI_ModeloImpressora>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="29-10-2015 18:52:10:382">
+		<Return Time="29-10-2015 18:52:10:383">-6</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="29-10-2015 18:54:41:731">
+		<Return Time="29-10-2015 18:54:41:732">-6</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<Bematech_FI_HabilitaDesabilitaRetornoEstendidoMFD Time="29-10-2015 18:57:52:077">
+		<Return Time="29-10-2015 18:57:52:077">1</Return>
+	</Bematech_FI_HabilitaDesabilitaRetornoEstendidoMFD>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="29-10-2015 18:57:52:078">
+		<Return Time="29-10-2015 18:57:52:078">-6</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="29-10-2015 18:57:52:082">
+		<Return Time="29-10-2015 18:57:52:082">-6</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<readBemaFIFile Time="29-10-2015 18:59:56:942">
+		<NivelLog Time="29-10-2015 18:59:56:943">1</NivelLog>
+		<Path Time="29-10-2015 18:59:56:943">C:\conector\MFD\</Path>
+		<BemaFI_path Time="29-10-2015 18:59:56:944">C:\Windows\system32\bemafi32.dll</BemaFI_path>
+		<BemaFI_version Time="29-10-2015 18:59:56:944">7,0,0,74</BemaFI_version>
+		<BemaFI_path_configuracao Time="29-10-2015 18:59:56:945">C:\Windows\system32\bemafi.xml</BemaFI_path_configuracao>
+		<Path_manutencao Time="29-10-2015 18:59:56:945">C:\Windows\system32\manutencao.xml</Path_manutencao>
+		<BemaMFD_path Time="29-10-2015 18:59:56:947">C:\Windows\system32\bemaMFD.dll</BemaMFD_path>
+		<BemaMFD_version Time="29-10-2015 18:59:56:948">2,1,1,1</BemaMFD_version>
+		<BemaMFD2_path Time="29-10-2015 18:59:56:950">C:\Windows\system32\bemaMFD2.dll</BemaMFD2_path>
+		<BemaMFD2_version Time="29-10-2015 18:59:56:950">2,1,1,5</BemaMFD2_version>
+		<BemaMFD3_path Time="29-10-2015 18:59:56:952">C:\Windows\system32\bemaMFD3.dll</BemaMFD3_path>
+		<BemaMFD3_version Time="29-10-2015 18:59:56:953">1,0,0,0</BemaMFD3_version>
+		<Porta Time="29-10-2015 18:59:56:953">COM3</Porta>
+		<BaudRate Time="29-10-2015 18:59:56:954">9600</BaudRate>
+		<Status Time="29-10-2015 18:59:56:954">0</Status>
+		<Retorno Time="29-10-2015 18:59:56:954">0</Retorno>
+		<StatusFuncao Time="29-10-2015 18:59:56:955">0</StatusFuncao>
+		<ControlePorta Time="29-10-2015 18:59:56:955">1</ControlePorta>
+		<ModoGaveta Time="29-10-2015 18:59:56:955">0</ModoGaveta>
+		<CrLfVinculado Time="29-10-2015 18:59:56:956">1</CrLfVinculado>
+		<CrLfGerencial Time="29-10-2015 18:59:56:956">1</CrLfGerencial>
+		<TimeOutReducaoZ Time="29-10-2015 18:59:56:956">5940</TimeOutReducaoZ>
+		<TimeOutGerencialExtendido Time="29-10-2015 18:59:56:957">40</TimeOutGerencialExtendido>
+		<ConfigRede Time="29-10-2015 18:59:56:957">0</ConfigRede>
+		<Tentativas Time="29-10-2015 18:59:56:957">10</Tentativas>
+		<WakMilisegundos Time="29-10-2015 18:59:56:958">40</WakMilisegundos>
+		<TimeoutSegundos Time="29-10-2015 18:59:56:958">20</TimeoutSegundos>
+		<VersaoAtoCotepe Time="29-10-2015 18:59:56:958">1</VersaoAtoCotepe>
+		<CleanValidation Time="29-10-2015 18:59:56:959">0</CleanValidation>
+		<ProtocoloUnico Time="29-10-2015 18:59:56:959">1</ProtocoloUnico>
+		<GerarRFD Time="29-10-2015 18:59:56:959">0</GerarRFD>
+		<CAT52 Time="29-10-2015 18:59:56:960">0</CAT52>
+		<CupomMania Time="29-10-2015 18:59:56:960">0</CupomMania>
+		<MinasLegal Time="29-10-2015 18:59:56:961">0</MinasLegal>
+		<NotaFiscalParanaense Time="29-10-2015 18:59:56:961">0</NotaFiscalParanaense>
+		<NotaLegal Time="29-10-2015 18:59:56:961">0</NotaLegal>
+		<ParaibaLegal Time="29-10-2015 18:59:56:962">0</ParaibaLegal>
+		<CupomAdicional Time="29-10-2015 18:59:56:962">0</CupomAdicional>
+		<Impressora Time="29-10-2015 18:59:56:962">1</Impressora>
+		<EmulMFD Time="29-10-2015 18:59:56:963">0</EmulMFD>
+		<Aliquota01 Time="29-10-2015 18:59:56:963"></Aliquota01>
+		<Aliquota02 Time="29-10-2015 18:59:56:963"></Aliquota02>
+		<Aliquota03 Time="29-10-2015 18:59:56:964"></Aliquota03>
+		<Aliquota04 Time="29-10-2015 18:59:56:964"></Aliquota04>
+		<Aliquota05 Time="29-10-2015 18:59:56:964"></Aliquota05>
+		<Aliquota06 Time="29-10-2015 18:59:56:965"></Aliquota06>
+		<Aliquota07 Time="29-10-2015 18:59:56:965"></Aliquota07>
+		<Aliquota08 Time="29-10-2015 18:59:56:965"></Aliquota08>
+		<Aliquota09 Time="29-10-2015 18:59:56:966"></Aliquota09>
+		<Aliquota10 Time="29-10-2015 18:59:56:966"></Aliquota10>
+		<Aliquota11 Time="29-10-2015 18:59:56:967"></Aliquota11>
+		<Aliquota12 Time="29-10-2015 18:59:56:967"></Aliquota12>
+		<Aliquota13 Time="29-10-2015 18:59:56:967"></Aliquota13>
+		<Aliquota14 Time="29-10-2015 18:59:56:968"></Aliquota14>
+		<Aliquota15 Time="29-10-2015 18:59:56:968"></Aliquota15>
+		<Aliquota16 Time="29-10-2015 18:59:56:968"></Aliquota16>
+		<COO Time="29-10-2015 18:59:56:969"></COO>
+		<NumeroAplicativo Time="29-10-2015 18:59:56:969">ConectorPDV</NumeroAplicativo>
+		<CNPJ Time="29-10-2015 18:59:56:969">19386573000123</CNPJ>
+		<IE Time="29-10-2015 18:59:56:970">0022756120081</IE>
+		<IM Time="29-10-2015 18:59:56:970">3070316670</IM>
+		<RazaoSocial Time="29-10-2015 18:59:56:970">Fat Automacao e Consultoria Ltda</RazaoSocial>
+		<NomeAplicativo Time="29-10-2015 18:59:56:971">ConectorPDV</NomeAplicativo>
+		<Versao Time="29-10-2015 18:59:56:971">1</Versao>
+		<Linha1 Time="29-10-2015 18:59:56:971"></Linha1>
+		<Linha2 Time="29-10-2015 18:59:56:972"></Linha2>
+		<IM_ECF Time="29-10-2015 18:59:56:972"></IM_ECF>
+		<UF Time="29-10-2015 18:59:56:973"></UF>
+		<Cidade Time="29-10-2015 18:59:56:974"></Cidade>
+		<Favorecido Time="29-10-2015 18:59:56:974"></Favorecido>
+		<Return Time="29-10-2015 18:59:56:974">1</Return>
+	</readBemaFIFile>
+	<Bematech_FI_ModeloImpressora CV="0909" Time="29-10-2015 18:59:56:975">
+		<Return Time="29-10-2015 18:59:56:975">0</Return>
+	</Bematech_FI_ModeloImpressora>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="29-10-2015 18:59:56:976">
+		<Return Time="29-10-2015 18:59:56:976">-6</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="29-10-2015 19:00:02:355">
+		<Return Time="29-10-2015 19:00:02:356">-6</Return>
+	</Bematech_FI_VerificaImpressoraLigada>

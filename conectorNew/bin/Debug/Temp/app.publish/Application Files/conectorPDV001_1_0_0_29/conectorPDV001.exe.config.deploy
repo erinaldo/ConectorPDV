@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections>
+    <sectionGroup name="applicationSettings" type="System.Configuration.ApplicationSettingsGroup, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <section name="conectorPDV001.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+    </sectionGroup>
+  </configSections>
+  <applicationSettings>
+    <conectorPDV001.Properties.Settings>
+      <setting name="conectorPDV001_WebConectorServer_Service" serializeAs="String">
+        <value>http://192.168.1.254:8081/Service.asmx</value>
+      </setting>
+      <setting name="conectorPDV001_webserviceAutorizacaoLoteHomo_NfeAutorizacao"
+        serializeAs="String">
+        <value>https://hnfe.fazenda.mg.gov.br/nfe2/services/NfeAutorizacao</value>
+      </setting>
+      <setting name="conectorPDV001_webserviceInutilizacaoHomo_NfeRetAutorizacao"
+        serializeAs="String">
+        <value>https://hnfe.fazenda.mg.gov.br/nfe2/services/NfeInutilizacao2</value>
+      </setting>
+      <setting name="conectorPDV001_webserviceRetAutorizacaoLoteHomo1_NfeRetAutorizacao"
+        serializeAs="String">
+        <value>https://hnfe.fazenda.mg.gov.br/nfe2/services/NfeRetAutorizacao</value>
+      </setting>
+      <setting name="conectorPDV001_br_gov_rs_sefaz_nfe_homologacao_NfeAutorizacao"
+        serializeAs="String">
+        <value>https://homologacao.nfe.sefaz.rs.gov.br/ws/NfeAutorizacao/NFeAutorizacao.asmx</value>
+      </setting>
+      <setting name="conectorPDV001_webserviceRetAutorizacaoLoteHomo_NfeRetAutorizacao"
+        serializeAs="String">
+        <value>https://hnfe.fazenda.mg.gov.br/nfe2/services/NfeRetAutorizacao</value>
+      </setting>
+      <setting name="conectorPDV001_br_gov_am_sefaz_homnfce_NfeAutorizacao"
+        serializeAs="String">
+        <value>https://homnfce.sefaz.am.gov.br/nfce-services-nac/services/NfeAutorizacao</value>
+      </setting>
+    </conectorPDV001.Properties.Settings>
+  </applicationSettings>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+  </startup>
+  <appSettings>
+    <add key="ClientSettingsProvider.ServiceUri" value="" />
+  </appSettings>
+  <system.web>
+    <membership defaultProvider="ClientAuthenticationMembershipProvider">
+      <providers>
+        <add name="ClientAuthenticationMembershipProvider" type="System.Web.ClientServices.Providers.ClientFormsAuthenticationMembershipProvider, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" serviceUri="" />
+      </providers>
+    </membership>
+    <roleManager defaultProvider="ClientRoleProvider" enabled="true">
+      <providers>
+        <add name="ClientRoleProvider" type="System.Web.ClientServices.Providers.ClientRoleProvider, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" serviceUri="" cacheTimeout="86400" />
+      </providers>
+    </roleManager>
+  </system.web>
+</configuration>

@@ -1,0 +1,1018 @@
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630800000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:41 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630900000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:41 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631000000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:41 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631100000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:42 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630800000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:42 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630900000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:42 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631000000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:42 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631100000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:42 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000628200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:42 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:42 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629500000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:42 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:43 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:43 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorh000020151230000000630900000001cheque.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:43 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630800000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:43 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630900000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:43 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631000000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:43 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631100000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:43 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630800000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:44 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630900000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:44 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631000000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:44 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631100000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:44 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630800000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:44 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630900000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:44 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631000000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:45 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631100000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:45 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000628200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:45 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:45 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629500000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:45 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:45 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:45 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorh000020151230000000630900000001cheque.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:46 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630800000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:46 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630900000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:46 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631000000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:46 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631100000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:46 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630800000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:46 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630900000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:46 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631000000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:46 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631100000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:47 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630800000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:47 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630900000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:47 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631000000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:47 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631100000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:47 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000628200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:47 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:47 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629500000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:47 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:48 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:48 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorh000020151230000000630900000001cheque.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:48 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630800000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:48 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630900000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:48 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631000000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:49 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631100000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:49 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630800000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:49 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630900000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:49 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631000000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:49 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631100000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:49 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630800000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:49 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630900000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:49 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631000000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:49 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631100000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:50 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000628200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:50 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:50 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629500000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:50 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:50 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:50 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorh000020151230000000630900000001cheque.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:50 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630800000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:50 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630900000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:50 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631000000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:51 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631100000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:51 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630800000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:51 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630900000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:51 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631000000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:51 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631100000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:51 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630800000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:51 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630900000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:51 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631000000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:51 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631100000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:52 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000628200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:52 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:52 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629500000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:52 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:52 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:52 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorh000020151230000000630900000001cheque.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:52 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630800000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:52 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630900000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:52 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631000000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:53 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631100000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:53 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630800000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:53 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630900000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:53 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631000000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:53 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631100000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:53 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630800000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:53 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630900000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:53 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631000000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:53 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631100000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:54 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000628200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:54 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:54 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629500000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:54 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:54 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:54 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorh000020151230000000630900000001cheque.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:54 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630800000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:54 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630900000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:54 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631000000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:54 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631100000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:54 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630800000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:55 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630900000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:55 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631000000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:55 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631100000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:55 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630800000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:55 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630900000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:55 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631000000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:55 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631100000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:55 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000628200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:55 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:55 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629500000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:56 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:56 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:56 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorh000020151230000000630900000001cheque.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:56 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630800000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:56 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630900000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:56 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631000000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:56 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631100000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:56 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630800000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:57 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630900000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:57 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631000000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:57 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631100000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:57 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630800000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:57 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630900000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:57 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631000000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:58 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631100000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:58 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000628200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:58 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:58 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629500000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:58 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:58 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:59 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorh000020151230000000630900000001cheque.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:59 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630800000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:59 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630900000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:59 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631000000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:59 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631100000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:59 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630800000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:59 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630900000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:07:59 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631000000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:00 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631100000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:00 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630800000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:00 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630900000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:00 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631000000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:00 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631100000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:00 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000628200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:00 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:00 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629500000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:01 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:01 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:01 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorh000020151230000000630900000001cheque.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:01 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630800000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:01 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630900000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:01 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631000000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:01 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631100000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:02 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630800000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:02 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630900000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:02 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631000000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:02 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631100000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:02 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630800000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:02 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630900000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:02 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631000000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:03 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631100000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:03 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000628200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:03 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:03 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629500000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:03 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:04 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:04 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorh000020151230000000630900000001cheque.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:04 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630800000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:04 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630900000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:04 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631000000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:05 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631100000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:05 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630800000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:05 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630900000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:05 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631000000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:05 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631100000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:06 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630800000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:06 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630900000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:06 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631000000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:06 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631100000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:06 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000628200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:06 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:07 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629500000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:07 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:07 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:07 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorh000020151230000000630900000001cheque.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:07 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630800000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:08 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630900000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:08 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631000000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:08 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631100000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:08 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630800000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:08 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630900000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:09 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631000000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:09 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631100000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:09 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630800000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:09 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630900000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:09 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631000000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:09 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631100000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:10 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000628200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:10 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:10 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629500000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:10 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:10 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:10 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorh000020151230000000630900000001cheque.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:11 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630800000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:11 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630900000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:11 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631000000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:11 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631100000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:11 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630800000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:12 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630900000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:12 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631000000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:12 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631100000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:12 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630800000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:12 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630900000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:12 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631000000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:13 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631100000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:13 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000628200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:13 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:13 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629500000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:13 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:14 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:14 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorh000020151230000000630900000001cheque.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:14 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630800000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:14 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630900000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:14 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631000000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:15 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631100000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:15 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630800000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:15 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630900000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:15 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631000000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:15 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631100000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:15 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630800000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:16 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630900000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:16 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631000000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:16 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631100000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:17 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000628200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:17 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:18 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629500000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:18 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:18 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:18 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorh000020151230000000630900000001cheque.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:18 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630800000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:18 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630900000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:19 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631000000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:19 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631100000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:19 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630800000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:19 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630900000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:20 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631000000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:20 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631100000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:20 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630800000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:20 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630900000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:20 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631000000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:20 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631100000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:21 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000628200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:21 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:21 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629500000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:21 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:22 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:22 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorh000020151230000000630900000001cheque.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:22 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630800000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:22 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630900000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:22 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631000000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:22 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631100000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:23 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630800000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:23 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630900000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:23 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631000000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:23 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631100000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:23 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630800000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:23 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630900000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:24 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631000000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:24 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631100000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:24 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000628200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:24 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:24 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629500000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:24 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:25 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:25 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorh000020151230000000630900000001cheque.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:25 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630800000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:25 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630900000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:26 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631000000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:26 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631100000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:26 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630800000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:26 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630900000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:26 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631000000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:27 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631100000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:27 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630800000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:27 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630900000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:27 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631000000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:27 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631100000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:27 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631200000001cupom_detalhes.bat'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:32 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000628200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:32 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:33 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629500000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:33 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:33 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:34 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorh000020151230000000630900000001cheque.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:34 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630800000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:34 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630900000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:35 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631000000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:35 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631100000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:36 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630800000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:36 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630900000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:36 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631000000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:36 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631100000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:36 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630800000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:37 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630900000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:37 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631000000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:37 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631100000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:37 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631200000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:39 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000628200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:39 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:39 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629500000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:39 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:39 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:39 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorh000020151230000000630900000001cheque.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:40 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630800000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:40 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000630900000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:40 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631000000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:40 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorm000120151230000000631100000001cupom_movimento.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:40 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630800000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:40 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000630900000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:41 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631000000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:41 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorc000020151230000000631100000001cupom_cabecalho.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:41 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630800000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:41 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000630900000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:41 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631000000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:41 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631100000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:42 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectord000120151230000000631200000001cupom_detalhes.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:42 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000628200000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:42 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:42 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000629500000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:42 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: The remote name could not be resolved: 'mvconectorf000120151230000000630000000001fechamentocaixa.rar'
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-12-2015 12:08:42 Versao EXE.1.0.57 Versao Banco1.0.57
+Trans

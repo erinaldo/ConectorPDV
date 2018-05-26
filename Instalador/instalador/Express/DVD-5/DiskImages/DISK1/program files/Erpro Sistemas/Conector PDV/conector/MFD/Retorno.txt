@@ -1,0 +1,64 @@
+28/01/2016 10:04:08                COO:000006575
+
+             LEITURA MEMÓRIA FISCAL
+                  SIMPLIFICADA
+              REDUÇÃO: 0208 a 0208
+
+Geral de Operação Não-Fiscal:          000002274
+Contador de Reduções Z:                     0208
+Contador de Reinício de Operação:            001
+Contador de Fita-Detalhe:                 000000
+Contador Geral de CF Cancelado              0872
+Tentativas Mal Suced. de Sub. SB            0000
+------------------INTERVENÇÕES------------------
+CRO  TIPO  DATA       HORA       CRZ   COO      
+001  L     12/03/2014 13:36:35   0000  000000002
+-----------IMPRESSÃO DE FITA DETALHE------------
+CFD      DATA       HORA        COOi     COOf   
+---------------REDUÇÕES Z DIÁRIAS---------------
+CRZ    TR   CRO   COO      DATA       HORA      
+CFC                       VENDA BRUTA DIÁRIA(R$)
+DT = desconto ICMS      DS = desconto ISSQN     
+AT = acréscimo ICMS     AS = acréscimo ISSQN    
+CT = canc. ICMS         CS = canc. ISSQN        
+ONE = Operação não-fiscal de entrada
+ONS = Operação não-fiscal de saída  
+------------------------------------------------
+----------TOTAL DO MES JANEIRO DE 2016----------
+Venda Bruta(R$)                           588,90
+DT = 5,36               DS = 0,00               
+AT = 0,00               AS = 0,00               
+CT = 261,40             CS = 0,00               
+T07,00% = 0,00          T12,00% = 0,00          
+T18,00% = 266,80        F1 = 55,34              
+I1 = 0,00               N1 = 0,00               
+FS1 = 0,00              IS1 = 0,00              
+NS1 = 0,00              
+ONE = 21,00             ONS = 10,00             
+-----------TOTAL DO PERÍODO DA LEITURA----------
+Venda Bruta(R$)                           588,90
+DT = 5,36               DS = 0,00               
+AT = 0,00               AS = 0,00               
+CT = 261,40             CS = 0,00               
+T07,00% = 0,00          T12,00% = 0,00          
+T18,00% = 266,80        F1 = 55,34              
+I1 = 0,00               N1 = 0,00               
+FS1 = 0,00              IS1 = 0,00              
+NS1 = 0,00              
+ONE = 21,00             ONS = 10,00             
+------------------DADOS GERAIS------------------
+Quantidade de Reduções Restantes            3442
+MOEDA: R$                   24/10/2013 11:20:24V
+-----------------SOFTWARE BÁSICO----------------
+01.00.00                    18/10/2013 11:39:48 
+--------TENTATIVAS DE SUBSTITUIÇÃO DO SB--------
+----------------CODIFICAÇÃO DO GT---------------
+        a partir de: 24/10/2013 11:20:24V
+0=Q, 1=W, 2=E, 3=R, 4=T, 5=Y, 6=U, 7=I, 8=O, 9=P
+------------------------------------------------
+  tnFBHMTylSE+sEgut4YABE0f9LX7O63s3+XCHLrnZ9w=
+MARCA: BEMATECH MOD: MP-4200 TH FI ECF-IF  VERSÃO
+: 01.00.00  
+ECF: 001 LJ:  001 OPR: 
+QQQQQQQQUOIRRWQERQ           28/01/2016 10:04:09
+FAB: BE101310100700000619                    BR

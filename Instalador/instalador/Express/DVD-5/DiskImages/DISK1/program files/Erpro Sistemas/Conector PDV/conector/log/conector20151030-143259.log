@@ -1,0 +1,30 @@
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: Unable to connect to the remote server
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-10-2015 14:40:03 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: Unable to connect to the remote server
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-10-2015 14:40:25 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: Unable to connect to the remote server
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-10-2015 14:40:46 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: Unable to connect to the remote server
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-10-2015 14:41:07 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: Unable to connect to the remote server
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-10-2015 14:41:28 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: Unable to connect to the remote server
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-10-2015 14:41:49 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: Unable to connect to the remote server
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-10-2015 14:42:11 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: Unable to connect to the remote server
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-10-2015 14:42:32 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: Unable to connect to the remote server
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_home\conectorNew\cupomImport.cs:line 812 Processamento: 30-10-2015 14:42:53 Versao EXE.1.0.57 Versao Banco1.0.57
+Transmissao de Arquivo => Store: 1 TERMINAL: 1 Envio: System.Net.WebException: Unable to connect to the remote server
+   at System.Net.FtpWebRequest.EndGetRequestStream(IAsyncResult asyncResult)
+   at Examples.System.Net.AsynchronousFtpUpLoader.EndGetStreamCallback(IAsyncResult ar) in c:\project vs 2013_

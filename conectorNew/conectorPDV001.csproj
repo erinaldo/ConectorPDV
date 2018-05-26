@@ -1,0 +1,635 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\MSBuild.Npm.0.5.1\build\MSBuild.Npm.props" Condition="Exists('packages\MSBuild.Npm.0.5.1\build\MSBuild.Npm.props')" />
+  <Import Project="packages\MSBuild.Node.0.5.1\build\MSBuild.Node.props" Condition="Exists('packages\MSBuild.Node.0.5.1\build\MSBuild.Node.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4D7F5935-F214-404E-A1F5-E3F72D6CE733}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>conectorPDV001</RootNamespace>
+    <AssemblyName>conectorPDV001</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>9f297626</NuGetPackageImportStamp>
+    <PublishUrl>C:\fonte\pdv\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>ConectorPDV001</ProductName>
+    <PublisherName>ConectorPDV</PublisherName>
+    <ApplicationRevision>46</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>true</Prefer32Bit>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>23139C3AAEE418E89B62EFB72BA79832D2B0FC6B</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>
+    </ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>cash_register.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Win32Resource>
+    </Win32Resource>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>conectorPDV001_TemporaryKey.pfx</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="fiscal">
+      <HintPath>dll\fiscal.dll</HintPath>
+    </Reference>
+    <Reference Include="MessagingToolkit.QRCode">
+      <HintPath>packages\MessagingToolkit.QRCode.1.3.0\lib\MessagingToolkit.QRCode.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Design, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="mva">
+      <HintPath>dll\mva.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=1.0.7.30071, Culture=neutral, PublicKeyToken=c5687fc88969c44d">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\MySql.Data.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceModel">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.ServiceModel.Web">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="classes\acesso.cs" />
+    <Compile Include="classes\arquivo.cs" />
+    <Compile Include="classes\card.cs" />
+    <Compile Include="classes\conectorEan13.cs" />
+    <Compile Include="classes\conectorECF64.cs" />
+    <Compile Include="classes\conectorExport-0201.cs" />
+    <Compile Include="classes\conectorExport0202.cs" />
+    <Compile Include="classes\conectorSpedFisco.cs" />
+    <Compile Include="classes\crypt.cs" />
+    <Compile Include="classes\dav.cs" />
+    <Compile Include="classes\estoqueA.cs" />
+    <Compile Include="classes\line.cs" />
+    <Compile Include="classes\movimento.cs" />
+    <Compile Include="classes\prd.cs" />
+    <Compile Include="classes\processamento.cs" />
+    <Compile Include="classes\processo.cs" />
+    <Compile Include="classes\pross.cs" />
+    <Compile Include="classes\sintegraClass.cs" />
+    <Compile Include="classes\conectorTEF.cs" />
+    <Compile Include="classes\geraNFe.cs" />
+    <Compile Include="classes\conectorDaruma.cs" />
+    <Compile Include="classes\conectorEpson.cs" />
+    <Compile Include="classes\conectorSweda.cs" />
+    <Compile Include="classes\conectorElgin.cs" />
+    <Compile Include="classes\conexaoECF.cs" />
+    <Compile Include="classes\superClass.cs" />
+    <Compile Include="classes\super_dados.cs" />
+    <Compile Include="classes\timedate.cs" />
+    <Compile Include="classes\util.cs" />
+    <Compile Include="conectorECF.cs" />
+    <Compile Include="classes\eventos.cs" />
+    <Compile Include="cupomImport.cs" />
+    <Compile Include="main\ATO0202\ConectorCF02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main\ATO0202\ConectorCF02.Designer.cs">
+      <DependentUpon>ConectorCF02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main\MG001\ConectorCF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main\MG001\ConectorCF.Designer.cs">
+      <DependentUpon>ConectorCF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main\PowerPacks.cs" />
+    <Compile Include="Recebimento\cep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recebimento\cep.designer.cs">
+      <DependentUpon>cep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recebimento\chequeRecebimento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recebimento\chequeRecebimento.designer.cs">
+      <DependentUpon>chequeRecebimento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="classes\algMd5.cs" />
+    <Compile Include="classes\conector_full_variable.cs" />
+    <Compile Include="classes\crediario.cs" />
+    <Compile Include="classes\dados.cs" />
+    <Compile Include="classes\instrucao.cs" />
+    <Compile Include="classes\validation.cs" />
+    <Compile Include="Recebimento\consultaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recebimento\consultaCliente.designer.cs">
+      <DependentUpon>consultaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recebimento\consultaClienteNome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recebimento\consultaClienteNome.designer.cs">
+      <DependentUpon>consultaClienteNome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recebimento\consultaFone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recebimento\consultaFone.designer.cs">
+      <DependentUpon>consultaFone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recebimento\editorPrestacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recebimento\editorPrestacao.designer.cs">
+      <DependentUpon>editorPrestacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main\mainConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main\mainConfig.Designer.cs">
+      <DependentUpon>mainConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main\msgInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main\msgInfo.Designer.cs">
+      <DependentUpon>msgInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recebimento\networkCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recebimento\networkCard.designer.cs">
+      <DependentUpon>networkCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recebimento\pequisaMuncipio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recebimento\pequisaMuncipio.designer.cs">
+      <DependentUpon>pequisaMuncipio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recebimento\pesquisaPessoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recebimento\pesquisaPessoa.designer.cs">
+      <DependentUpon>pesquisaPessoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Web References\br.gov.am.sefaz.homnfce\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\br.gov.rs.sefaz.nfe.homologacao\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\webserviceAutorizacaoLoteHomo\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\webserviceInutilizacaoHomo\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\webserviceRetAutorizacaoLoteHomo1\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\webserviceRetAutorizacaoLoteHomo\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="main\ATO0202\ConectorCF02.resx">
+      <DependentUpon>ConectorCF02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main\MG001\ConectorCF.resx">
+      <DependentUpon>ConectorCF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recebimento\cep.resx">
+      <DependentUpon>cep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recebimento\chequeRecebimento.resx">
+      <DependentUpon>chequeRecebimento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recebimento\consultaCliente.resx">
+      <DependentUpon>consultaCliente.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recebimento\consultaClienteNome.resx">
+      <DependentUpon>consultaClienteNome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recebimento\consultaFone.resx">
+      <DependentUpon>consultaFone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recebimento\editorPrestacao.resx">
+      <DependentUpon>editorPrestacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main\mainConfig.resx">
+      <DependentUpon>mainConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main\msgInfo.resx">
+      <DependentUpon>msgInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recebimento\networkCard.resx">
+      <DependentUpon>networkCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recebimento\pequisaMuncipio.resx">
+      <DependentUpon>pequisaMuncipio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recebimento\pesquisaPessoa.resx">
+      <DependentUpon>pesquisaPessoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recebimento\telefone.resx">
+      <DependentUpon>telefone.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recebimento\typeCard.resx">
+      <DependentUpon>typeCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include=".bin\git.cmd" />
+    <None Include=".bin\node.cmd" />
+    <None Include=".bin\npm.cmd" />
+    <None Include="conector.pfx" />
+    <None Include="conectorPDV001_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="classes\settings.cs" />
+    <Compile Include="Recebimento\telefone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recebimento\telefone.designer.cs">
+      <DependentUpon>telefone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recebimento\typeCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recebimento\typeCard.designer.cs">
+      <DependentUpon>typeCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\WebConectorServer\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <None Include="Web References\br.gov.am.sefaz.homnfce\NfeAutorizacao.wsdl" />
+    <None Include="Web References\br.gov.am.sefaz.homnfce\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\br.gov.rs.sefaz.nfe.homologacao\NFeAutorizacao.wsdl" />
+    <None Include="Web References\br.gov.rs.sefaz.nfe.homologacao\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\webserviceAutorizacaoLoteHomo\nfeAutorizacao.wsdl" />
+    <None Include="Web References\webserviceAutorizacaoLoteHomo\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Web References\webserviceInutilizacaoHomo\NfeInutilizacao2.wsdl" />
+    <None Include="Web References\webserviceInutilizacaoHomo\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\webserviceRetAutorizacaoLoteHomo1\nfeRetAutorizacao.wsdl" />
+    <None Include="Web References\webserviceRetAutorizacaoLoteHomo1\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\webserviceRetAutorizacaoLoteHomo\NfeRetAutorizacao.wsdl" />
+    <None Include="Web References\webserviceRetAutorizacaoLoteHomo\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cliente.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b5e66eda-104d-415b-a812-ce4c456124a8[1].jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business_bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo33k.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PreviousMenuButtonIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ParentMenuButtonIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NextMenuButtonIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Boss.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_ocup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Procurar24X24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Procurar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Boss3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\posCielo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tefba.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tef.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="D:\Erpro\team\conector\conector\Web References\nfeRetAutorizacao.wsdl">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\webserviceRetAutorizacaoLoteHomo1\</RelPath>
+      <UpdateFromURL>D:\Erpro\team\conector\conector\Web References\nfeRetAutorizacao.wsdl</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>conectorPDV001_webserviceRetAutorizacaoLoteHomo1_NfeRetAutorizacao</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="https://hnfe.fazenda.mg.gov.br/nfe2/services/NfeInutilizacao2%3fwsdl">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\webserviceInutilizacaoHomo\</RelPath>
+      <UpdateFromURL>https://hnfe.fazenda.mg.gov.br/nfe2/services/NfeInutilizacao2%3fwsdl</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>conectorPDV001_webserviceInutilizacaoHomo_NfeRetAutorizacao</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="https://hnfe.fazenda.mg.gov.br/nfe2/services/NfeAutorizacao%3fwsdl">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\webserviceAutorizacaoLoteHomo\</RelPath>
+      <UpdateFromURL>https://hnfe.fazenda.mg.gov.br/nfe2/services/NfeAutorizacao%3fwsdl</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>conectorPDV001_webserviceAutorizacaoLoteHomo_NfeAutorizacao</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="http://localhost:49159/Service.asmx">
+      <UrlBehavior>Static</UrlBehavior>
+      <RelPath>Web References\WebConectorServer\</RelPath>
+      <UpdateFromURL>http://localhost:49159/Service.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>conectorPDV001_WebConectorServer_Service</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="https://hnfe.fazenda.mg.gov.br/nfe2/services/NfeRetAutorizacao%3fwsdl">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\webserviceRetAutorizacaoLoteHomo\</RelPath>
+      <UpdateFromURL>https://hnfe.fazenda.mg.gov.br/nfe2/services/NfeRetAutorizacao%3fwsdl</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>conectorPDV001_webserviceRetAutorizacaoLoteHomo_NfeRetAutorizacao</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="https://homnfce.sefaz.am.gov.br/nfce-services-nac/services/NfeAutorizacao%3fwsdl">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\br.gov.am.sefaz.homnfce\</RelPath>
+      <UpdateFromURL>https://homnfce.sefaz.am.gov.br/nfce-services-nac/services/NfeAutorizacao%3fwsdl</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>conectorPDV001_br_gov_am_sefaz_homnfce_NfeAutorizacao</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="https://homologacao.nfe.sefaz.rs.gov.br/ws/NfeAutorizacao/NFeAutorizacao.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\br.gov.rs.sefaz.nfe.homologacao\</RelPath>
+      <UpdateFromURL>https://homologacao.nfe.sefaz.rs.gov.br/ws/NfeAutorizacao/NFeAutorizacao.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>conectorPDV001_br_gov_rs_sefaz_nfe_homologacao_NfeAutorizacao</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Web References\WebConectorServer\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Web References\WebConectorServer\Service.disco" />
+    <None Include="Web References\WebConectorServer\Service.wsdl">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cash_register.ico" />
+    <Content Include="internet.ico" />
+    <Content Include="Resources\1331296642_multifunction_printer.png" />
+    <Content Include="Resources\skin-icon.png" />
+    <Content Include="Resources\_32.ico" />
+    <None Include="Web References\br.gov.rs.sefaz.nfe.homologacao\NFeAutorizacao.disco" />
+    <None Include="Resources\App.ico" />
+    <Content Include="Resources\32.ico" />
+    <Content Include="Resources\Cancelar32X32.png" />
+    <Content Include="Resources\check.gif" />
+    <Content Include="Resources\nfe.png" />
+    <None Include="Resources\Padlock User Control.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <FileAssociation Include=".xxx">
+      <Visible>False</Visible>
+      <Description>soberanu</Description>
+      <Progid>1</Progid>
+      <DefaultIcon>internet.ico</DefaultIcon>
+    </FileAssociation>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\MSBuild.Node.0.5.1\build\MSBuild.Node.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\MSBuild.Node.0.5.1\build\MSBuild.Node.props'))" />
+    <Error Condition="!Exists('packages\MSBuild.Node.0.5.1\build\MSBuild.Node.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\MSBuild.Node.0.5.1\build\MSBuild.Node.targets'))" />
+    <Error Condition="!Exists('packages\MSBuild.Npm.0.5.1\build\MSBuild.Npm.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\MSBuild.Npm.0.5.1\build\MSBuild.Npm.props'))" />
+    <Error Condition="!Exists('packages\MSBuild.Npm.0.5.1\build\MSBuild.Npm.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\MSBuild.Npm.0.5.1\build\MSBuild.Npm.targets'))" />
+  </Target>
+  <Import Project="packages\MSBuild.Node.0.5.1\build\MSBuild.Node.targets" Condition="Exists('packages\MSBuild.Node.0.5.1\build\MSBuild.Node.targets')" />
+  <Import Project="packages\MSBuild.Npm.0.5.1\build\MSBuild.Npm.targets" Condition="Exists('packages\MSBuild.Npm.0.5.1\build\MSBuild.Npm.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

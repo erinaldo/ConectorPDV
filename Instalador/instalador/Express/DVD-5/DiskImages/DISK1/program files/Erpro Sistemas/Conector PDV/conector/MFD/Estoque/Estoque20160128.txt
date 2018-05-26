@@ -1,0 +1,21 @@
+E1196826320001000404333370054               Borges e BemFica Ltda.                            
+E2193865730001231             PRODUTO BALANCA                                   KG    +000000000
+E2193865730001232             Feij?o                                            KG    -000395755
+E2193865730001233             Arroz                                             KG    +000000000
+E2193865730001231             PRODUTO BALANCA                                   KG    +000000000
+E2193865730001232             Feij?o                                            KG    -000395755
+E2193865730001233             Arroz                                             KG    +000000000
+E21938657300012310000         PRODUTO TESTE ONE                                 UN    -000058000
+E21938657300012310001         PRODUTO TWO                                       UN    -000036000
+E21938657300012310002         Produto de Limpeza                                UN    -000070000
+E21938657300012310003         Produtoteste                                      UN    -000020000
+E21938657300012310004         Produtoteste2                                     UN    -000062000
+E21938657300012310005         Produtoteste3                                     UN    -000018000
+E21938657300012310006         Produto teste4                                    UN    +000005000
+E21938657300012310007         Calcado Conector                                  UN    +000000000
+E21968263200010010000         PRODUTO TESTE                                     UN    +000001000
+E21968263200010010001         PRODUTO TESTE TWO                                 UN    +000005000
+E21968263200010010002         produto tres                                      UN    +000005000
+E21968263200010010003         TV CONECTOR                                       UN    +000001000
+E3BE101310100700000619 ECF-IF BEMATECH            MP-4200 TH FI       20160128080045
+E9196826320001000404333370054 591755

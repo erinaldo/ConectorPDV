@@ -1,0 +1,60 @@
+E1193865730001230022756120081 3070316670    FAT AUTOMACAO E CONSULTORIA LTDA ME               
+E21938657300012310000         TV 32                                             UN    +000000000
+E21938657300012310001         TV 32                                             UN    +000000000
+E21938657300012310002         TV CCE 32                                         UN    +000077000
+E21938657300012310003         TV Plilco 50                                      UN    +000038000
+E21938657300012310004         TV CCE 21                                         UN    +000010000
+E21938657300012310005         Geladeira Electrolux                              UN    +000074000
+E21938657300012310000         Carnes bovinos                                    UN    +000000000
+E21938657300012310001         Carne Suina                                       KG    +000000000
+E2193865730001231             Costela de boi                                    UN    +000000000
+E21938657300012310000         Carnes bovinos                                    UN    +000000000
+E21938657300012310001         Carne Suina                                       KG    +000000000
+E2193865730001231             Costela de boi                                    UN    +000000000
+E21938657300012310000         Carnes bovinos                                    UN    +000000000
+E21938657300012310001         Carne Suina                                       KG    -000001000
+E2193865730001231             Costela de boi                                    UN    +000000000
+E21938657300012310000         Carnes bovinos                                    UN    +000000000
+E21938657300012310001         Carne Suina                                       KG    -000093610
+E2193865730001231             Costela de boi                                    UN    +000000000
+E2193865730001232             Feij?o                                            KG    +000000000
+E2193865730001233             Arroz                                             KG    +000000000
+E21938657300012310000         Carnes bovinos                                    UN    +000000000
+E21938657300012310001         Carne Suina                                       KG    -000093610
+E2193865730001231             PRODUTO BALANCA                                   KG    +000000000
+E21938657300012310000         PRODUTO TESTE ONE                                 UN    -000025000
+E21938657300012310001         PRODUTO TWO                                       UN    +000003000
+E21938657300012310002         Produto de Limpeza                                UN    -000023000
+E21938657300012310003         Produtoteste                                      UN    +000000000
+E21938657300012310004         Produtoteste2                                     UN    -000050000
+E21938657300012310005         Produtoteste3                                     UN    +000001000
+E21938657300012310006         Produto teste4                                    UN    +000012000
+E2193865730001231             PRODUTO BALANCA                                   KG    +000000000
+E21938657300012310000         PRODUTO TESTE ONE                                 UN    -000025000
+E21938657300012310001         PRODUTO TWO                                       UN    +000003000
+E21938657300012310002         Produto de Limpeza                                UN    -000023000
+E21938657300012310003         Produtoteste                                      UN    +000000000
+E21938657300012310004         Produtoteste2                                     UN    -000050000
+E21938657300012310005         Produtoteste3                                     UN    +000001000
+E21938657300012310006         Produto teste4                                    UN    +000012000
+E21938657300012310007         Calcado Conector                                  UN    +000000000
+E2193865730001231             PRODUTO BALANCA                                   KG    +000000000
+E21938657300012310000         PRODUTO TESTE ONE                                 UN    -000025000
+E21938657300012310001         PRODUTO TWO                                       UN    +000003000
+E21938657300012310002         Produto de Limpeza                                UN    -000023000
+E21938657300012310003         Produtoteste                                      UN    +000000000
+E21938657300012310004         Produtoteste2                                     UN    -000050000
+E21938657300012310005         Produtoteste3                                     UN    +000001000
+E21938657300012310006         Produto teste4                                    UN    +000012000
+E21938657300012310007         Calcado Conector                                  UN    +000000000
+E2193865730001231             PRODUTO BALANCA                                   KG    +000000000
+E21938657300012310000         PRODUTO TESTE ONE                                 UN    -000025000
+E21938657300012310001         PRODUTO TWO                                       UN    +000003000
+E21938657300012310002         Produto de Limpeza                                UN    -000023000
+E21938657300012310003         Produtoteste                                      UN    +000000000
+E21938657300012310004         Produtoteste2                                     UN    -000050000
+E21938657300012310005         Produtoteste3                                     UN    +000001000
+E21938657300012310006         Produto teste4                                    UN    +000012000
+E21938657300012310007         Calcado Conector                                  UN    +000000000
+E3BE101310100700000619 ECF-IF BEMATECH            MP-4200 TH FI       20151230100020
+E9193865730001230022756120081 487755

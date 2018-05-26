@@ -1,0 +1,12 @@
+06/05/2015 09:43:14 - <===> DLL ATTACH <===>
+06/05/2015 09:43:14 - =================================================================================================================================
+06/05/2015 09:43:14 - -->> BemaGeraTxtPorData(char * strMfdTdmFileName, char * strReportFileName, char *initialDate, char *finalDate, const char *printerKey)
+06/05/2015 09:43:14 - Parâmetros:('C:\Download.MFD', 'c:\conector\MFD\espelho-20150506-094305.txt', '03052015', '04052015', '')
+06/05/2015 09:43:14 - Validando assinatura digital
+06/05/2015 09:43:14 - Erro no parametro chave da impressora - O tamanho nao confere com o esperado!
+06/05/2015 09:43:14 - GetFileType: Arquivo TDM
+06/05/2015 09:43:14 - Processando Arquivo TDM!
+06/05/2015 09:43:14 - Arquivo TDM Processado!
+06/05/2015 09:43:14 - Gerando Segunda Via da MFD!
+06/05/2015 09:43:15 - Fim da Geração da Segunda Via da MFD!
+06/05/2015 09:43:15 - <===> DLL DETACH <===>

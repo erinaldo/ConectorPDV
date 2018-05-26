@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://www.consultacpf.com/webservices/test-drive/consultacpf.asmx?wsdl" docRef="http://www.consultacpf.com/webservices/test-drive/consultacpf.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://www.consultacpf.com/webservices/test-drive/consultacpf.asmx" xmlns:q1="ConsultaCPF" binding="q1:ConsultaCPFWebServiceTestDriveSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://www.consultacpf.com/webservices/test-drive/consultacpf.asmx" xmlns:q2="ConsultaCPF" binding="q2:ConsultaCPFWebServiceTestDriveSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

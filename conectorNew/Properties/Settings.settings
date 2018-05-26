@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="conectorPDV001.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="conectorPDV001_WebConectorServer_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://192.168.1.254:8081/Service.asmx</Value>
+    </Setting>
+    <Setting Name="conectorPDV001_webserviceAutorizacaoLoteHomo_NfeAutorizacao" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://hnfe.fazenda.mg.gov.br/nfe2/services/NfeAutorizacao</Value>
+    </Setting>
+    <Setting Name="conectorPDV001_webserviceInutilizacaoHomo_NfeRetAutorizacao" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://hnfe.fazenda.mg.gov.br/nfe2/services/NfeInutilizacao2</Value>
+    </Setting>
+    <Setting Name="conectorPDV001_webserviceRetAutorizacaoLoteHomo1_NfeRetAutorizacao" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://hnfe.fazenda.mg.gov.br/nfe2/services/NfeRetAutorizacao</Value>
+    </Setting>
+    <Setting Name="conectorPDV001_br_gov_rs_sefaz_nfe_homologacao_NfeAutorizacao" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://homologacao.nfe.sefaz.rs.gov.br/ws/NfeAutorizacao/NFeAutorizacao.asmx</Value>
+    </Setting>
+    <Setting Name="conectorPDV001_webserviceRetAutorizacaoLoteHomo_NfeRetAutorizacao" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://hnfe.fazenda.mg.gov.br/nfe2/services/NfeRetAutorizacao</Value>
+    </Setting>
+    <Setting Name="conectorPDV001_br_gov_am_sefaz_homnfce_NfeAutorizacao" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://homnfce.sefaz.am.gov.br/nfce-services-nac/services/NfeAutorizacao</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

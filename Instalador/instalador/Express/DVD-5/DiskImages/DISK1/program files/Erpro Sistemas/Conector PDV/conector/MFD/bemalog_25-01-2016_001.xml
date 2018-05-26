@@ -1,0 +1,2783 @@
+<?xml version="1.0" encoding="ISO8859-1"?>
+<bematech>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="25-01-2016 10:27:56:910">
+		<Return Time="25-01-2016 10:28:16:972">-6</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="25-01-2016 10:28:17:979">
+		<Return Time="25-01-2016 10:28:38:007">-6</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<Bematech_FI_HabilitaDesabilitaRetornoEstendidoMFD Time="25-01-2016 10:28:42:209">
+		<Return Time="25-01-2016 10:28:42:210">1</Return>
+	</Bematech_FI_HabilitaDesabilitaRetornoEstendidoMFD>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="25-01-2016 10:28:42:212">
+		<Return Time="25-01-2016 10:28:55:786">-6</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="25-01-2016 10:28:55:790">
+		<Return Time="25-01-2016 10:28:56:091">-6</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<readBemaFIFile Time="25-01-2016 10:30:00:903">
+		<NivelLog Time="25-01-2016 10:30:00:904">1</NivelLog>
+		<Path Time="25-01-2016 10:30:00:904">C:\conector\MFD\</Path>
+		<BemaFI_path Time="25-01-2016 10:30:00:906">C:\Windows\system32\bemafi32.dll</BemaFI_path>
+		<BemaFI_version Time="25-01-2016 10:30:00:907">7,0,0,74</BemaFI_version>
+		<BemaFI_path_configuracao Time="25-01-2016 10:30:00:908">C:\Windows\system32\bemafi.xml</BemaFI_path_configuracao>
+		<Path_manutencao Time="25-01-2016 10:30:00:908">C:\Windows\system32\manutencao.xml</Path_manutencao>
+		<BemaMFD_path Time="25-01-2016 10:30:00:912">C:\Windows\system32\bemaMFD.dll</BemaMFD_path>
+		<BemaMFD_version Time="25-01-2016 10:30:00:913">2,1,1,1</BemaMFD_version>
+		<BemaMFD2_path Time="25-01-2016 10:30:00:917">C:\Windows\system32\bemaMFD2.dll</BemaMFD2_path>
+		<BemaMFD2_version Time="25-01-2016 10:30:00:918">2,1,1,5</BemaMFD2_version>
+		<BemaMFD3_path Time="25-01-2016 10:30:00:922">C:\Windows\system32\bemaMFD3.dll</BemaMFD3_path>
+		<BemaMFD3_version Time="25-01-2016 10:30:00:925">1,0,0,0</BemaMFD3_version>
+		<Porta Time="25-01-2016 10:30:00:926">COM3</Porta>
+		<BaudRate Time="25-01-2016 10:30:00:927">9600</BaudRate>
+		<Status Time="25-01-2016 10:30:00:928">0</Status>
+		<Retorno Time="25-01-2016 10:30:00:929">0</Retorno>
+		<StatusFuncao Time="25-01-2016 10:30:00:930">0</StatusFuncao>
+		<ControlePorta Time="25-01-2016 10:30:00:931">1</ControlePorta>
+		<ModoGaveta Time="25-01-2016 10:30:00:931">0</ModoGaveta>
+		<CrLfVinculado Time="25-01-2016 10:30:00:932">1</CrLfVinculado>
+		<CrLfGerencial Time="25-01-2016 10:30:00:933">1</CrLfGerencial>
+		<TimeOutReducaoZ Time="25-01-2016 10:30:00:933">5940</TimeOutReducaoZ>
+		<TimeOutGerencialExtendido Time="25-01-2016 10:30:00:934">40</TimeOutGerencialExtendido>
+		<ConfigRede Time="25-01-2016 10:30:00:934">0</ConfigRede>
+		<Tentativas Time="25-01-2016 10:30:00:935">10</Tentativas>
+		<WakMilisegundos Time="25-01-2016 10:30:00:936">40</WakMilisegundos>
+		<TimeoutSegundos Time="25-01-2016 10:30:00:936">20</TimeoutSegundos>
+		<VersaoAtoCotepe Time="25-01-2016 10:30:00:937">1</VersaoAtoCotepe>
+		<CleanValidation Time="25-01-2016 10:30:00:937">0</CleanValidation>
+		<ProtocoloUnico Time="25-01-2016 10:30:00:938">1</ProtocoloUnico>
+		<GerarRFD Time="25-01-2016 10:30:00:939">0</GerarRFD>
+		<CAT52 Time="25-01-2016 10:30:00:940">0</CAT52>
+		<CupomMania Time="25-01-2016 10:30:00:941">0</CupomMania>
+		<MinasLegal Time="25-01-2016 10:30:00:942">0</MinasLegal>
+		<NotaFiscalParanaense Time="25-01-2016 10:30:00:942">0</NotaFiscalParanaense>
+		<NotaLegal Time="25-01-2016 10:30:00:943">0</NotaLegal>
+		<ParaibaLegal Time="25-01-2016 10:30:00:944">0</ParaibaLegal>
+		<CupomAdicional Time="25-01-2016 10:30:00:945">0</CupomAdicional>
+		<Impressora Time="25-01-2016 10:30:00:945">1</Impressora>
+		<EmulMFD Time="25-01-2016 10:30:00:946">0</EmulMFD>
+		<Aliquota01 Time="25-01-2016 10:30:00:947"></Aliquota01>
+		<Aliquota02 Time="25-01-2016 10:30:00:947"></Aliquota02>
+		<Aliquota03 Time="25-01-2016 10:30:00:948"></Aliquota03>
+		<Aliquota04 Time="25-01-2016 10:30:00:948"></Aliquota04>
+		<Aliquota05 Time="25-01-2016 10:30:00:949"></Aliquota05>
+		<Aliquota06 Time="25-01-2016 10:30:00:950"></Aliquota06>
+		<Aliquota07 Time="25-01-2016 10:30:00:950"></Aliquota07>
+		<Aliquota08 Time="25-01-2016 10:30:00:951"></Aliquota08>
+		<Aliquota09 Time="25-01-2016 10:30:00:952"></Aliquota09>
+		<Aliquota10 Time="25-01-2016 10:30:00:953"></Aliquota10>
+		<Aliquota11 Time="25-01-2016 10:30:00:953"></Aliquota11>
+		<Aliquota12 Time="25-01-2016 10:30:00:954"></Aliquota12>
+		<Aliquota13 Time="25-01-2016 10:30:00:955"></Aliquota13>
+		<Aliquota14 Time="25-01-2016 10:30:00:956"></Aliquota14>
+		<Aliquota15 Time="25-01-2016 10:30:00:956"></Aliquota15>
+		<Aliquota16 Time="25-01-2016 10:30:00:957"></Aliquota16>
+		<COO Time="25-01-2016 10:30:00:958"></COO>
+		<NumeroAplicativo Time="25-01-2016 10:30:00:959">ConectorPDV</NumeroAplicativo>
+		<CNPJ Time="25-01-2016 10:30:00:960">19386573000123</CNPJ>
+		<IE Time="25-01-2016 10:30:00:961">0022756120081</IE>
+		<IM Time="25-01-2016 10:30:00:961">3070316670</IM>
+		<RazaoSocial Time="25-01-2016 10:30:00:962">Fat Automacao e Consultoria Ltda</RazaoSocial>
+		<NomeAplicativo Time="25-01-2016 10:30:00:963">ConectorPDV</NomeAplicativo>
+		<Versao Time="25-01-2016 10:30:00:964">1</Versao>
+		<Linha1 Time="25-01-2016 10:30:00:965"></Linha1>
+		<Linha2 Time="25-01-2016 10:30:00:965"></Linha2>
+		<IM_ECF Time="25-01-2016 10:30:00:966"></IM_ECF>
+		<UF Time="25-01-2016 10:30:00:967"></UF>
+		<Cidade Time="25-01-2016 10:30:00:967"></Cidade>
+		<Favorecido Time="25-01-2016 10:30:00:968"></Favorecido>
+		<Return Time="25-01-2016 10:30:00:969">1</Return>
+	</readBemaFIFile>
+	<Bematech_FI_ModeloImpressora CV="0909" Time="25-01-2016 10:30:00:972">
+		<ModeloImpressora Time="25-01-2016 10:30:01:286">MP4200FI</ModeloImpressora>
+		<Return Time="25-01-2016 10:30:01:287">1</Return>
+	</Bematech_FI_ModeloImpressora>
+	<Bematech_FI_VersaoFirmwareCV0909 CV="0909" Time="25-01-2016 10:30:01:288">
+		<Versao Time="25-01-2016 10:30:01:556">010000</Versao>
+		<Return Time="25-01-2016 10:30:01:557">1</Return>
+	</Bematech_FI_VersaoFirmwareCV0909>
+	<Bematech_FI_RetornoAliquotasCV0909 CV="0909" Time="25-01-2016 10:30:01:558">
+		<Aliquotas Time="25-01-2016 10:30:01:818">1800,1200,0700,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000</Aliquotas>
+		<Return Time="25-01-2016 10:30:01:820">1</Return>
+	</Bematech_FI_RetornoAliquotasCV0909>
+	<Bematech_FI_TabelaFormasPagamento CV="0909" Time="25-01-2016 10:30:01:823">
+		<TabelaFormasPagamento Time="25-01-2016 10:30:02:072">Dinheiro,0,Cheque,1,Crediario,1,Convenio,1,Cartao Credito,1,Cartao Debito,1,Boleto,0,Duplicata,0,Recebimento,0,Vale,0</TabelaFormasPagamento>
+		<Return Time="25-01-2016 10:30:02:073">1</Return>
+	</Bematech_FI_TabelaFormasPagamento>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="25-01-2016 10:30:02:074">
+		<Return Time="25-01-2016 10:30:02:154">1</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<Bematech_FI_NumeroSerieCV0909 CV="0909" Time="25-01-2016 10:30:02:322">
+		<SerialNumber Time="25-01-2016 10:30:02:610">BE101310100700000619</SerialNumber>
+		<Return Time="25-01-2016 10:30:02:611">1</Return>
+	</Bematech_FI_NumeroSerieCV0909>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="25-01-2016 10:30:03:286">
+		<Return Time="25-01-2016 10:30:03:370">1</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="25-01-2016 10:30:03:405">
+		<Return Time="25-01-2016 10:30:03:456">1</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<Bematech_FI_NumeroCaixa CV="0909" Time="25-01-2016 10:30:03:458">
+		<NumeroCaixa Time="25-01-2016 10:30:03:740">001</NumeroCaixa>
+		<Return Time="25-01-2016 10:30:03:742">1</Return>
+	</Bematech_FI_NumeroCaixa>
+	<Bematech_FI_NumeroLoja CV="0909" Time="25-01-2016 10:30:03:744">
+		<NumeroLoja Time="25-01-2016 10:30:03:996">001</NumeroLoja>
+		<Return Time="25-01-2016 10:30:03:997">1</Return>
+	</Bematech_FI_NumeroLoja>
+	<Bematech_FI_HabilitaDesabilitaRetornoEstendidoMFD Time="25-01-2016 10:30:08:292">
+		<Return Time="25-01-2016 10:30:08:293">1</Return>
+	</Bematech_FI_HabilitaDesabilitaRetornoEstendidoMFD>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="25-01-2016 10:30:08:294">
+		<Return Time="25-01-2016 10:30:08:333">1</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="25-01-2016 10:30:08:338">
+		<Return Time="25-01-2016 10:30:08:421">1</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<Bematech_FI_DataHoraGravacaoUsuarioSWBasicoMFAdicional CV="0909" Time="25-01-2016 10:30:08:425">
+		<Bematech_FI_NumeroReducoes CV="0909" Time="25-01-2016 10:30:08:428">
+			<NumeroReducoes Time="25-01-2016 10:30:08:714">0206</NumeroReducoes>
+			<Return Time="25-01-2016 10:30:08:715">1</Return>
+		</Bematech_FI_NumeroReducoes>
+		<Bematech_FI_LeituraMemoriaFiscalSerialReducaoCV0909 CV="0909" Time="25-01-2016 10:30:08:716">
+			<initialReduction Time="25-01-2016 10:30:08:718">0206</initialReduction>
+			<finalReduction Time="25-01-2016 10:30:08:719">0206</finalReduction>
+			<readFlag Time="25-01-2016 10:30:08:720">S</readFlag>
+			<Return Time="25-01-2016 10:30:11:254">1</Return>
+		</Bematech_FI_LeituraMemoriaFiscalSerialReducaoCV0909>
+		<UserDate Time="25-01-2016 10:30:11:255">12/03/2014 13:36:35 </UserDate>
+		<SBDate Time="25-01-2016 10:30:11:256">18/10/2013 11:39:48 </SBDate>
+		<AdditionalLetter Time="25-01-2016 10:30:11:257"> </AdditionalLetter>
+		<Return Time="25-01-2016 10:30:11:257">1</Return>
+	</Bematech_FI_DataHoraGravacaoUsuarioSWBasicoMFAdicional>
+	<Bematech_FI_MarcaModeloTipoImpressoraMFD CV="0909" Time="25-01-2016 10:30:11:262">
+		<Bematech_FI_MarcaImpressora CV="0909" Time="25-01-2016 10:30:11:263">
+			<MarcaImpressora Time="25-01-2016 10:30:11:465">BEMATECH       </MarcaImpressora>
+			<Return Time="25-01-2016 10:30:11:466">1</Return>
+		</Bematech_FI_MarcaImpressora>
+		<Bematech_FI_ModeloImpressora CV="0909" Time="25-01-2016 10:30:11:466">
+			<ModeloImpressora Time="25-01-2016 10:30:11:760">MP4200FI</ModeloImpressora>
+			<Return Time="25-01-2016 10:30:11:761">1</Return>
+		</Bematech_FI_ModeloImpressora>
+		<Bematech_FI_TipoImpressora CV="0909" Time="25-01-2016 10:30:11:762">
+			<TipoImpressora Time="25-01-2016 10:30:12:011">ECF-IF</TipoImpressora>
+			<Return Time="25-01-2016 10:30:12:012">1</Return>
+		</Bematech_FI_TipoImpressora>
+		<Marca Time="25-01-2016 10:30:12:012">BEMATECH       </Marca>
+		<Modelo Time="25-01-2016 10:30:12:013">MP-4200 TH FI</Modelo>
+		<Tipo Time="25-01-2016 10:30:12:014">ECF-IF</Tipo>
+		<Return Time="25-01-2016 10:30:12:014">1</Return>
+	</Bematech_FI_MarcaModeloTipoImpressoraMFD>
+	<Bematech_FI_NumeroSerieCV0909 CV="0909" Time="25-01-2016 10:30:12:016">
+		<SerialNumber Time="25-01-2016 10:30:12:267">BE101310100700000619</SerialNumber>
+		<Return Time="25-01-2016 10:30:12:268">1</Return>
+	</Bematech_FI_NumeroSerieCV0909>
+	<Bematech_FI_VersaoFirmware CV="0909" Time="25-01-2016 10:30:12:281">
+		<Versao Time="25-01-2016 10:30:12:567">0100</Versao>
+		<Return Time="25-01-2016 10:30:12:567">1</Return>
+	</Bematech_FI_VersaoFirmware>
+	<Bematech_FI_NumeroSubstituicoesProprietario CV="0909" Time="25-01-2016 10:30:12:569">
+		<NumeroSubstituicoes Time="25-01-2016 10:30:12:569">0001</NumeroSubstituicoes>
+		<Return Time="25-01-2016 10:30:12:570">-1</Return>
+	</Bematech_FI_NumeroSubstituicoesProprietario>
+	<Bematech_FI_DataHoraReducao CV="0909" Time="25-01-2016 10:30:12:571">
+		<Bematech_FI_DadosUltimaReducaoCV0909 CV="0909" Time="25-01-2016 10:30:12:572">
+			<Bematech_FI_NumeroReducoes CV="0909" Time="25-01-2016 10:30:12:572">
+				<NumeroReducoes Time="25-01-2016 10:30:12:819">0206</NumeroReducoes>
+				<Return Time="25-01-2016 10:30:12:819">1</Return>
+			</Bematech_FI_NumeroReducoes>
+			<ReductionData Time="25-01-2016 10:30:13:571">206,25012016,25012016102219 ,1,6407,6436,1,4030,000,000,000,000,000,000,1000,3,T,1800,4030,T,1200,000,T,0700,000,F1,0000,000,I1,0000,000,N1,0000,000,FS1,0000,000,IS1,0000,000,NS1,0000,000,010000,19386573000123,0022756120081,3070316670</ReductionData>
+			<Return Time="25-01-2016 10:30:13:572">1</Return>
+		</Bematech_FI_DadosUltimaReducaoCV0909>
+		<Date Time="25-01-2016 10:30:13:572">250116</Date>
+		<Hour Time="25-01-2016 10:30:13:573">102219</Hour>
+		<Return Time="25-01-2016 10:30:13:573">1</Return>
+	</Bematech_FI_DataHoraReducao>
+	<Bematech_FI_VendaBruta CV="0909" Time="25-01-2016 10:30:13:574">
+		<VendaBruta Time="25-01-2016 10:30:13:823">000000000000000000</VendaBruta>
+		<Return Time="25-01-2016 10:30:13:824">1</Return>
+	</Bematech_FI_VendaBruta>
+	<Bematech_FI_DadosUltimaReducaoMFD CV="0909" Time="25-01-2016 10:30:13:825">
+		<Bematech_FI_DadosUltimaReducaoCV0909 CV="0909" Time="25-01-2016 10:30:13:826">
+			<Bematech_FI_NumeroReducoes CV="0909" Time="25-01-2016 10:30:13:826">
+				<NumeroReducoes Time="25-01-2016 10:30:14:075">0206</NumeroReducoes>
+				<Return Time="25-01-2016 10:30:14:075">1</Return>
+			</Bematech_FI_NumeroReducoes>
+			<ReductionData Time="25-01-2016 10:30:14:777">206,25012016,25012016102219 ,1,6407,6436,1,4030,000,000,000,000,000,000,1000,3,T,1800,4030,T,1200,000,T,0700,000,F1,0000,000,I1,0000,000,N1,0000,000,FS1,0000,000,IS1,0000,000,NS1,0000,000,010000,19386573000123,0022756120081,3070316670</ReductionData>
+			<Return Time="25-01-2016 10:30:14:778">1</Return>
+		</Bematech_FI_DadosUltimaReducaoCV0909>
+		<Bematech_FI_GrandeTotalReducaoZ CV="0909" Time="25-01-2016 10:30:14:780">
+			<number Time="25-01-2016 10:30:14:780">0206</number>
+			<ValorInicial Time="25-01-2016 10:30:15:346">6873205793</ValorInicial>
+			<ValorFinal Time="25-01-2016 10:30:15:347">6873209823</ValorFinal>
+			<Return Time="25-01-2016 10:30:15:348">1</Return>
+		</Bematech_FI_GrandeTotalReducaoZ>
+		<ReductionData Time="25-01-2016 10:30:15:351">00,0001,0206,006436,000000,000000,000000,000000,0000,0000,000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0000,0000,0000,000000006873209823,00000000004030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,00000000000000,00000000000000,00000000000000,00000000000000,00000000000000,00000000000000,00000000000000,00000000000000,00000000000000,00000000000000,00000000000000,00000000000000,00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,00000000000000,00000000000000,00000000000000,00000000000000,00000000000000,1800120007000000000000000000000000000000000000000000000000000000,250116</ReductionData>
+		<Modo Time="25-01-2016 10:30:15:352">00</Modo>
+		<ContadorReinicioOperacao Time="25-01-2016 10:30:15:352">0001</ContadorReinicioOperacao>
+		<ContadorReducaoZ Time="25-01-2016 10:30:15:353">0206</ContadorReducaoZ>
+		<COO Time="25-01-2016 10:30:15:354">006436</COO>
+		<ContadorGeralOperacoesNaoFiscais Time="25-01-2016 10:30:15:354">000000</ContadorGeralOperacoesNaoFiscais>
+		<ContadorCupomFiscal Time="25-01-2016 10:30:15:355">000000</ContadorCupomFiscal>
+		<ContadorGeralRelatorioGerencial Time="25-01-2016 10:30:15:356">000000</ContadorGeralRelatorioGerencial>
+		<ContadorFitaDetalheEmitida Time="25-01-2016 10:30:15:356">000000</ContadorFitaDetalheEmitida>
+		<ContadorOperacaoNaoFiscalCancelada Time="25-01-2016 10:30:15:357">0000</ContadorOperacaoNaoFiscalCancelada>
+		<ContadorCupomFiscalCandelado Time="25-01-2016 10:30:15:357">0000</ContadorCupomFiscalCandelado>
+		<ContadorEspecificoOperacoesNaoFiscais Time="25-01-2016 10:30:15:358">000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</ContadorEspecificoOperacoesNaoFiscais>
+		<ContadorEspecificoRelatoriosGerenciais Time="25-01-2016 10:30:15:358">000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</ContadorEspecificoRelatoriosGerenciais>
+		<ContadorComprovantesDebitoCredito Time="25-01-2016 10:30:15:359">0000</ContadorComprovantesDebitoCredito>
+		<ContadorComprovantesDebitoCreditoNaoEmitidos Time="25-01-2016 10:30:15:359">0000</ContadorComprovantesDebitoCreditoNaoEmitidos>
+		<ContadorComprovantesDebitoCreditoCancelados Time="25-01-2016 10:30:15:360">0000</ContadorComprovantesDebitoCreditoCancelados>
+		<GrandeTotal Time="25-01-2016 10:30:15:360">000000006873209823</GrandeTotal>
+		<TotalizadoresParciaisTributados Time="25-01-2016 10:30:15:361">00000000004030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</TotalizadoresParciaisTributados>
+		<TotalizadorIsencaoICMS Time="25-01-2016 10:30:15:361">00000000000000</TotalizadorIsencaoICMS>
+		<TotalizadorNaoIncidenciaICMS Time="25-01-2016 10:30:15:362">00000000000000</TotalizadorNaoIncidenciaICMS>
+		<TotalizadorSubstituicaoTributariaICMS Time="25-01-2016 10:30:15:363">00000000000000</TotalizadorSubstituicaoTributariaICMS>
+		<TotalizadorIsencaoISSQN Time="25-01-2016 10:30:15:363">00000000000000</TotalizadorIsencaoISSQN>
+		<TotalizadorNaoIncidenciaISSQN Time="25-01-2016 10:30:15:364">00000000000000</TotalizadorNaoIncidenciaISSQN>
+		<TotalizadorSubstituicaoTributariaISSQN Time="25-01-2016 10:30:15:364">00000000000000</TotalizadorSubstituicaoTributariaISSQN>
+		<TotalizadorDescontosICSM Time="25-01-2016 10:30:15:365">00000000000000</TotalizadorDescontosICSM>
+		<TotalizadorDescontosISSQN Time="25-01-2016 10:30:15:365">00000000000000</TotalizadorDescontosISSQN>
+		<TotalizadorAcrescimosICMS Time="25-01-2016 10:30:15:366">00000000000000</TotalizadorAcrescimosICMS>
+		<TotalizadorAcrescimosISSQN Time="25-01-2016 10:30:15:366">00000000000000</TotalizadorAcrescimosISSQN>
+		<TotalizadorCancelamentosICMS Time="25-01-2016 10:30:15:367">00000000000000</TotalizadorCancelamentosICMS>
+		<TotalizadorCancelamentosISSQN Time="25-01-2016 10:30:15:367">00000000000000</TotalizadorCancelamentosISSQN>
+		<TotalizadoresParciaisNaoSujeitosICMS Time="25-01-2016 10:30:15:368">00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</TotalizadoresParciaisNaoSujeitosICMS>
+		<Sangria Time="25-01-2016 10:30:15:368">00000000000000</Sangria>
+		<Suprimento Time="25-01-2016 10:30:15:369">00000000000000</Suprimento>
+		<TotalizadorCancelamentosNaoFiscais Time="25-01-2016 10:30:15:369">00000000000000</TotalizadorCancelamentosNaoFiscais>
+		<TotalizadorDescontosNaoFiscais Time="25-01-2016 10:30:15:370">00000000000000</TotalizadorDescontosNaoFiscais>
+		<TotalizadorAcrescimosNaoFiscais Time="25-01-2016 10:30:15:370">00000000000000</TotalizadorAcrescimosNaoFiscais>
+		<AliquotasTributarias Time="25-01-2016 10:30:15:371">1800120007000000000000000000000000000000000000000000000000000000</AliquotasTributarias>
+		<DataMovimento Time="25-01-2016 10:30:15:372">250116</DataMovimento>
+		<Return Time="25-01-2016 10:30:15:372">1</Return>
+	</Bematech_FI_DadosUltimaReducaoMFD>
+	<Bematech_FI_DataHoraReducao CV="0909" Time="25-01-2016 10:30:15:399">
+		<Bematech_FI_DadosUltimaReducaoCV0909 CV="0909" Time="25-01-2016 10:30:15:400">
+			<Bematech_FI_NumeroReducoes CV="0909" Time="25-01-2016 10:30:15:401">
+				<NumeroReducoes Time="25-01-2016 10:30:15:649">0206</NumeroReducoes>
+				<Return Time="25-01-2016 10:30:15:649">1</Return>
+			</Bematech_FI_NumeroReducoes>
+			<ReductionData Time="25-01-2016 10:30:16:351">206,25012016,25012016102219 ,1,6407,6436,1,4030,000,000,000,000,000,000,1000,3,T,1800,4030,T,1200,000,T,0700,000,F1,0000,000,I1,0000,000,N1,0000,000,FS1,0000,000,IS1,0000,000,NS1,0000,000,010000,19386573000123,0022756120081,3070316670</ReductionData>
+			<Return Time="25-01-2016 10:30:16:352">1</Return>
+		</Bematech_FI_DadosUltimaReducaoCV0909>
+		<Date Time="25-01-2016 10:30:16:353">250116</Date>
+		<Hour Time="25-01-2016 10:30:16:354">102219</Hour>
+		<Return Time="25-01-2016 10:30:16:355">1</Return>
+	</Bematech_FI_DataHoraReducao>
+	<Bematech_FI_VerificaTruncamento CV="0909" Time="25-01-2016 10:30:16:358">
+		<Flag Time="25-01-2016 10:30:16:416">0</Flag>
+		<Return Time="25-01-2016 10:30:16:420">1</Return>
+	</Bematech_FI_VerificaTruncamento>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:30:16:423">
+		<TotalGrid Time="25-01-2016 10:30:16:710">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 10:30:16:711">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:30:16:731">
+		<TotalGrid Time="25-01-2016 10:30:16:982">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 10:30:16:983">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_GrandeTotalDescriptografado Time="25-01-2016 10:30:16:986">
+		<encryptedTotalGrid Time="25-01-2016 10:30:16:988">DL¥¬€*ÃNjcºDö’ Î</encryptedTotalGrid>
+		<totalGrid Time="25-01-2016 10:30:16:989">000000006873209823</totalGrid>
+		<Return Time="25-01-2016 10:30:16:990">1</Return>
+	</Bematech_FI_GrandeTotalDescriptografado>
+	<Bematech_FI_NumeroLoja CV="0909" Time="25-01-2016 10:30:16:995">
+		<NumeroLoja Time="25-01-2016 10:30:17:238">001</NumeroLoja>
+		<Return Time="25-01-2016 10:30:17:240">1</Return>
+	</Bematech_FI_NumeroLoja>
+	<Bematech_FI_CGC_IE CV="0909" Time="25-01-2016 10:30:17:242">
+		<Bematech_FI_CNPJCV0909 CV="0909" Time="25-01-2016 10:30:17:244">
+			<CNPJ Time="25-01-2016 10:30:17:491">19386573000123</CNPJ>
+			<Return Time="25-01-2016 10:30:17:493">1</Return>
+		</Bematech_FI_CNPJCV0909>
+		<Bematech_FI_InscricaoEstadual CV="0909" Time="25-01-2016 10:30:17:494">
+			<IE Time="25-01-2016 10:30:17:783">0022756120081</IE>
+			<Return Time="25-01-2016 10:30:17:785">1</Return>
+		</Bematech_FI_InscricaoEstadual>
+		<CGC Time="25-01-2016 10:30:17:786">19386573000123</CGC>
+		<IE Time="25-01-2016 10:30:17:787">0022756120081</IE>
+		<Return Time="25-01-2016 10:30:17:788">1</Return>
+	</Bematech_FI_CGC_IE>
+	<Bematech_FI_NumeroCaixa CV="0909" Time="25-01-2016 10:30:17:794">
+		<NumeroCaixa Time="25-01-2016 10:30:18:037">001</NumeroCaixa>
+		<Return Time="25-01-2016 10:30:18:038">1</Return>
+	</Bematech_FI_NumeroCaixa>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:30:18:045">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:30:18:046">
+			<StatusMovimento Time="25-01-2016 10:30:18:295">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:30:18:296">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:30:18:297">000000</Date>
+		<Return Time="25-01-2016 10:30:18:298">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_DataHoraImpressora CV="0909" Time="25-01-2016 10:30:18:304">
+		<Date Time="25-01-2016 10:30:18:643">250116</Date>
+		<Hour Time="25-01-2016 10:30:18:644">102319</Hour>
+		<Return Time="25-01-2016 10:30:18:645">1</Return>
+	</Bematech_FI_DataHoraImpressora>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:30:18:652">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:30:18:653">
+			<StatusMovimento Time="25-01-2016 10:30:18:899">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:30:18:900">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:30:18:901">000000</Date>
+		<Return Time="25-01-2016 10:30:18:902">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_ProgramaFormaPagamentoMFD CV="0909" Time="25-01-2016 10:30:18:904">
+		<paymentForm Time="25-01-2016 10:30:18:905">Dinheiro</paymentForm>
+		<operationTef Time="25-01-2016 10:30:18:906">0</operationTef>
+		<Bematech_FI_ProgramaFormaPagamentoCV0909 CV="0909" Time="25-01-2016 10:30:18:907">
+			<paymentIndex Time="25-01-2016 10:30:18:908">0</paymentIndex>
+			<paymentForm Time="25-01-2016 10:30:18:908">Dinheiro</paymentForm>
+			<linkedCCD Time="25-01-2016 10:30:18:909">0</linkedCCD>
+			<Return Time="25-01-2016 10:30:18:910">-2</Return>
+		</Bematech_FI_ProgramaFormaPagamentoCV0909>
+		<Return Time="25-01-2016 10:30:18:911">1</Return>
+	</Bematech_FI_ProgramaFormaPagamentoMFD>
+	<Bematech_FI_ProgramaFormaPagamentoMFD CV="0909" Time="25-01-2016 10:30:18:912">
+		<paymentForm Time="25-01-2016 10:30:18:913">Cheque</paymentForm>
+		<operationTef Time="25-01-2016 10:30:18:913">1</operationTef>
+		<Bematech_FI_ProgramaFormaPagamentoCV0909 CV="0909" Time="25-01-2016 10:30:18:914">
+			<paymentIndex Time="25-01-2016 10:30:18:915">0</paymentIndex>
+			<paymentForm Time="25-01-2016 10:30:18:916">Cheque</paymentForm>
+			<linkedCCD Time="25-01-2016 10:30:18:916">1</linkedCCD>
+			<Return Time="25-01-2016 10:30:18:917">-2</Return>
+		</Bematech_FI_ProgramaFormaPagamentoCV0909>
+		<Return Time="25-01-2016 10:30:18:918">1</Return>
+	</Bematech_FI_ProgramaFormaPagamentoMFD>
+	<Bematech_FI_ProgramaFormaPagamentoMFD CV="0909" Time="25-01-2016 10:30:18:919">
+		<paymentForm Time="25-01-2016 10:30:18:920">Crediario</paymentForm>
+		<operationTef Time="25-01-2016 10:30:18:920">1</operationTef>
+		<Bematech_FI_ProgramaFormaPagamentoCV0909 CV="0909" Time="25-01-2016 10:30:18:921">
+			<paymentIndex Time="25-01-2016 10:30:18:922">0</paymentIndex>
+			<paymentForm Time="25-01-2016 10:30:18:923">Crediario</paymentForm>
+			<linkedCCD Time="25-01-2016 10:30:18:923">1</linkedCCD>
+			<Return Time="25-01-2016 10:30:18:924">-2</Return>
+		</Bematech_FI_ProgramaFormaPagamentoCV0909>
+		<Return Time="25-01-2016 10:30:18:925">1</Return>
+	</Bematech_FI_ProgramaFormaPagamentoMFD>
+	<Bematech_FI_ProgramaFormaPagamentoMFD CV="0909" Time="25-01-2016 10:30:18:926">
+		<paymentForm Time="25-01-2016 10:30:18:927">Convenio</paymentForm>
+		<operationTef Time="25-01-2016 10:30:18:927">1</operationTef>
+		<Bematech_FI_ProgramaFormaPagamentoCV0909 CV="0909" Time="25-01-2016 10:30:18:928">
+			<paymentIndex Time="25-01-2016 10:30:18:929">0</paymentIndex>
+			<paymentForm Time="25-01-2016 10:30:18:930">Convenio</paymentForm>
+			<linkedCCD Time="25-01-2016 10:30:18:930">1</linkedCCD>
+			<Return Time="25-01-2016 10:30:18:931">-2</Return>
+		</Bematech_FI_ProgramaFormaPagamentoCV0909>
+		<Return Time="25-01-2016 10:30:18:933">1</Return>
+	</Bematech_FI_ProgramaFormaPagamentoMFD>
+	<Bematech_FI_ProgramaFormaPagamentoMFD CV="0909" Time="25-01-2016 10:30:18:934">
+		<paymentForm Time="25-01-2016 10:30:18:934">Cartao Credito</paymentForm>
+		<operationTef Time="25-01-2016 10:30:18:935">1</operationTef>
+		<Bematech_FI_ProgramaFormaPagamentoCV0909 CV="0909" Time="25-01-2016 10:30:18:936">
+			<paymentIndex Time="25-01-2016 10:30:18:936">0</paymentIndex>
+			<paymentForm Time="25-01-2016 10:30:18:937">Cartao Credito</paymentForm>
+			<linkedCCD Time="25-01-2016 10:30:18:938">1</linkedCCD>
+			<Return Time="25-01-2016 10:30:18:939">-2</Return>
+		</Bematech_FI_ProgramaFormaPagamentoCV0909>
+		<Return Time="25-01-2016 10:30:18:940">1</Return>
+	</Bematech_FI_ProgramaFormaPagamentoMFD>
+	<Bematech_FI_ProgramaFormaPagamentoMFD CV="0909" Time="25-01-2016 10:30:18:940">
+		<paymentForm Time="25-01-2016 10:30:18:941">Cartao Debito</paymentForm>
+		<operationTef Time="25-01-2016 10:30:18:942">1</operationTef>
+		<Bematech_FI_ProgramaFormaPagamentoCV0909 CV="0909" Time="25-01-2016 10:30:18:943">
+			<paymentIndex Time="25-01-2016 10:30:18:944">0</paymentIndex>
+			<paymentForm Time="25-01-2016 10:30:18:944">Cartao Debito</paymentForm>
+			<linkedCCD Time="25-01-2016 10:30:18:945">1</linkedCCD>
+			<Return Time="25-01-2016 10:30:18:946">-2</Return>
+		</Bematech_FI_ProgramaFormaPagamentoCV0909>
+		<Return Time="25-01-2016 10:30:18:947">1</Return>
+	</Bematech_FI_ProgramaFormaPagamentoMFD>
+	<Bematech_FI_ProgramaFormaPagamentoMFD CV="0909" Time="25-01-2016 10:30:18:948">
+		<paymentForm Time="25-01-2016 10:30:18:948">Boleto</paymentForm>
+		<operationTef Time="25-01-2016 10:30:18:949">0</operationTef>
+		<Bematech_FI_ProgramaFormaPagamentoCV0909 CV="0909" Time="25-01-2016 10:30:18:950">
+			<paymentIndex Time="25-01-2016 10:30:18:950">0</paymentIndex>
+			<paymentForm Time="25-01-2016 10:30:18:951">Boleto</paymentForm>
+			<linkedCCD Time="25-01-2016 10:30:18:952">0</linkedCCD>
+			<Return Time="25-01-2016 10:30:18:953">-2</Return>
+		</Bematech_FI_ProgramaFormaPagamentoCV0909>
+		<Return Time="25-01-2016 10:30:18:954">1</Return>
+	</Bematech_FI_ProgramaFormaPagamentoMFD>
+	<Bematech_FI_ProgramaFormaPagamentoMFD CV="0909" Time="25-01-2016 10:30:18:955">
+		<paymentForm Time="25-01-2016 10:30:18:955">Duplicata</paymentForm>
+		<operationTef Time="25-01-2016 10:30:18:956">0</operationTef>
+		<Bematech_FI_ProgramaFormaPagamentoCV0909 CV="0909" Time="25-01-2016 10:30:18:957">
+			<paymentIndex Time="25-01-2016 10:30:18:958">0</paymentIndex>
+			<paymentForm Time="25-01-2016 10:30:18:959">Duplicata</paymentForm>
+			<linkedCCD Time="25-01-2016 10:30:18:959">0</linkedCCD>
+			<Return Time="25-01-2016 10:30:18:960">-2</Return>
+		</Bematech_FI_ProgramaFormaPagamentoCV0909>
+		<Return Time="25-01-2016 10:30:18:961">1</Return>
+	</Bematech_FI_ProgramaFormaPagamentoMFD>
+	<Bematech_FI_ProgramaFormaPagamentoMFD CV="0909" Time="25-01-2016 10:30:18:962">
+		<paymentForm Time="25-01-2016 10:30:18:963">Recebimento</paymentForm>
+		<operationTef Time="25-01-2016 10:30:18:963">0</operationTef>
+		<Bematech_FI_ProgramaFormaPagamentoCV0909 CV="0909" Time="25-01-2016 10:30:18:964">
+			<paymentIndex Time="25-01-2016 10:30:18:965">0</paymentIndex>
+			<paymentForm Time="25-01-2016 10:30:18:966">Recebimento</paymentForm>
+			<linkedCCD Time="25-01-2016 10:30:18:966">0</linkedCCD>
+			<Return Time="25-01-2016 10:30:18:967">-2</Return>
+		</Bematech_FI_ProgramaFormaPagamentoCV0909>
+		<Return Time="25-01-2016 10:30:18:968">1</Return>
+	</Bematech_FI_ProgramaFormaPagamentoMFD>
+	<Bematech_FI_ProgramaFormaPagamentoMFD CV="0909" Time="25-01-2016 10:30:18:969">
+		<paymentForm Time="25-01-2016 10:30:18:969">Vale</paymentForm>
+		<operationTef Time="25-01-2016 10:30:18:970">0</operationTef>
+		<Bematech_FI_ProgramaFormaPagamentoCV0909 CV="0909" Time="25-01-2016 10:30:18:971">
+			<paymentIndex Time="25-01-2016 10:30:18:972">0</paymentIndex>
+			<paymentForm Time="25-01-2016 10:30:18:972">Vale</paymentForm>
+			<linkedCCD Time="25-01-2016 10:30:18:973">0</linkedCCD>
+			<Return Time="25-01-2016 10:30:18:974">-2</Return>
+		</Bematech_FI_ProgramaFormaPagamentoCV0909>
+		<Return Time="25-01-2016 10:30:18:975">1</Return>
+	</Bematech_FI_ProgramaFormaPagamentoMFD>
+	<Bematech_FI_GrandeTotalCriptografado Time="25-01-2016 10:30:18:978">
+		<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:30:18:979">
+			<TotalGrid Time="25-01-2016 10:30:19:229">000000006873209823</TotalGrid>
+			<Return Time="25-01-2016 10:30:19:230">1</Return>
+		</Bematech_FI_GrandeTotal>
+		<totalGridHex Time="25-01-2016 10:30:19:231">444CA5AC802AC34E6A63BA44F69216120CE</totalGridHex>
+		<Return Time="25-01-2016 10:30:19:231">1</Return>
+	</Bematech_FI_GrandeTotalCriptografado>
+	<Bematech_FI_NumeroSerieCV0909 CV="0909" Time="25-01-2016 10:30:19:269">
+		<SerialNumber Time="25-01-2016 10:30:19:513">BE101310100700000619</SerialNumber>
+		<Return Time="25-01-2016 10:30:19:514">1</Return>
+	</Bematech_FI_NumeroSerieCV0909>
+	<Bematech_FI_SubTotal CV="0909" Time="25-01-2016 10:30:19:517">
+		<SubTotal Time="25-01-2016 10:30:19:519">00000000000000</SubTotal>
+		<Return Time="25-01-2016 10:30:19:520">1</Return>
+	</Bematech_FI_SubTotal>
+	<Bematech_FI_Descontos CV="0909" Time="25-01-2016 10:30:19:523">
+		<Bematech_FI_DescontosICMS CV="0909" Time="25-01-2016 10:30:19:524">
+			<DiscountICMSValue Time="25-01-2016 10:30:19:771">000</DiscountICMSValue>
+			<Return Time="25-01-2016 10:30:19:772">1</Return>
+		</Bematech_FI_DescontosICMS>
+		<Discount Time="25-01-2016 10:30:19:773">00000000000000</Discount>
+		<Return Time="25-01-2016 10:30:19:774">1</Return>
+	</Bematech_FI_Descontos>
+	<Bematech_FI_Cancelamentos CV="0909" Time="25-01-2016 10:30:19:778">
+		<Bematech_FI_CancelamentosICMS CV="0909" Time="25-01-2016 10:30:19:778">
+			<CancellationICMSValue Time="25-01-2016 10:30:20:023">0000000000000</CancellationICMSValue>
+			<Return Time="25-01-2016 10:30:20:024">1</Return>
+		</Bematech_FI_CancelamentosICMS>
+		<CancellationValue Time="25-01-2016 10:30:20:025">00000000000000</CancellationValue>
+		<Return Time="25-01-2016 10:30:20:026">1</Return>
+	</Bematech_FI_Cancelamentos>
+	<Bematech_FI_Cancelamentos CV="0909" Time="25-01-2016 10:30:20:028">
+		<Bematech_FI_CancelamentosICMS CV="0909" Time="25-01-2016 10:30:20:029">
+			<CancellationICMSValue Time="25-01-2016 10:30:20:321">0000000000000</CancellationICMSValue>
+			<Return Time="25-01-2016 10:30:20:322">1</Return>
+		</Bematech_FI_CancelamentosICMS>
+		<CancellationValue Time="25-01-2016 10:30:20:323">00000000000000</CancellationValue>
+		<Return Time="25-01-2016 10:30:20:324">1</Return>
+	</Bematech_FI_Cancelamentos>
+	<Bematech_FI_NumeroCuponsCancelados CV="0909" Time="25-01-2016 10:30:20:327">
+		<NumeroCuponsCancelados Time="25-01-2016 10:30:20:576">0000</NumeroCuponsCancelados>
+		<Return Time="25-01-2016 10:30:20:577">1</Return>
+	</Bematech_FI_NumeroCuponsCancelados>
+	<Bematech_FI_NumeroCupom CV="0909" Time="25-01-2016 10:30:20:581">
+		<NumeroCupom Time="25-01-2016 10:30:20:833">006436</NumeroCupom>
+		<Return Time="25-01-2016 10:30:20:834">1</Return>
+	</Bematech_FI_NumeroCupom>
+	<Bematech_FI_VerificaZPendente CV="0909" Time="25-01-2016 10:30:20:837">
+		<Status Time="25-01-2016 10:30:21:085">0</Status>
+		<Return Time="25-01-2016 10:30:21:086">1</Return>
+	</Bematech_FI_VerificaZPendente>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:30:21:089">
+		<Flag Time="25-01-2016 10:30:21:715">8</Flag>
+		<Return Time="25-01-2016 10:30:21:716">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_NumeroIntervencoes CV="0909" Time="25-01-2016 10:30:41:069">
+		<NumeroIntervecoes Time="25-01-2016 10:30:41:412">0001</NumeroIntervecoes>
+		<Return Time="25-01-2016 10:30:41:413">1</Return>
+	</Bematech_FI_NumeroIntervencoes>
+	<Bematech_FI_NumeroReducoes CV="0909" Time="25-01-2016 10:30:41:414">
+		<NumeroReducoes Time="25-01-2016 10:30:41:664">0206</NumeroReducoes>
+		<Return Time="25-01-2016 10:30:41:664">1</Return>
+	</Bematech_FI_NumeroReducoes>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:30:41:674">
+		<TotalGrid Time="25-01-2016 10:30:41:924">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 10:30:41:925">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_HabilitaDesabilitaRetornoEstendidoMFD Time="25-01-2016 10:30:42:043">
+		<Return Time="25-01-2016 10:30:42:043">1</Return>
+	</Bematech_FI_HabilitaDesabilitaRetornoEstendidoMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:30:45:840">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:30:45:841">
+			<StatusMovimento Time="25-01-2016 10:30:46:130">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:30:46:131">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:30:46:132">000000</Date>
+		<Return Time="25-01-2016 10:30:46:133">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:30:46:134">
+		<Flag Time="25-01-2016 10:30:46:721">8</Flag>
+		<Return Time="25-01-2016 10:30:46:722">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:31:04:740">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:31:04:741">
+			<StatusMovimento Time="25-01-2016 10:31:05:078">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:31:05:079">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:31:05:080">000000</Date>
+		<Return Time="25-01-2016 10:31:05:080">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:31:05:286">
+		<CAT Time="25-01-2016 10:31:05:287">0</CAT>
+		<RET0 Time="25-01-2016 10:31:05:288">1</RET0>
+		<RET1 Time="25-01-2016 10:31:05:288">0</RET1>
+		<RET2 Time="25-01-2016 10:31:05:289">0</RET2>
+		<RET3 Time="25-01-2016 10:31:05:289">0</RET3>
+		<ACK Time="25-01-2016 10:31:05:290">6</ACK>
+		<ST1 Time="25-01-2016 10:31:05:291">0</ST1>
+		<ST2 Time="25-01-2016 10:31:05:291">0</ST2>
+		<ST3 Time="25-01-2016 10:31:05:292">0</ST3>
+		<Return Time="25-01-2016 10:31:05:293">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:31:05:737">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:31:05:737">
+			<StatusMovimento Time="25-01-2016 10:31:06:024">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:31:06:025">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:31:06:026">000000</Date>
+		<Return Time="25-01-2016 10:31:06:026">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:31:06:032">
+		<CAT Time="25-01-2016 10:31:06:035">0</CAT>
+		<RET0 Time="25-01-2016 10:31:06:035">1</RET0>
+		<RET1 Time="25-01-2016 10:31:06:037">0</RET1>
+		<RET2 Time="25-01-2016 10:31:06:038">0</RET2>
+		<RET3 Time="25-01-2016 10:31:06:038">0</RET3>
+		<ACK Time="25-01-2016 10:31:06:039">6</ACK>
+		<ST1 Time="25-01-2016 10:31:06:039">0</ST1>
+		<ST2 Time="25-01-2016 10:31:06:040">0</ST2>
+		<ST3 Time="25-01-2016 10:31:06:040">0</ST3>
+		<Return Time="25-01-2016 10:31:06:041">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:31:06:438">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:31:06:438">
+			<StatusMovimento Time="25-01-2016 10:31:06:726">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:31:06:727">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:31:06:727">000000</Date>
+		<Return Time="25-01-2016 10:31:06:728">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:31:06:736">
+		<CAT Time="25-01-2016 10:31:06:737">0</CAT>
+		<RET0 Time="25-01-2016 10:31:06:738">1</RET0>
+		<RET1 Time="25-01-2016 10:31:06:738">0</RET1>
+		<RET2 Time="25-01-2016 10:31:06:739">0</RET2>
+		<RET3 Time="25-01-2016 10:31:06:739">0</RET3>
+		<ACK Time="25-01-2016 10:31:06:740">6</ACK>
+		<ST1 Time="25-01-2016 10:31:06:741">0</ST1>
+		<ST2 Time="25-01-2016 10:31:06:741">0</ST2>
+		<ST3 Time="25-01-2016 10:31:06:742">0</ST3>
+		<Return Time="25-01-2016 10:31:06:743">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:31:07:109">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:31:07:109">
+			<StatusMovimento Time="25-01-2016 10:31:07:417">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:31:07:418">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:31:07:420">000000</Date>
+		<Return Time="25-01-2016 10:31:07:421">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:31:07:436">
+		<CAT Time="25-01-2016 10:31:07:450">0</CAT>
+		<RET0 Time="25-01-2016 10:31:07:454">1</RET0>
+		<RET1 Time="25-01-2016 10:31:07:455">0</RET1>
+		<RET2 Time="25-01-2016 10:31:07:455">0</RET2>
+		<RET3 Time="25-01-2016 10:31:07:456">0</RET3>
+		<ACK Time="25-01-2016 10:31:07:457">6</ACK>
+		<ST1 Time="25-01-2016 10:31:07:458">0</ST1>
+		<ST2 Time="25-01-2016 10:31:07:459">0</ST2>
+		<ST3 Time="25-01-2016 10:31:07:459">0</ST3>
+		<Return Time="25-01-2016 10:31:07:460">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:31:07:477">
+		<TotalGrid Time="25-01-2016 10:31:07:740">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 10:31:07:742">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:31:07:824">
+		<TotalGrid Time="25-01-2016 10:31:08:076">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 10:31:08:077">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_GrandeTotalDescriptografado Time="25-01-2016 10:31:08:083">
+		<encryptedTotalGrid Time="25-01-2016 10:31:08:084">DL¥¬€*ÃNjcºDö’ Î</encryptedTotalGrid>
+		<totalGrid Time="25-01-2016 10:31:08:085">000000006873209823</totalGrid>
+		<Return Time="25-01-2016 10:31:08:085">1</Return>
+	</Bematech_FI_GrandeTotalDescriptografado>
+	<Bematech_FI_GrandeTotalCriptografado Time="25-01-2016 10:31:08:157">
+		<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:31:08:158">
+			<TotalGrid Time="25-01-2016 10:31:08:404">000000006873209823</TotalGrid>
+			<Return Time="25-01-2016 10:31:08:405">1</Return>
+		</Bematech_FI_GrandeTotal>
+		<totalGridHex Time="25-01-2016 10:31:08:406">444CA5AC802AC34E6A63BA44F69216120CE</totalGridHex>
+		<Return Time="25-01-2016 10:31:08:406">1</Return>
+	</Bematech_FI_GrandeTotalCriptografado>
+	<Bematech_FI_NumeroSerieCV0909 CV="0909" Time="25-01-2016 10:31:08:432">
+		<SerialNumber Time="25-01-2016 10:31:08:676">BE101310100700000619</SerialNumber>
+		<Return Time="25-01-2016 10:31:08:677">1</Return>
+	</Bematech_FI_NumeroSerieCV0909>
+	<Bematech_FI_GrandeTotalCriptografado Time="25-01-2016 10:31:08:678">
+		<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:31:08:679">
+			<TotalGrid Time="25-01-2016 10:31:08:975">000000006873209823</TotalGrid>
+			<Return Time="25-01-2016 10:31:08:977">1</Return>
+		</Bematech_FI_GrandeTotal>
+		<totalGridHex Time="25-01-2016 10:31:08:978">444CA5AC802AC34E6A63BA44F69216120CE</totalGridHex>
+		<Return Time="25-01-2016 10:31:08:978">1</Return>
+	</Bematech_FI_GrandeTotalCriptografado>
+	<Bematech_FI_VendaBruta CV="0909" Time="25-01-2016 10:31:08:988">
+		<VendaBruta Time="25-01-2016 10:31:09:237">000000000000000000</VendaBruta>
+		<Return Time="25-01-2016 10:31:09:238">1</Return>
+	</Bematech_FI_VendaBruta>
+	<Bematech_FI_NumeroReducoes CV="0909" Time="25-01-2016 10:31:09:240">
+		<NumeroReducoes Time="25-01-2016 10:31:09:489">0206</NumeroReducoes>
+		<Return Time="25-01-2016 10:31:09:490">1</Return>
+	</Bematech_FI_NumeroReducoes>
+	<Bematech_FI_NumeroIntervencoes CV="0909" Time="25-01-2016 10:31:09:501">
+		<NumeroIntervecoes Time="25-01-2016 10:31:09:745">0001</NumeroIntervecoes>
+		<Return Time="25-01-2016 10:31:09:746">1</Return>
+	</Bematech_FI_NumeroIntervencoes>
+	<Bematech_FI_VerificaEstadoGaveta CV="0909" Time="25-01-2016 10:31:10:966">
+		<EstadoGaveta Time="25-01-2016 10:31:11:307">1</EstadoGaveta>
+		<Return Time="25-01-2016 10:31:11:308">1</Return>
+	</Bematech_FI_VerificaEstadoGaveta>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:31:11:601">
+		<TotalGrid Time="25-01-2016 10:31:11:888">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 10:31:11:889">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_DataHoraImpressora CV="0909" Time="25-01-2016 10:31:12:269">
+		<Date Time="25-01-2016 10:31:12:650">250116</Date>
+		<Hour Time="25-01-2016 10:31:12:651">102413</Hour>
+		<Return Time="25-01-2016 10:31:12:652">1</Return>
+	</Bematech_FI_DataHoraImpressora>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:31:12:658">
+		<CAT Time="25-01-2016 10:31:12:659">0</CAT>
+		<RET0 Time="25-01-2016 10:31:12:660">1</RET0>
+		<RET1 Time="25-01-2016 10:31:12:661">0</RET1>
+		<RET2 Time="25-01-2016 10:31:12:661">0</RET2>
+		<RET3 Time="25-01-2016 10:31:12:662">0</RET3>
+		<ACK Time="25-01-2016 10:31:12:663">6</ACK>
+		<ST1 Time="25-01-2016 10:31:12:663">0</ST1>
+		<ST2 Time="25-01-2016 10:31:12:664">0</ST2>
+		<ST3 Time="25-01-2016 10:31:12:664">0</ST3>
+		<Return Time="25-01-2016 10:31:12:665">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:31:12:899">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:31:12:899">
+			<StatusMovimento Time="25-01-2016 10:31:13:149">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:31:13:150">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:31:13:150">000000</Date>
+		<Return Time="25-01-2016 10:31:13:151">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:31:13:158">
+		<CAT Time="25-01-2016 10:31:13:159">0</CAT>
+		<RET0 Time="25-01-2016 10:31:13:160">1</RET0>
+		<RET1 Time="25-01-2016 10:31:13:161">0</RET1>
+		<RET2 Time="25-01-2016 10:31:13:161">0</RET2>
+		<RET3 Time="25-01-2016 10:31:13:162">0</RET3>
+		<ACK Time="25-01-2016 10:31:13:162">6</ACK>
+		<ST1 Time="25-01-2016 10:31:13:163">0</ST1>
+		<ST2 Time="25-01-2016 10:31:13:163">0</ST2>
+		<ST3 Time="25-01-2016 10:31:13:164">0</ST3>
+		<Return Time="25-01-2016 10:31:13:164">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:31:13:174">
+		<TotalGrid Time="25-01-2016 10:31:13:408">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 10:31:13:409">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:31:13:438">
+		<TotalGrid Time="25-01-2016 10:31:13:684">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 10:31:13:685">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_GrandeTotalDescriptografado Time="25-01-2016 10:31:13:689">
+		<encryptedTotalGrid Time="25-01-2016 10:31:13:690">DL¥¬€*ÃNjcºDö’ Î</encryptedTotalGrid>
+		<totalGrid Time="25-01-2016 10:31:13:691">000000006873209823</totalGrid>
+		<Return Time="25-01-2016 10:31:13:691">1</Return>
+	</Bematech_FI_GrandeTotalDescriptografado>
+	<Bematech_FI_GrandeTotalCriptografado Time="25-01-2016 10:31:13:699">
+		<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:31:13:700">
+			<TotalGrid Time="25-01-2016 10:31:13:946">000000006873209823</TotalGrid>
+			<Return Time="25-01-2016 10:31:13:947">1</Return>
+		</Bematech_FI_GrandeTotal>
+		<totalGridHex Time="25-01-2016 10:31:13:948">444CA5AC802AC34E6A63BA44F69216120CE</totalGridHex>
+		<Return Time="25-01-2016 10:31:13:948">1</Return>
+	</Bematech_FI_GrandeTotalCriptografado>
+	<Bematech_FI_NumeroSerieCV0909 CV="0909" Time="25-01-2016 10:31:13:949">
+		<SerialNumber Time="25-01-2016 10:31:14:246">BE101310100700000619</SerialNumber>
+		<Return Time="25-01-2016 10:31:14:247">1</Return>
+	</Bematech_FI_NumeroSerieCV0909>
+	<Bematech_FI_GrandeTotalCriptografado Time="25-01-2016 10:31:14:248">
+		<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:31:14:248">
+			<TotalGrid Time="25-01-2016 10:31:14:494">000000006873209823</TotalGrid>
+			<Return Time="25-01-2016 10:31:14:495">1</Return>
+		</Bematech_FI_GrandeTotal>
+		<totalGridHex Time="25-01-2016 10:31:14:496">444CA5AC802AC34E6A63BA44F69216120CE</totalGridHex>
+		<Return Time="25-01-2016 10:31:14:496">1</Return>
+	</Bematech_FI_GrandeTotalCriptografado>
+	<Bematech_FI_VendaBruta CV="0909" Time="25-01-2016 10:31:14:497">
+		<VendaBruta Time="25-01-2016 10:31:14:744">000000000000000000</VendaBruta>
+		<Return Time="25-01-2016 10:31:14:745">1</Return>
+	</Bematech_FI_VendaBruta>
+	<Bematech_FI_NumeroReducoes CV="0909" Time="25-01-2016 10:31:14:746">
+		<NumeroReducoes Time="25-01-2016 10:31:15:040">0206</NumeroReducoes>
+		<Return Time="25-01-2016 10:31:15:042">1</Return>
+	</Bematech_FI_NumeroReducoes>
+	<Bematech_FI_NumeroIntervencoes CV="0909" Time="25-01-2016 10:31:15:043">
+		<NumeroIntervecoes Time="25-01-2016 10:31:15:288">0001</NumeroIntervecoes>
+		<Return Time="25-01-2016 10:31:15:289">1</Return>
+	</Bematech_FI_NumeroIntervencoes>
+	<Bematech_FI_VerificaEstadoGaveta CV="0909" Time="25-01-2016 10:31:16:152">
+		<EstadoGaveta Time="25-01-2016 10:31:16:352">1</EstadoGaveta>
+		<Return Time="25-01-2016 10:31:16:354">1</Return>
+	</Bematech_FI_VerificaEstadoGaveta>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:31:16:786">
+		<TotalGrid Time="25-01-2016 10:31:17:075">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 10:31:17:076">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_DataHoraImpressora CV="0909" Time="25-01-2016 10:31:17:430">
+		<Date Time="25-01-2016 10:31:17:815">250116</Date>
+		<Hour Time="25-01-2016 10:31:17:817">102418</Hour>
+		<Return Time="25-01-2016 10:31:17:820">1</Return>
+	</Bematech_FI_DataHoraImpressora>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:31:17:835">
+		<CAT Time="25-01-2016 10:31:17:841">0</CAT>
+		<RET0 Time="25-01-2016 10:31:17:842">1</RET0>
+		<RET1 Time="25-01-2016 10:31:17:843">0</RET1>
+		<RET2 Time="25-01-2016 10:31:17:843">0</RET2>
+		<RET3 Time="25-01-2016 10:31:17:844">0</RET3>
+		<ACK Time="25-01-2016 10:31:17:845">6</ACK>
+		<ST1 Time="25-01-2016 10:31:17:847">0</ST1>
+		<ST2 Time="25-01-2016 10:31:17:848">0</ST2>
+		<ST3 Time="25-01-2016 10:31:17:849">0</ST3>
+		<Return Time="25-01-2016 10:31:17:850">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:31:18:571">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:31:18:572">
+			<StatusMovimento Time="25-01-2016 10:31:18:818">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:31:18:819">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:31:18:819">000000</Date>
+		<Return Time="25-01-2016 10:31:18:820">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:31:18:821">
+		<CAT Time="25-01-2016 10:31:18:822">0</CAT>
+		<RET0 Time="25-01-2016 10:31:18:822">1</RET0>
+		<RET1 Time="25-01-2016 10:31:18:823">0</RET1>
+		<RET2 Time="25-01-2016 10:31:18:824">0</RET2>
+		<RET3 Time="25-01-2016 10:31:18:824">0</RET3>
+		<ACK Time="25-01-2016 10:31:18:825">6</ACK>
+		<ST1 Time="25-01-2016 10:31:18:826">0</ST1>
+		<ST2 Time="25-01-2016 10:31:18:826">0</ST2>
+		<ST3 Time="25-01-2016 10:31:18:827">0</ST3>
+		<Return Time="25-01-2016 10:31:18:828">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:31:18:829">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:31:18:830">
+			<StatusMovimento Time="25-01-2016 10:31:19:081">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:31:19:081">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:31:19:083">000000</Date>
+		<Return Time="25-01-2016 10:31:19:084">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:31:19:084">
+		<CAT Time="25-01-2016 10:31:19:085">0</CAT>
+		<RET0 Time="25-01-2016 10:31:19:086">1</RET0>
+		<RET1 Time="25-01-2016 10:31:19:087">0</RET1>
+		<RET2 Time="25-01-2016 10:31:19:087">0</RET2>
+		<RET3 Time="25-01-2016 10:31:19:088">0</RET3>
+		<ACK Time="25-01-2016 10:31:19:089">6</ACK>
+		<ST1 Time="25-01-2016 10:31:19:090">0</ST1>
+		<ST2 Time="25-01-2016 10:31:19:090">0</ST2>
+		<ST3 Time="25-01-2016 10:31:19:091">0</ST3>
+		<Return Time="25-01-2016 10:31:19:092">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:31:19:096">
+		<Flag Time="25-01-2016 10:31:19:701">8</Flag>
+		<Return Time="25-01-2016 10:31:19:702">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:31:19:702">
+		<CAT Time="25-01-2016 10:31:19:703">0</CAT>
+		<RET0 Time="25-01-2016 10:31:19:703">1</RET0>
+		<RET1 Time="25-01-2016 10:31:19:704">0</RET1>
+		<RET2 Time="25-01-2016 10:31:19:704">0</RET2>
+		<RET3 Time="25-01-2016 10:31:19:705">0</RET3>
+		<ACK Time="25-01-2016 10:31:19:705">6</ACK>
+		<ST1 Time="25-01-2016 10:31:19:706">0</ST1>
+		<ST2 Time="25-01-2016 10:31:19:706">0</ST2>
+		<ST3 Time="25-01-2016 10:31:19:707">0</ST3>
+		<Return Time="25-01-2016 10:31:19:708">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_VerificaEstadoGaveta CV="0909" Time="25-01-2016 10:31:19:709">
+		<EstadoGaveta Time="25-01-2016 10:31:19:952">1</EstadoGaveta>
+		<Return Time="25-01-2016 10:31:19:952">1</Return>
+	</Bematech_FI_VerificaEstadoGaveta>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:31:19:970">
+		<TotalGrid Time="25-01-2016 10:31:20:214">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 10:31:20:215">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_DataHoraImpressora CV="0909" Time="25-01-2016 10:31:20:376">
+		<Date Time="25-01-2016 10:31:20:708">250116</Date>
+		<Hour Time="25-01-2016 10:31:20:709">102421</Hour>
+		<Return Time="25-01-2016 10:31:20:711">1</Return>
+	</Bematech_FI_DataHoraImpressora>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:31:20:728">
+		<CAT Time="25-01-2016 10:31:20:730">0</CAT>
+		<RET0 Time="25-01-2016 10:31:20:731">1</RET0>
+		<RET1 Time="25-01-2016 10:31:20:732">0</RET1>
+		<RET2 Time="25-01-2016 10:31:20:733">0</RET2>
+		<RET3 Time="25-01-2016 10:31:20:734">0</RET3>
+		<ACK Time="25-01-2016 10:31:20:735">6</ACK>
+		<ST1 Time="25-01-2016 10:31:20:736">0</ST1>
+		<ST2 Time="25-01-2016 10:31:20:737">0</ST2>
+		<ST3 Time="25-01-2016 10:31:20:738">0</ST3>
+		<Return Time="25-01-2016 10:31:20:739">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:31:20:749">
+		<Flag Time="25-01-2016 10:31:21:336">8</Flag>
+		<Return Time="25-01-2016 10:31:21:337">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:31:39:484">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:31:39:485">
+			<StatusMovimento Time="25-01-2016 10:31:39:687">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:31:39:687">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:31:39:688">000000</Date>
+		<Return Time="25-01-2016 10:31:39:688">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:31:39:691">
+		<CAT Time="25-01-2016 10:31:39:692">0</CAT>
+		<RET0 Time="25-01-2016 10:31:39:692">1</RET0>
+		<RET1 Time="25-01-2016 10:31:39:693">0</RET1>
+		<RET2 Time="25-01-2016 10:31:39:693">0</RET2>
+		<RET3 Time="25-01-2016 10:31:39:694">0</RET3>
+		<ACK Time="25-01-2016 10:31:39:694">6</ACK>
+		<ST1 Time="25-01-2016 10:31:39:694">0</ST1>
+		<ST2 Time="25-01-2016 10:31:39:695">0</ST2>
+		<ST3 Time="25-01-2016 10:31:39:695">0</ST3>
+		<Return Time="25-01-2016 10:31:39:696">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:31:39:713">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:31:39:713">
+			<StatusMovimento Time="25-01-2016 10:31:39:961">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:31:39:961">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:31:39:962">000000</Date>
+		<Return Time="25-01-2016 10:31:39:962">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_VerificaEstadoGaveta CV="0909" Time="25-01-2016 10:31:39:970">
+		<EstadoGaveta Time="25-01-2016 10:31:40:257">1</EstadoGaveta>
+		<Return Time="25-01-2016 10:31:40:258">1</Return>
+	</Bematech_FI_VerificaEstadoGaveta>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:31:40:569">
+		<TotalGrid Time="25-01-2016 10:31:40:816">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 10:31:40:817">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_DataHoraImpressora CV="0909" Time="25-01-2016 10:31:41:337">
+		<Date Time="25-01-2016 10:31:41:699">250116</Date>
+		<Hour Time="25-01-2016 10:31:41:700">102442</Hour>
+		<Return Time="25-01-2016 10:31:41:701">1</Return>
+	</Bematech_FI_DataHoraImpressora>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:31:41:719">
+		<CAT Time="25-01-2016 10:31:41:721">0</CAT>
+		<RET0 Time="25-01-2016 10:31:41:722">1</RET0>
+		<RET1 Time="25-01-2016 10:31:41:723">0</RET1>
+		<RET2 Time="25-01-2016 10:31:41:724">0</RET2>
+		<RET3 Time="25-01-2016 10:31:41:725">0</RET3>
+		<ACK Time="25-01-2016 10:31:41:726">6</ACK>
+		<ST1 Time="25-01-2016 10:31:41:727">0</ST1>
+		<ST2 Time="25-01-2016 10:31:41:728">0</ST2>
+		<ST3 Time="25-01-2016 10:31:41:729">0</ST3>
+		<Return Time="25-01-2016 10:31:41:730">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="25-01-2016 10:31:41:791">
+		<Return Time="25-01-2016 10:31:41:844">1</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:31:42:070">
+		<Flag Time="25-01-2016 10:31:42:633">8</Flag>
+		<Return Time="25-01-2016 10:31:42:634">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:31:45:649">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:31:45:650">
+			<StatusMovimento Time="25-01-2016 10:31:45:847">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:31:45:848">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:31:45:848">000000</Date>
+		<Return Time="25-01-2016 10:31:45:849">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:31:45:855">
+		<CAT Time="25-01-2016 10:31:45:856">0</CAT>
+		<RET0 Time="25-01-2016 10:31:45:857">1</RET0>
+		<RET1 Time="25-01-2016 10:31:45:858">0</RET1>
+		<RET2 Time="25-01-2016 10:31:45:859">0</RET2>
+		<RET3 Time="25-01-2016 10:31:45:860">0</RET3>
+		<ACK Time="25-01-2016 10:31:45:860">6</ACK>
+		<ST1 Time="25-01-2016 10:31:45:861">0</ST1>
+		<ST2 Time="25-01-2016 10:31:45:862">0</ST2>
+		<ST3 Time="25-01-2016 10:31:45:863">0</ST3>
+		<Return Time="25-01-2016 10:31:45:864">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:31:45:881">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:31:45:882">
+			<StatusMovimento Time="25-01-2016 10:31:46:123">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:31:46:124">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:31:46:125">000000</Date>
+		<Return Time="25-01-2016 10:31:46:125">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:31:46:138">
+		<Flag Time="25-01-2016 10:31:46:764">8</Flag>
+		<Return Time="25-01-2016 10:31:46:765">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:31:51:858">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:31:51:859">
+			<StatusMovimento Time="25-01-2016 10:31:52:148">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:31:52:149">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:31:52:150">000000</Date>
+		<Return Time="25-01-2016 10:31:52:150">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:31:52:151">
+		<CAT Time="25-01-2016 10:31:52:152">0</CAT>
+		<RET0 Time="25-01-2016 10:31:52:153">1</RET0>
+		<RET1 Time="25-01-2016 10:31:52:154">0</RET1>
+		<RET2 Time="25-01-2016 10:31:52:154">0</RET2>
+		<RET3 Time="25-01-2016 10:31:52:155">0</RET3>
+		<ACK Time="25-01-2016 10:31:52:155">6</ACK>
+		<ST1 Time="25-01-2016 10:31:52:156">0</ST1>
+		<ST2 Time="25-01-2016 10:31:52:157">0</ST2>
+		<ST3 Time="25-01-2016 10:31:52:157">0</ST3>
+		<Return Time="25-01-2016 10:31:52:158">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:31:52:175">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:31:52:176">
+			<StatusMovimento Time="25-01-2016 10:31:52:424">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:31:52:425">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:31:52:425">000000</Date>
+		<Return Time="25-01-2016 10:31:52:426">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:31:52:432">
+		<Flag Time="25-01-2016 10:31:53:062">8</Flag>
+		<Return Time="25-01-2016 10:31:53:062">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:31:59:372">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:31:59:373">
+			<StatusMovimento Time="25-01-2016 10:31:59:661">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:31:59:662">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:31:59:663">000000</Date>
+		<Return Time="25-01-2016 10:31:59:663">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:31:59:672">
+		<CAT Time="25-01-2016 10:31:59:673">0</CAT>
+		<RET0 Time="25-01-2016 10:31:59:674">1</RET0>
+		<RET1 Time="25-01-2016 10:31:59:674">0</RET1>
+		<RET2 Time="25-01-2016 10:31:59:675">0</RET2>
+		<RET3 Time="25-01-2016 10:31:59:675">0</RET3>
+		<ACK Time="25-01-2016 10:31:59:676">6</ACK>
+		<ST1 Time="25-01-2016 10:31:59:676">0</ST1>
+		<ST2 Time="25-01-2016 10:31:59:677">0</ST2>
+		<ST3 Time="25-01-2016 10:31:59:677">0</ST3>
+		<Return Time="25-01-2016 10:31:59:678">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:32:02:741">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:32:02:742">
+			<StatusMovimento Time="25-01-2016 10:32:02:982">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:32:02:983">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:32:02:984">000000</Date>
+		<Return Time="25-01-2016 10:32:02:984">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:32:02:985">
+		<CAT Time="25-01-2016 10:32:02:986">0</CAT>
+		<RET0 Time="25-01-2016 10:32:02:986">1</RET0>
+		<RET1 Time="25-01-2016 10:32:02:987">0</RET1>
+		<RET2 Time="25-01-2016 10:32:02:987">0</RET2>
+		<RET3 Time="25-01-2016 10:32:02:988">0</RET3>
+		<ACK Time="25-01-2016 10:32:02:988">6</ACK>
+		<ST1 Time="25-01-2016 10:32:02:989">0</ST1>
+		<ST2 Time="25-01-2016 10:32:02:989">0</ST2>
+		<ST3 Time="25-01-2016 10:32:02:990">0</ST3>
+		<Return Time="25-01-2016 10:32:02:990">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:32:02:998">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:32:02:999">
+			<StatusMovimento Time="25-01-2016 10:32:03:244">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:32:03:245">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:32:03:245">000000</Date>
+		<Return Time="25-01-2016 10:32:03:246">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:32:03:247">
+		<Flag Time="25-01-2016 10:32:03:968">8</Flag>
+		<Return Time="25-01-2016 10:32:03:968">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:32:04:738">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:32:04:738">
+			<StatusMovimento Time="25-01-2016 10:32:05:072">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:32:05:073">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:32:05:073">000000</Date>
+		<Return Time="25-01-2016 10:32:05:074">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:32:05:082">
+		<CAT Time="25-01-2016 10:32:05:083">0</CAT>
+		<RET0 Time="25-01-2016 10:32:05:084">1</RET0>
+		<RET1 Time="25-01-2016 10:32:05:084">0</RET1>
+		<RET2 Time="25-01-2016 10:32:05:085">0</RET2>
+		<RET3 Time="25-01-2016 10:32:05:085">0</RET3>
+		<ACK Time="25-01-2016 10:32:05:086">6</ACK>
+		<ST1 Time="25-01-2016 10:32:05:086">0</ST1>
+		<ST2 Time="25-01-2016 10:32:05:087">0</ST2>
+		<ST3 Time="25-01-2016 10:32:05:087">0</ST3>
+		<Return Time="25-01-2016 10:32:05:088">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:32:05:106">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:32:05:107">
+			<StatusMovimento Time="25-01-2016 10:32:05:394">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:32:05:395">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:32:05:396">000000</Date>
+		<Return Time="25-01-2016 10:32:05:396">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:32:05:409">
+		<Flag Time="25-01-2016 10:32:06:031">8</Flag>
+		<Return Time="25-01-2016 10:32:06:032">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:32:58:089">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:32:58:091">
+			<StatusMovimento Time="25-01-2016 10:32:58:331">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:32:58:332">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:32:58:333">000000</Date>
+		<Return Time="25-01-2016 10:32:58:335">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:32:58:343">
+		<CAT Time="25-01-2016 10:32:58:345">0</CAT>
+		<RET0 Time="25-01-2016 10:32:58:346">1</RET0>
+		<RET1 Time="25-01-2016 10:32:58:347">0</RET1>
+		<RET2 Time="25-01-2016 10:32:58:347">0</RET2>
+		<RET3 Time="25-01-2016 10:32:58:348">0</RET3>
+		<ACK Time="25-01-2016 10:32:58:350">6</ACK>
+		<ST1 Time="25-01-2016 10:32:58:352">0</ST1>
+		<ST2 Time="25-01-2016 10:32:58:353">0</ST2>
+		<ST3 Time="25-01-2016 10:32:58:354">0</ST3>
+		<Return Time="25-01-2016 10:32:58:355">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:32:58:393">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:32:58:394">
+			<StatusMovimento Time="25-01-2016 10:32:58:649">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:32:58:650">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:32:58:651">000000</Date>
+		<Return Time="25-01-2016 10:32:58:652">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_VerificaEstadoGaveta CV="0909" Time="25-01-2016 10:32:58:654">
+		<EstadoGaveta Time="25-01-2016 10:32:58:943">1</EstadoGaveta>
+		<Return Time="25-01-2016 10:32:58:944">1</Return>
+	</Bematech_FI_VerificaEstadoGaveta>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:32:59:218">
+		<TotalGrid Time="25-01-2016 10:32:59:509">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 10:32:59:510">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_DataHoraImpressora CV="0909" Time="25-01-2016 10:32:59:962">
+		<Date Time="25-01-2016 10:33:00:295">250116</Date>
+		<Hour Time="25-01-2016 10:33:00:296">102601</Hour>
+		<Return Time="25-01-2016 10:33:00:298">1</Return>
+	</Bematech_FI_DataHoraImpressora>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:33:00:308">
+		<CAT Time="25-01-2016 10:33:00:309">0</CAT>
+		<RET0 Time="25-01-2016 10:33:00:310">1</RET0>
+		<RET1 Time="25-01-2016 10:33:00:311">0</RET1>
+		<RET2 Time="25-01-2016 10:33:00:312">0</RET2>
+		<RET3 Time="25-01-2016 10:33:00:313">0</RET3>
+		<ACK Time="25-01-2016 10:33:00:314">6</ACK>
+		<ST1 Time="25-01-2016 10:33:00:315">0</ST1>
+		<ST2 Time="25-01-2016 10:33:00:315">0</ST2>
+		<ST3 Time="25-01-2016 10:33:00:316">0</ST3>
+		<Return Time="25-01-2016 10:33:00:317">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="25-01-2016 10:33:00:323">
+		<Return Time="25-01-2016 10:33:00:427">1</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:33:00:469">
+		<Flag Time="25-01-2016 10:33:01:047">8</Flag>
+		<Return Time="25-01-2016 10:33:01:048">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:33:02:569">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:33:02:570">
+			<StatusMovimento Time="25-01-2016 10:33:02:875">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:33:02:876">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:33:02:876">000000</Date>
+		<Return Time="25-01-2016 10:33:02:877">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:33:02:878">
+		<CAT Time="25-01-2016 10:33:02:879">0</CAT>
+		<RET0 Time="25-01-2016 10:33:02:879">1</RET0>
+		<RET1 Time="25-01-2016 10:33:02:880">0</RET1>
+		<RET2 Time="25-01-2016 10:33:02:881">0</RET2>
+		<RET3 Time="25-01-2016 10:33:02:881">0</RET3>
+		<ACK Time="25-01-2016 10:33:02:882">6</ACK>
+		<ST1 Time="25-01-2016 10:33:02:883">0</ST1>
+		<ST2 Time="25-01-2016 10:33:02:884">0</ST2>
+		<ST3 Time="25-01-2016 10:33:02:884">0</ST3>
+		<Return Time="25-01-2016 10:33:02:885">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:33:03:346">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:33:03:347">
+			<StatusMovimento Time="25-01-2016 10:33:03:643">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:33:03:644">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:33:03:645">000000</Date>
+		<Return Time="25-01-2016 10:33:03:645">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:33:03:648">
+		<CAT Time="25-01-2016 10:33:03:649">0</CAT>
+		<RET0 Time="25-01-2016 10:33:03:650">1</RET0>
+		<RET1 Time="25-01-2016 10:33:03:651">0</RET1>
+		<RET2 Time="25-01-2016 10:33:03:651">0</RET2>
+		<RET3 Time="25-01-2016 10:33:03:652">0</RET3>
+		<ACK Time="25-01-2016 10:33:03:653">6</ACK>
+		<ST1 Time="25-01-2016 10:33:03:654">0</ST1>
+		<ST2 Time="25-01-2016 10:33:03:655">0</ST2>
+		<ST3 Time="25-01-2016 10:33:03:655">0</ST3>
+		<Return Time="25-01-2016 10:33:03:656">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:33:03:669">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:33:03:670">
+			<StatusMovimento Time="25-01-2016 10:33:03:913">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:33:03:914">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:33:03:915">000000</Date>
+		<Return Time="25-01-2016 10:33:03:916">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:33:03:967">
+		<Flag Time="25-01-2016 10:33:04:598">8</Flag>
+		<Return Time="25-01-2016 10:33:04:599">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:33:09:174">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:33:09:175">
+			<StatusMovimento Time="25-01-2016 10:33:09:424">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:33:09:426">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:33:09:426">000000</Date>
+		<Return Time="25-01-2016 10:33:09:427">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:33:09:433">
+		<CAT Time="25-01-2016 10:33:09:434">0</CAT>
+		<RET0 Time="25-01-2016 10:33:09:434">1</RET0>
+		<RET1 Time="25-01-2016 10:33:09:435">0</RET1>
+		<RET2 Time="25-01-2016 10:33:09:435">0</RET2>
+		<RET3 Time="25-01-2016 10:33:09:436">0</RET3>
+		<ACK Time="25-01-2016 10:33:09:437">6</ACK>
+		<ST1 Time="25-01-2016 10:33:09:437">0</ST1>
+		<ST2 Time="25-01-2016 10:33:09:438">0</ST2>
+		<ST3 Time="25-01-2016 10:33:09:438">0</ST3>
+		<Return Time="25-01-2016 10:33:09:439">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:33:09:461">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:33:09:462">
+			<StatusMovimento Time="25-01-2016 10:33:09:662">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:33:09:663">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:33:09:664">000000</Date>
+		<Return Time="25-01-2016 10:33:09:665">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:33:09:701">
+		<Flag Time="25-01-2016 10:33:10:281">8</Flag>
+		<Return Time="25-01-2016 10:33:10:282">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:33:15:271">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:33:15:272">
+			<StatusMovimento Time="25-01-2016 10:33:15:565">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:33:15:566">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:33:15:567">000000</Date>
+		<Return Time="25-01-2016 10:33:15:568">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:33:15:581">
+		<CAT Time="25-01-2016 10:33:15:582">0</CAT>
+		<RET0 Time="25-01-2016 10:33:15:583">1</RET0>
+		<RET1 Time="25-01-2016 10:33:15:584">0</RET1>
+		<RET2 Time="25-01-2016 10:33:15:585">0</RET2>
+		<RET3 Time="25-01-2016 10:33:15:585">0</RET3>
+		<ACK Time="25-01-2016 10:33:15:586">6</ACK>
+		<ST1 Time="25-01-2016 10:33:15:587">0</ST1>
+		<ST2 Time="25-01-2016 10:33:15:587">0</ST2>
+		<ST3 Time="25-01-2016 10:33:15:588">0</ST3>
+		<Return Time="25-01-2016 10:33:15:589">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:33:15:593">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:33:15:596">
+			<StatusMovimento Time="25-01-2016 10:33:15:849">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:33:15:850">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:33:15:851">000000</Date>
+		<Return Time="25-01-2016 10:33:15:851">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:33:15:855">
+		<Flag Time="25-01-2016 10:33:16:444">8</Flag>
+		<Return Time="25-01-2016 10:33:16:445">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:33:23:343">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:33:23:345">
+			<StatusMovimento Time="25-01-2016 10:33:23:676">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:33:23:677">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:33:23:678">000000</Date>
+		<Return Time="25-01-2016 10:33:23:679">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:33:23:693">
+		<CAT Time="25-01-2016 10:33:23:694">0</CAT>
+		<RET0 Time="25-01-2016 10:33:23:695">1</RET0>
+		<RET1 Time="25-01-2016 10:33:23:696">0</RET1>
+		<RET2 Time="25-01-2016 10:33:23:697">0</RET2>
+		<RET3 Time="25-01-2016 10:33:23:698">0</RET3>
+		<ACK Time="25-01-2016 10:33:23:699">6</ACK>
+		<ST1 Time="25-01-2016 10:33:23:700">0</ST1>
+		<ST2 Time="25-01-2016 10:33:23:701">0</ST2>
+		<ST3 Time="25-01-2016 10:33:23:702">0</ST3>
+		<Return Time="25-01-2016 10:33:23:703">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:33:23:749">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:33:23:750">
+			<StatusMovimento Time="25-01-2016 10:33:23:998">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:33:24:000">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:33:24:001">000000</Date>
+		<Return Time="25-01-2016 10:33:24:002">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:33:24:036">
+		<Flag Time="25-01-2016 10:33:24:622">8</Flag>
+		<Return Time="25-01-2016 10:33:24:623">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:35:33:257">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:35:33:258">
+			<StatusMovimento Time="25-01-2016 10:35:33:636">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:35:33:636">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:35:33:637">000000</Date>
+		<Return Time="25-01-2016 10:35:33:638">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:35:33:651">
+		<CAT Time="25-01-2016 10:35:33:654">0</CAT>
+		<RET0 Time="25-01-2016 10:35:33:655">1</RET0>
+		<RET1 Time="25-01-2016 10:35:33:656">0</RET1>
+		<RET2 Time="25-01-2016 10:35:33:657">0</RET2>
+		<RET3 Time="25-01-2016 10:35:33:657">0</RET3>
+		<ACK Time="25-01-2016 10:35:33:658">6</ACK>
+		<ST1 Time="25-01-2016 10:35:33:659">0</ST1>
+		<ST2 Time="25-01-2016 10:35:33:660">0</ST2>
+		<ST3 Time="25-01-2016 10:35:33:660">0</ST3>
+		<Return Time="25-01-2016 10:35:33:661">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:35:33:673">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:35:33:678">
+			<StatusMovimento Time="25-01-2016 10:35:33:998">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:35:33:998">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:35:33:999">000000</Date>
+		<Return Time="25-01-2016 10:35:34:000">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_VerificaEstadoGaveta CV="0909" Time="25-01-2016 10:35:34:003">
+		<EstadoGaveta Time="25-01-2016 10:35:34:258">1</EstadoGaveta>
+		<Return Time="25-01-2016 10:35:34:258">1</Return>
+	</Bematech_FI_VerificaEstadoGaveta>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:35:34:497">
+		<TotalGrid Time="25-01-2016 10:35:34:738">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 10:35:34:739">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_DataHoraImpressora CV="0909" Time="25-01-2016 10:35:35:061">
+		<Date Time="25-01-2016 10:35:35:440">250116</Date>
+		<Hour Time="25-01-2016 10:35:35:441">102836</Hour>
+		<Return Time="25-01-2016 10:35:35:442">1</Return>
+	</Bematech_FI_DataHoraImpressora>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:35:35:447">
+		<CAT Time="25-01-2016 10:35:35:448">0</CAT>
+		<RET0 Time="25-01-2016 10:35:35:449">1</RET0>
+		<RET1 Time="25-01-2016 10:35:35:449">0</RET1>
+		<RET2 Time="25-01-2016 10:35:35:450">0</RET2>
+		<RET3 Time="25-01-2016 10:35:35:451">0</RET3>
+		<ACK Time="25-01-2016 10:35:35:451">6</ACK>
+		<ST1 Time="25-01-2016 10:35:35:452">0</ST1>
+		<ST2 Time="25-01-2016 10:35:35:452">0</ST2>
+		<ST3 Time="25-01-2016 10:35:35:453">0</ST3>
+		<Return Time="25-01-2016 10:35:35:454">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="25-01-2016 10:35:35:457">
+		<Return Time="25-01-2016 10:35:35:489">1</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:35:35:547">
+		<Flag Time="25-01-2016 10:35:36:121">8</Flag>
+		<Return Time="25-01-2016 10:35:36:122">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:35:42:541">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:35:42:543">
+			<StatusMovimento Time="25-01-2016 10:35:42:831">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:35:42:832">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:35:42:832">000000</Date>
+		<Return Time="25-01-2016 10:35:42:833">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:35:42:841">
+		<CAT Time="25-01-2016 10:35:42:842">0</CAT>
+		<RET0 Time="25-01-2016 10:35:42:843">1</RET0>
+		<RET1 Time="25-01-2016 10:35:42:843">0</RET1>
+		<RET2 Time="25-01-2016 10:35:42:844">0</RET2>
+		<RET3 Time="25-01-2016 10:35:42:844">0</RET3>
+		<ACK Time="25-01-2016 10:35:42:845">6</ACK>
+		<ST1 Time="25-01-2016 10:35:42:845">0</ST1>
+		<ST2 Time="25-01-2016 10:35:42:846">0</ST2>
+		<ST3 Time="25-01-2016 10:35:42:846">0</ST3>
+		<Return Time="25-01-2016 10:35:42:847">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:35:42:850">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:35:42:851">
+			<StatusMovimento Time="25-01-2016 10:35:43:137">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:35:43:138">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:35:43:139">000000</Date>
+		<Return Time="25-01-2016 10:35:43:140">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:35:43:170">
+		<Flag Time="25-01-2016 10:35:43:888">8</Flag>
+		<Return Time="25-01-2016 10:35:43:889">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:35:48:278">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:35:48:280">
+			<StatusMovimento Time="25-01-2016 10:35:48:568">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:35:48:570">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:35:48:571">000000</Date>
+		<Return Time="25-01-2016 10:35:48:573">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:35:48:574">
+		<CAT Time="25-01-2016 10:35:48:575">0</CAT>
+		<RET0 Time="25-01-2016 10:35:48:576">1</RET0>
+		<RET1 Time="25-01-2016 10:35:48:577">0</RET1>
+		<RET2 Time="25-01-2016 10:35:48:577">0</RET2>
+		<RET3 Time="25-01-2016 10:35:48:578">0</RET3>
+		<ACK Time="25-01-2016 10:35:48:579">6</ACK>
+		<ST1 Time="25-01-2016 10:35:48:580">0</ST1>
+		<ST2 Time="25-01-2016 10:35:48:581">0</ST2>
+		<ST3 Time="25-01-2016 10:35:48:582">0</ST3>
+		<Return Time="25-01-2016 10:35:48:582">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:35:48:584">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:35:48:585">
+			<StatusMovimento Time="25-01-2016 10:35:48:884">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:35:48:885">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:35:48:886">000000</Date>
+		<Return Time="25-01-2016 10:35:48:887">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:35:48:889">
+		<Flag Time="25-01-2016 10:35:49:518">8</Flag>
+		<Return Time="25-01-2016 10:35:49:519">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:35:52:357">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:35:52:359">
+			<StatusMovimento Time="25-01-2016 10:35:52:653">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:35:52:654">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:35:52:655">000000</Date>
+		<Return Time="25-01-2016 10:35:52:656">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:35:52:657">
+		<CAT Time="25-01-2016 10:35:52:658">0</CAT>
+		<RET0 Time="25-01-2016 10:35:52:659">1</RET0>
+		<RET1 Time="25-01-2016 10:35:52:660">0</RET1>
+		<RET2 Time="25-01-2016 10:35:52:661">0</RET2>
+		<RET3 Time="25-01-2016 10:35:52:662">0</RET3>
+		<ACK Time="25-01-2016 10:35:52:663">6</ACK>
+		<ST1 Time="25-01-2016 10:35:52:664">0</ST1>
+		<ST2 Time="25-01-2016 10:35:52:665">0</ST2>
+		<ST3 Time="25-01-2016 10:35:52:666">0</ST3>
+		<Return Time="25-01-2016 10:35:52:667">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:35:52:669">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:35:52:670">
+			<StatusMovimento Time="25-01-2016 10:35:52:919">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:35:52:920">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:35:52:921">000000</Date>
+		<Return Time="25-01-2016 10:35:52:922">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:35:52:970">
+		<CAT Time="25-01-2016 10:35:52:976">0</CAT>
+		<RET0 Time="25-01-2016 10:35:52:977">1</RET0>
+		<RET1 Time="25-01-2016 10:35:52:978">0</RET1>
+		<RET2 Time="25-01-2016 10:35:52:979">0</RET2>
+		<RET3 Time="25-01-2016 10:35:52:980">0</RET3>
+		<ACK Time="25-01-2016 10:35:52:981">6</ACK>
+		<ST1 Time="25-01-2016 10:35:52:982">0</ST1>
+		<ST2 Time="25-01-2016 10:35:52:983">0</ST2>
+		<ST3 Time="25-01-2016 10:35:52:984">0</ST3>
+		<Return Time="25-01-2016 10:35:52:986">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:35:53:882">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:35:53:884">
+			<StatusMovimento Time="25-01-2016 10:35:54:219">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:35:54:220">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:35:54:221">000000</Date>
+		<Return Time="25-01-2016 10:35:54:222">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:35:54:223">
+		<CAT Time="25-01-2016 10:35:54:224">0</CAT>
+		<RET0 Time="25-01-2016 10:35:54:225">1</RET0>
+		<RET1 Time="25-01-2016 10:35:54:226">0</RET1>
+		<RET2 Time="25-01-2016 10:35:54:227">0</RET2>
+		<RET3 Time="25-01-2016 10:35:54:228">0</RET3>
+		<ACK Time="25-01-2016 10:35:54:230">6</ACK>
+		<ST1 Time="25-01-2016 10:35:54:230">0</ST1>
+		<ST2 Time="25-01-2016 10:35:54:231">0</ST2>
+		<ST3 Time="25-01-2016 10:35:54:232">0</ST3>
+		<Return Time="25-01-2016 10:35:54:233">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:35:54:235">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:35:54:236">
+			<StatusMovimento Time="25-01-2016 10:35:54:483">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:35:54:484">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:35:54:485">000000</Date>
+		<Return Time="25-01-2016 10:35:54:487">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:35:54:488">
+		<CAT Time="25-01-2016 10:35:54:489">0</CAT>
+		<RET0 Time="25-01-2016 10:35:54:490">1</RET0>
+		<RET1 Time="25-01-2016 10:35:54:491">0</RET1>
+		<RET2 Time="25-01-2016 10:35:54:492">0</RET2>
+		<RET3 Time="25-01-2016 10:35:54:493">0</RET3>
+		<ACK Time="25-01-2016 10:35:54:494">6</ACK>
+		<ST1 Time="25-01-2016 10:35:54:495">0</ST1>
+		<ST2 Time="25-01-2016 10:35:54:496">0</ST2>
+		<ST3 Time="25-01-2016 10:35:54:497">0</ST3>
+		<Return Time="25-01-2016 10:35:54:498">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:35:55:277">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:35:55:278">
+			<StatusMovimento Time="25-01-2016 10:35:55:565">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:35:55:566">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:35:55:567">000000</Date>
+		<Return Time="25-01-2016 10:35:55:568">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:35:55:569">
+		<CAT Time="25-01-2016 10:35:55:569">0</CAT>
+		<RET0 Time="25-01-2016 10:35:55:570">1</RET0>
+		<RET1 Time="25-01-2016 10:35:55:571">0</RET1>
+		<RET2 Time="25-01-2016 10:35:55:572">0</RET2>
+		<RET3 Time="25-01-2016 10:35:55:573">0</RET3>
+		<ACK Time="25-01-2016 10:35:55:573">6</ACK>
+		<ST1 Time="25-01-2016 10:35:55:574">0</ST1>
+		<ST2 Time="25-01-2016 10:35:55:575">0</ST2>
+		<ST3 Time="25-01-2016 10:35:55:576">0</ST3>
+		<Return Time="25-01-2016 10:35:55:577">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:35:55:916">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:35:55:917">
+			<StatusMovimento Time="25-01-2016 10:35:56:163">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:35:56:164">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:35:56:165">000000</Date>
+		<Return Time="25-01-2016 10:35:56:168">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:35:56:170">
+		<CAT Time="25-01-2016 10:35:56:171">0</CAT>
+		<RET0 Time="25-01-2016 10:35:56:172">1</RET0>
+		<RET1 Time="25-01-2016 10:35:56:173">0</RET1>
+		<RET2 Time="25-01-2016 10:35:56:174">0</RET2>
+		<RET3 Time="25-01-2016 10:35:56:176">0</RET3>
+		<ACK Time="25-01-2016 10:35:56:177">6</ACK>
+		<ST1 Time="25-01-2016 10:35:56:178">0</ST1>
+		<ST2 Time="25-01-2016 10:35:56:179">0</ST2>
+		<ST3 Time="25-01-2016 10:35:56:180">0</ST3>
+		<Return Time="25-01-2016 10:35:56:181">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:35:56:183">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:35:56:185">
+			<StatusMovimento Time="25-01-2016 10:35:56:428">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:35:56:429">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:35:56:431">000000</Date>
+		<Return Time="25-01-2016 10:35:56:432">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:35:56:435">
+		<Flag Time="25-01-2016 10:35:57:073">8</Flag>
+		<Return Time="25-01-2016 10:35:57:074">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:35:59:448">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:35:59:454">
+			<StatusMovimento Time="25-01-2016 10:35:59:802">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:35:59:803">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:35:59:804">000000</Date>
+		<Return Time="25-01-2016 10:35:59:805">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:35:59:816">
+		<CAT Time="25-01-2016 10:35:59:818">0</CAT>
+		<RET0 Time="25-01-2016 10:35:59:819">1</RET0>
+		<RET1 Time="25-01-2016 10:35:59:820">0</RET1>
+		<RET2 Time="25-01-2016 10:35:59:821">0</RET2>
+		<RET3 Time="25-01-2016 10:35:59:823">0</RET3>
+		<ACK Time="25-01-2016 10:35:59:824">6</ACK>
+		<ST1 Time="25-01-2016 10:35:59:825">0</ST1>
+		<ST2 Time="25-01-2016 10:35:59:826">0</ST2>
+		<ST3 Time="25-01-2016 10:35:59:828">0</ST3>
+		<Return Time="25-01-2016 10:35:59:829">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:35:59:858">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:35:59:859">
+			<StatusMovimento Time="25-01-2016 10:36:00:154">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:36:00:155">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:36:00:156">000000</Date>
+		<Return Time="25-01-2016 10:36:00:157">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:36:00:160">
+		<Flag Time="25-01-2016 10:36:00:746">8</Flag>
+		<Return Time="25-01-2016 10:36:00:747">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:36:05:177">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:36:05:178">
+			<StatusMovimento Time="25-01-2016 10:36:05:428">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:36:05:429">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:36:05:430">000000</Date>
+		<Return Time="25-01-2016 10:36:05:433">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:36:05:435">
+		<CAT Time="25-01-2016 10:36:05:436">0</CAT>
+		<RET0 Time="25-01-2016 10:36:05:438">1</RET0>
+		<RET1 Time="25-01-2016 10:36:05:439">0</RET1>
+		<RET2 Time="25-01-2016 10:36:05:440">0</RET2>
+		<RET3 Time="25-01-2016 10:36:05:441">0</RET3>
+		<ACK Time="25-01-2016 10:36:05:442">6</ACK>
+		<ST1 Time="25-01-2016 10:36:05:443">0</ST1>
+		<ST2 Time="25-01-2016 10:36:05:444">0</ST2>
+		<ST3 Time="25-01-2016 10:36:05:445">0</ST3>
+		<Return Time="25-01-2016 10:36:05:446">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:36:05:459">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:36:05:460">
+			<StatusMovimento Time="25-01-2016 10:36:05:702">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:36:05:703">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:36:05:704">000000</Date>
+		<Return Time="25-01-2016 10:36:05:705">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:36:05:708">
+		<Flag Time="25-01-2016 10:36:06:347">8</Flag>
+		<Return Time="25-01-2016 10:36:06:348">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:36:09:095">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:36:09:096">
+			<StatusMovimento Time="25-01-2016 10:36:09:346">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:36:09:347">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:36:09:348">000000</Date>
+		<Return Time="25-01-2016 10:36:09:348">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:36:09:360">
+		<CAT Time="25-01-2016 10:36:09:361">0</CAT>
+		<RET0 Time="25-01-2016 10:36:09:362">1</RET0>
+		<RET1 Time="25-01-2016 10:36:09:362">0</RET1>
+		<RET2 Time="25-01-2016 10:36:09:367">0</RET2>
+		<RET3 Time="25-01-2016 10:36:09:368">0</RET3>
+		<ACK Time="25-01-2016 10:36:09:368">6</ACK>
+		<ST1 Time="25-01-2016 10:36:09:369">0</ST1>
+		<ST2 Time="25-01-2016 10:36:09:370">0</ST2>
+		<ST3 Time="25-01-2016 10:36:09:371">0</ST3>
+		<Return Time="25-01-2016 10:36:09:371">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:36:09:372">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:36:09:373">
+			<StatusMovimento Time="25-01-2016 10:36:09:624">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:36:09:625">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:36:09:639">000000</Date>
+		<Return Time="25-01-2016 10:36:09:640">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:36:09:642">
+		<Flag Time="25-01-2016 10:36:10:287">8</Flag>
+		<Return Time="25-01-2016 10:36:10:288">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:36:13:167">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:36:13:168">
+			<StatusMovimento Time="25-01-2016 10:36:13:416">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:36:13:416">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:36:13:417">000000</Date>
+		<Return Time="25-01-2016 10:36:13:418">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:36:13:418">
+		<CAT Time="25-01-2016 10:36:13:419">0</CAT>
+		<RET0 Time="25-01-2016 10:36:13:420">1</RET0>
+		<RET1 Time="25-01-2016 10:36:13:421">0</RET1>
+		<RET2 Time="25-01-2016 10:36:13:422">0</RET2>
+		<RET3 Time="25-01-2016 10:36:13:422">0</RET3>
+		<ACK Time="25-01-2016 10:36:13:423">6</ACK>
+		<ST1 Time="25-01-2016 10:36:13:424">0</ST1>
+		<ST2 Time="25-01-2016 10:36:13:425">0</ST2>
+		<ST3 Time="25-01-2016 10:36:13:426">0</ST3>
+		<Return Time="25-01-2016 10:36:13:427">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:36:13:447">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:36:13:448">
+			<StatusMovimento Time="25-01-2016 10:36:13:696">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:36:13:697">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:36:13:697">000000</Date>
+		<Return Time="25-01-2016 10:36:13:698">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:36:13:714">
+		<Flag Time="25-01-2016 10:36:14:305">8</Flag>
+		<Return Time="25-01-2016 10:36:14:306">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:37:44:643">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:37:44:644">
+			<StatusMovimento Time="25-01-2016 10:37:44:939">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:37:44:939">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:37:44:940">000000</Date>
+		<Return Time="25-01-2016 10:37:44:941">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:37:44:947">
+		<CAT Time="25-01-2016 10:37:44:948">0</CAT>
+		<RET0 Time="25-01-2016 10:37:44:948">1</RET0>
+		<RET1 Time="25-01-2016 10:37:44:949">0</RET1>
+		<RET2 Time="25-01-2016 10:37:44:949">0</RET2>
+		<RET3 Time="25-01-2016 10:37:44:950">0</RET3>
+		<ACK Time="25-01-2016 10:37:44:950">6</ACK>
+		<ST1 Time="25-01-2016 10:37:44:951">0</ST1>
+		<ST2 Time="25-01-2016 10:37:44:951">0</ST2>
+		<ST3 Time="25-01-2016 10:37:44:952">0</ST3>
+		<Return Time="25-01-2016 10:37:44:953">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:38:33:021">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:38:33:021">
+			<StatusMovimento Time="25-01-2016 10:38:33:269">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:38:33:269">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:38:33:270">000000</Date>
+		<Return Time="25-01-2016 10:38:33:270">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:38:33:272">
+		<CAT Time="25-01-2016 10:38:33:272">0</CAT>
+		<RET0 Time="25-01-2016 10:38:33:273">1</RET0>
+		<RET1 Time="25-01-2016 10:38:33:273">0</RET1>
+		<RET2 Time="25-01-2016 10:38:33:274">0</RET2>
+		<RET3 Time="25-01-2016 10:38:33:274">0</RET3>
+		<ACK Time="25-01-2016 10:38:33:274">6</ACK>
+		<ST1 Time="25-01-2016 10:38:33:275">0</ST1>
+		<ST2 Time="25-01-2016 10:38:33:275">0</ST2>
+		<ST3 Time="25-01-2016 10:38:33:275">0</ST3>
+		<Return Time="25-01-2016 10:38:33:276">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:38:33:374">
+		<Flag Time="25-01-2016 10:38:33:968">8</Flag>
+		<Return Time="25-01-2016 10:38:33:969">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:39:06:622">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:39:06:623">
+			<StatusMovimento Time="25-01-2016 10:39:06:959">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:39:06:960">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:39:06:961">000000</Date>
+		<Return Time="25-01-2016 10:39:06:961">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:39:06:964">
+		<CAT Time="25-01-2016 10:39:06:965">0</CAT>
+		<RET0 Time="25-01-2016 10:39:06:966">1</RET0>
+		<RET1 Time="25-01-2016 10:39:06:966">0</RET1>
+		<RET2 Time="25-01-2016 10:39:06:967">0</RET2>
+		<RET3 Time="25-01-2016 10:39:06:967">0</RET3>
+		<ACK Time="25-01-2016 10:39:06:968">6</ACK>
+		<ST1 Time="25-01-2016 10:39:06:968">0</ST1>
+		<ST2 Time="25-01-2016 10:39:06:969">0</ST2>
+		<ST3 Time="25-01-2016 10:39:06:969">0</ST3>
+		<Return Time="25-01-2016 10:39:06:970">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:39:06:986">
+		<TotalGrid Time="25-01-2016 10:39:07:275">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 10:39:07:276">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:39:07:290">
+		<TotalGrid Time="25-01-2016 10:39:07:556">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 10:39:07:556">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_GrandeTotalDescriptografado Time="25-01-2016 10:39:07:557">
+		<encryptedTotalGrid Time="25-01-2016 10:39:07:557">DL¥¬€*ÃNjcºDö’ Î</encryptedTotalGrid>
+		<totalGrid Time="25-01-2016 10:39:07:558">000000006873209823</totalGrid>
+		<Return Time="25-01-2016 10:39:07:558">1</Return>
+	</Bematech_FI_GrandeTotalDescriptografado>
+	<Bematech_FI_GrandeTotalCriptografado Time="25-01-2016 10:39:07:561">
+		<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:39:07:561">
+			<TotalGrid Time="25-01-2016 10:39:07:805">000000006873209823</TotalGrid>
+			<Return Time="25-01-2016 10:39:07:806">1</Return>
+		</Bematech_FI_GrandeTotal>
+		<totalGridHex Time="25-01-2016 10:39:07:806">444CA5AC802AC34E6A63BA44F69216120CE</totalGridHex>
+		<Return Time="25-01-2016 10:39:07:808">1</Return>
+	</Bematech_FI_GrandeTotalCriptografado>
+	<Bematech_FI_NumeroSerieCV0909 CV="0909" Time="25-01-2016 10:39:07:822">
+		<SerialNumber Time="25-01-2016 10:39:08:067">BE101310100700000619</SerialNumber>
+		<Return Time="25-01-2016 10:39:08:068">1</Return>
+	</Bematech_FI_NumeroSerieCV0909>
+	<Bematech_FI_GrandeTotalCriptografado Time="25-01-2016 10:39:08:073">
+		<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:39:08:074">
+			<TotalGrid Time="25-01-2016 10:39:08:369">000000006873209823</TotalGrid>
+			<Return Time="25-01-2016 10:39:08:370">1</Return>
+		</Bematech_FI_GrandeTotal>
+		<totalGridHex Time="25-01-2016 10:39:08:370">444CA5AC802AC34E6A63BA44F69216120CE</totalGridHex>
+		<Return Time="25-01-2016 10:39:08:371">1</Return>
+	</Bematech_FI_GrandeTotalCriptografado>
+	<Bematech_FI_VendaBruta CV="0909" Time="25-01-2016 10:39:08:372">
+		<VendaBruta Time="25-01-2016 10:39:08:621">000000000000000000</VendaBruta>
+		<Return Time="25-01-2016 10:39:08:622">1</Return>
+	</Bematech_FI_VendaBruta>
+	<Bematech_FI_NumeroReducoes CV="0909" Time="25-01-2016 10:39:08:626">
+		<NumeroReducoes Time="25-01-2016 10:39:08:867">0206</NumeroReducoes>
+		<Return Time="25-01-2016 10:39:08:868">1</Return>
+	</Bematech_FI_NumeroReducoes>
+	<Bematech_FI_NumeroIntervencoes CV="0909" Time="25-01-2016 10:39:08:877">
+		<NumeroIntervecoes Time="25-01-2016 10:39:09:167">0001</NumeroIntervecoes>
+		<Return Time="25-01-2016 10:39:09:168">1</Return>
+	</Bematech_FI_NumeroIntervencoes>
+	<Bematech_FI_VerificaEstadoGaveta CV="0909" Time="25-01-2016 10:39:10:005">
+		<EstadoGaveta Time="25-01-2016 10:39:10:247">1</EstadoGaveta>
+		<Return Time="25-01-2016 10:39:10:247">1</Return>
+	</Bematech_FI_VerificaEstadoGaveta>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:39:10:596">
+		<TotalGrid Time="25-01-2016 10:39:10:845">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 10:39:10:845">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_DataHoraImpressora CV="0909" Time="25-01-2016 10:39:11:190">
+		<Date Time="25-01-2016 10:39:11:483">250116</Date>
+		<Hour Time="25-01-2016 10:39:11:484">103212</Hour>
+		<Return Time="25-01-2016 10:39:11:484">1</Return>
+	</Bematech_FI_DataHoraImpressora>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:39:11:489">
+		<CAT Time="25-01-2016 10:39:11:490">0</CAT>
+		<RET0 Time="25-01-2016 10:39:11:491">1</RET0>
+		<RET1 Time="25-01-2016 10:39:11:491">0</RET1>
+		<RET2 Time="25-01-2016 10:39:11:492">0</RET2>
+		<RET3 Time="25-01-2016 10:39:11:492">0</RET3>
+		<ACK Time="25-01-2016 10:39:11:492">6</ACK>
+		<ST1 Time="25-01-2016 10:39:11:493">0</ST1>
+		<ST2 Time="25-01-2016 10:39:11:493">0</ST2>
+		<ST3 Time="25-01-2016 10:39:11:494">0</ST3>
+		<Return Time="25-01-2016 10:39:11:495">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:39:11:499">
+		<Flag Time="25-01-2016 10:39:12:086">8</Flag>
+		<Return Time="25-01-2016 10:39:12:087">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 10:39:15:924">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 10:39:15:925">
+			<StatusMovimento Time="25-01-2016 10:39:16:214">00000000</StatusMovimento>
+			<Return Time="25-01-2016 10:39:16:215">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 10:39:16:216">000000</Date>
+		<Return Time="25-01-2016 10:39:16:217">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:39:16:221">
+		<CAT Time="25-01-2016 10:39:16:222">0</CAT>
+		<RET0 Time="25-01-2016 10:39:16:222">1</RET0>
+		<RET1 Time="25-01-2016 10:39:16:223">0</RET1>
+		<RET2 Time="25-01-2016 10:39:16:223">0</RET2>
+		<RET3 Time="25-01-2016 10:39:16:224">0</RET3>
+		<ACK Time="25-01-2016 10:39:16:224">6</ACK>
+		<ST1 Time="25-01-2016 10:39:16:226">0</ST1>
+		<ST2 Time="25-01-2016 10:39:16:226">0</ST2>
+		<ST3 Time="25-01-2016 10:39:16:227">0</ST3>
+		<Return Time="25-01-2016 10:39:16:228">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_VerificaEstadoGaveta CV="0909" Time="25-01-2016 10:39:16:230">
+		<EstadoGaveta Time="25-01-2016 10:39:16:472">1</EstadoGaveta>
+		<Return Time="25-01-2016 10:39:16:473">1</Return>
+	</Bematech_FI_VerificaEstadoGaveta>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 10:39:16:556">
+		<TotalGrid Time="25-01-2016 10:39:16:804">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 10:39:16:805">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_DataHoraImpressora CV="0909" Time="25-01-2016 10:39:17:075">
+		<Date Time="25-01-2016 10:39:17:368">250116</Date>
+		<Hour Time="25-01-2016 10:39:17:369">103218</Hour>
+		<Return Time="25-01-2016 10:39:17:369">1</Return>
+	</Bematech_FI_DataHoraImpressora>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 10:39:17:375">
+		<CAT Time="25-01-2016 10:39:17:376">0</CAT>
+		<RET0 Time="25-01-2016 10:39:17:377">1</RET0>
+		<RET1 Time="25-01-2016 10:39:17:377">0</RET1>
+		<RET2 Time="25-01-2016 10:39:17:378">0</RET2>
+		<RET3 Time="25-01-2016 10:39:17:378">0</RET3>
+		<ACK Time="25-01-2016 10:39:17:379">6</ACK>
+		<ST1 Time="25-01-2016 10:39:17:379">0</ST1>
+		<ST2 Time="25-01-2016 10:39:17:380">0</ST2>
+		<ST3 Time="25-01-2016 10:39:17:380">0</ST3>
+		<Return Time="25-01-2016 10:39:17:381">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:39:17:384">
+		<Flag Time="25-01-2016 10:39:18:017">8</Flag>
+		<Return Time="25-01-2016 10:39:18:017">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 10:39:18:675">
+		<Flag Time="25-01-2016 10:39:19:261">8</Flag>
+		<Return Time="25-01-2016 10:39:19:262">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<readBemaFIFile Time="25-01-2016 16:03:15:602">
+		<NivelLog Time="25-01-2016 16:03:15:603">1</NivelLog>
+		<Path Time="25-01-2016 16:03:15:603">C:\conector\MFD\</Path>
+		<BemaFI_path Time="25-01-2016 16:03:15:604">C:\Windows\system32\bemafi32.dll</BemaFI_path>
+		<BemaFI_version Time="25-01-2016 16:03:15:604">7,0,0,74</BemaFI_version>
+		<BemaFI_path_configuracao Time="25-01-2016 16:03:15:605">C:\Windows\system32\bemafi.xml</BemaFI_path_configuracao>
+		<Path_manutencao Time="25-01-2016 16:03:15:605">C:\Windows\system32\manutencao.xml</Path_manutencao>
+		<BemaMFD_path Time="25-01-2016 16:03:15:658">C:\Windows\system32\bemaMFD.dll</BemaMFD_path>
+		<BemaMFD_version Time="25-01-2016 16:03:15:658">2,1,1,1</BemaMFD_version>
+		<BemaMFD2_path Time="25-01-2016 16:03:15:726">C:\Windows\system32\bemaMFD2.dll</BemaMFD2_path>
+		<BemaMFD2_version Time="25-01-2016 16:03:15:727">2,1,1,5</BemaMFD2_version>
+		<BemaMFD3_path Time="25-01-2016 16:03:16:045">C:\Windows\system32\bemaMFD3.dll</BemaMFD3_path>
+		<BemaMFD3_version Time="25-01-2016 16:03:16:046">1,0,0,0</BemaMFD3_version>
+		<Porta Time="25-01-2016 16:03:16:047">COM3</Porta>
+		<BaudRate Time="25-01-2016 16:03:16:048">9600</BaudRate>
+		<Status Time="25-01-2016 16:03:16:049">0</Status>
+		<Retorno Time="25-01-2016 16:03:16:049">0</Retorno>
+		<StatusFuncao Time="25-01-2016 16:03:16:050">0</StatusFuncao>
+		<ControlePorta Time="25-01-2016 16:03:16:051">1</ControlePorta>
+		<ModoGaveta Time="25-01-2016 16:03:16:052">0</ModoGaveta>
+		<CrLfVinculado Time="25-01-2016 16:03:16:052">1</CrLfVinculado>
+		<CrLfGerencial Time="25-01-2016 16:03:16:053">1</CrLfGerencial>
+		<TimeOutReducaoZ Time="25-01-2016 16:03:16:054">5940</TimeOutReducaoZ>
+		<TimeOutGerencialExtendido Time="25-01-2016 16:03:16:055">40</TimeOutGerencialExtendido>
+		<ConfigRede Time="25-01-2016 16:03:16:056">0</ConfigRede>
+		<Tentativas Time="25-01-2016 16:03:16:056">10</Tentativas>
+		<WakMilisegundos Time="25-01-2016 16:03:16:058">40</WakMilisegundos>
+		<TimeoutSegundos Time="25-01-2016 16:03:16:059">20</TimeoutSegundos>
+		<VersaoAtoCotepe Time="25-01-2016 16:03:16:060">1</VersaoAtoCotepe>
+		<CleanValidation Time="25-01-2016 16:03:16:061">0</CleanValidation>
+		<ProtocoloUnico Time="25-01-2016 16:03:16:062">1</ProtocoloUnico>
+		<GerarRFD Time="25-01-2016 16:03:16:063">0</GerarRFD>
+		<CAT52 Time="25-01-2016 16:03:16:064">0</CAT52>
+		<CupomMania Time="25-01-2016 16:03:16:065">0</CupomMania>
+		<MinasLegal Time="25-01-2016 16:03:16:066">0</MinasLegal>
+		<NotaFiscalParanaense Time="25-01-2016 16:03:16:067">0</NotaFiscalParanaense>
+		<NotaLegal Time="25-01-2016 16:03:16:068">0</NotaLegal>
+		<ParaibaLegal Time="25-01-2016 16:03:16:069">0</ParaibaLegal>
+		<CupomAdicional Time="25-01-2016 16:03:16:070">0</CupomAdicional>
+		<Impressora Time="25-01-2016 16:03:16:071">1</Impressora>
+		<EmulMFD Time="25-01-2016 16:03:16:072">0</EmulMFD>
+		<Aliquota01 Time="25-01-2016 16:03:16:073"></Aliquota01>
+		<Aliquota02 Time="25-01-2016 16:03:16:074"></Aliquota02>
+		<Aliquota03 Time="25-01-2016 16:03:16:077"></Aliquota03>
+		<Aliquota04 Time="25-01-2016 16:03:16:078"></Aliquota04>
+		<Aliquota05 Time="25-01-2016 16:03:16:079"></Aliquota05>
+		<Aliquota06 Time="25-01-2016 16:03:16:080"></Aliquota06>
+		<Aliquota07 Time="25-01-2016 16:03:16:081"></Aliquota07>
+		<Aliquota08 Time="25-01-2016 16:03:16:082"></Aliquota08>
+		<Aliquota09 Time="25-01-2016 16:03:16:083"></Aliquota09>
+		<Aliquota10 Time="25-01-2016 16:03:16:084"></Aliquota10>
+		<Aliquota11 Time="25-01-2016 16:03:16:085"></Aliquota11>
+		<Aliquota12 Time="25-01-2016 16:03:16:086"></Aliquota12>
+		<Aliquota13 Time="25-01-2016 16:03:16:087"></Aliquota13>
+		<Aliquota14 Time="25-01-2016 16:03:16:088"></Aliquota14>
+		<Aliquota15 Time="25-01-2016 16:03:16:089"></Aliquota15>
+		<Aliquota16 Time="25-01-2016 16:03:16:090"></Aliquota16>
+		<COO Time="25-01-2016 16:03:16:091"></COO>
+		<NumeroAplicativo Time="25-01-2016 16:03:16:092">ConectorPDV</NumeroAplicativo>
+		<CNPJ Time="25-01-2016 16:03:16:093">19386573000123</CNPJ>
+		<IE Time="25-01-2016 16:03:16:094">0022756120081</IE>
+		<IM Time="25-01-2016 16:03:16:095">3070316670</IM>
+		<RazaoSocial Time="25-01-2016 16:03:16:096">Fat Automacao e Consultoria Ltda</RazaoSocial>
+		<NomeAplicativo Time="25-01-2016 16:03:16:097">ConectorPDV</NomeAplicativo>
+		<Versao Time="25-01-2016 16:03:16:098">1</Versao>
+		<Linha1 Time="25-01-2016 16:03:16:099"></Linha1>
+		<Linha2 Time="25-01-2016 16:03:16:100"></Linha2>
+		<IM_ECF Time="25-01-2016 16:03:16:101"></IM_ECF>
+		<UF Time="25-01-2016 16:03:16:102"></UF>
+		<Cidade Time="25-01-2016 16:03:16:103"></Cidade>
+		<Favorecido Time="25-01-2016 16:03:16:104"></Favorecido>
+		<Return Time="25-01-2016 16:03:16:105">1</Return>
+	</readBemaFIFile>
+	<Bematech_FI_ModeloImpressora CV="0909" Time="25-01-2016 16:03:16:164">
+		<ModeloImpressora Time="25-01-2016 16:03:16:576">MP4200FI</ModeloImpressora>
+		<Return Time="25-01-2016 16:03:16:577">1</Return>
+	</Bematech_FI_ModeloImpressora>
+	<Bematech_FI_VersaoFirmwareCV0909 CV="0909" Time="25-01-2016 16:03:16:578">
+		<Versao Time="25-01-2016 16:03:16:886">010000</Versao>
+		<Return Time="25-01-2016 16:03:16:887">1</Return>
+	</Bematech_FI_VersaoFirmwareCV0909>
+	<Bematech_FI_RetornoAliquotasCV0909 CV="0909" Time="25-01-2016 16:03:16:888">
+		<Aliquotas Time="25-01-2016 16:03:17:210">1800,1200,0700,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000</Aliquotas>
+		<Return Time="25-01-2016 16:03:17:211">1</Return>
+	</Bematech_FI_RetornoAliquotasCV0909>
+	<Bematech_FI_TabelaFormasPagamento CV="0909" Time="25-01-2016 16:03:17:212">
+		<TabelaFormasPagamento Time="25-01-2016 16:03:17:520">Dinheiro,0,Cheque,1,Crediario,1,Convenio,1,Cartao Credito,1,Cartao Debito,1,Boleto,0,Duplicata,0,Recebimento,0,Vale,0</TabelaFormasPagamento>
+		<Return Time="25-01-2016 16:03:17:521">1</Return>
+	</Bematech_FI_TabelaFormasPagamento>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="25-01-2016 16:03:17:522">
+		<Return Time="25-01-2016 16:03:17:556">1</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<Bematech_FI_NumeroSerieCV0909 CV="0909" Time="25-01-2016 16:03:17:816">
+		<SerialNumber Time="25-01-2016 16:03:18:058">BE101310100700000619</SerialNumber>
+		<Return Time="25-01-2016 16:03:18:058">1</Return>
+	</Bematech_FI_NumeroSerieCV0909>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="25-01-2016 16:03:19:394">
+		<Return Time="25-01-2016 16:03:19:449">1</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="25-01-2016 16:03:19:583">
+		<Return Time="25-01-2016 16:03:19:613">1</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<Bematech_FI_NumeroCaixa CV="0909" Time="25-01-2016 16:03:19:615">
+		<NumeroCaixa Time="25-01-2016 16:03:19:898">001</NumeroCaixa>
+		<Return Time="25-01-2016 16:03:19:898">1</Return>
+	</Bematech_FI_NumeroCaixa>
+	<Bematech_FI_NumeroLoja CV="0909" Time="25-01-2016 16:03:19:899">
+		<NumeroLoja Time="25-01-2016 16:03:20:146">001</NumeroLoja>
+		<Return Time="25-01-2016 16:03:20:147">1</Return>
+	</Bematech_FI_NumeroLoja>
+	<Bematech_FI_HabilitaDesabilitaRetornoEstendidoMFD Time="25-01-2016 16:03:24:435">
+		<Return Time="25-01-2016 16:03:24:435">1</Return>
+	</Bematech_FI_HabilitaDesabilitaRetornoEstendidoMFD>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="25-01-2016 16:03:24:436">
+		<Return Time="25-01-2016 16:03:24:508">1</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="25-01-2016 16:03:24:512">
+		<Return Time="25-01-2016 16:03:24:594">1</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<Bematech_FI_DataHoraGravacaoUsuarioSWBasicoMFAdicional CV="0909" Time="25-01-2016 16:03:24:596">
+		<Bematech_FI_NumeroReducoes CV="0909" Time="25-01-2016 16:03:24:597">
+			<NumeroReducoes Time="25-01-2016 16:03:24:880">0206</NumeroReducoes>
+			<Return Time="25-01-2016 16:03:24:881">1</Return>
+		</Bematech_FI_NumeroReducoes>
+		<Bematech_FI_LeituraMemoriaFiscalSerialReducaoCV0909 CV="0909" Time="25-01-2016 16:03:24:882">
+			<initialReduction Time="25-01-2016 16:03:24:883">0206</initialReduction>
+			<finalReduction Time="25-01-2016 16:03:24:883">0206</finalReduction>
+			<readFlag Time="25-01-2016 16:03:24:884">S</readFlag>
+			<Return Time="25-01-2016 16:03:27:507">1</Return>
+		</Bematech_FI_LeituraMemoriaFiscalSerialReducaoCV0909>
+		<UserDate Time="25-01-2016 16:03:27:509">12/03/2014 13:36:35 </UserDate>
+		<SBDate Time="25-01-2016 16:03:27:509">18/10/2013 11:39:48 </SBDate>
+		<AdditionalLetter Time="25-01-2016 16:03:27:510"> </AdditionalLetter>
+		<Return Time="25-01-2016 16:03:27:511">1</Return>
+	</Bematech_FI_DataHoraGravacaoUsuarioSWBasicoMFAdicional>
+	<Bematech_FI_MarcaModeloTipoImpressoraMFD CV="0909" Time="25-01-2016 16:03:27:514">
+		<Bematech_FI_MarcaImpressora CV="0909" Time="25-01-2016 16:03:27:515">
+			<MarcaImpressora Time="25-01-2016 16:03:27:764">BEMATECH       </MarcaImpressora>
+			<Return Time="25-01-2016 16:03:27:764">1</Return>
+		</Bematech_FI_MarcaImpressora>
+		<Bematech_FI_ModeloImpressora CV="0909" Time="25-01-2016 16:03:27:765">
+			<ModeloImpressora Time="25-01-2016 16:03:28:056">MP4200FI</ModeloImpressora>
+			<Return Time="25-01-2016 16:03:28:056">1</Return>
+		</Bematech_FI_ModeloImpressora>
+		<Bematech_FI_TipoImpressora CV="0909" Time="25-01-2016 16:03:28:057">
+			<TipoImpressora Time="25-01-2016 16:03:28:302">ECF-IF</TipoImpressora>
+			<Return Time="25-01-2016 16:03:28:302">1</Return>
+		</Bematech_FI_TipoImpressora>
+		<Marca Time="25-01-2016 16:03:28:303">BEMATECH       </Marca>
+		<Modelo Time="25-01-2016 16:03:28:304">MP-4200 TH FI</Modelo>
+		<Tipo Time="25-01-2016 16:03:28:305">ECF-IF</Tipo>
+		<Return Time="25-01-2016 16:03:28:305">1</Return>
+	</Bematech_FI_MarcaModeloTipoImpressoraMFD>
+	<Bematech_FI_NumeroSerieCV0909 CV="0909" Time="25-01-2016 16:03:28:307">
+		<SerialNumber Time="25-01-2016 16:03:28:599">BE101310100700000619</SerialNumber>
+		<Return Time="25-01-2016 16:03:28:600">1</Return>
+	</Bematech_FI_NumeroSerieCV0909>
+	<Bematech_FI_VersaoFirmware CV="0909" Time="25-01-2016 16:03:28:744">
+		<Versao Time="25-01-2016 16:03:28:988">0100</Versao>
+		<Return Time="25-01-2016 16:03:28:988">1</Return>
+	</Bematech_FI_VersaoFirmware>
+	<Bematech_FI_NumeroSubstituicoesProprietario CV="0909" Time="25-01-2016 16:03:28:989">
+		<NumeroSubstituicoes Time="25-01-2016 16:03:28:990">0001</NumeroSubstituicoes>
+		<Return Time="25-01-2016 16:03:28:991">-1</Return>
+	</Bematech_FI_NumeroSubstituicoesProprietario>
+	<Bematech_FI_DataHoraReducao CV="0909" Time="25-01-2016 16:03:28:993">
+		<Bematech_FI_DadosUltimaReducaoCV0909 CV="0909" Time="25-01-2016 16:03:28:994">
+			<Bematech_FI_NumeroReducoes CV="0909" Time="25-01-2016 16:03:28:994">
+				<NumeroReducoes Time="25-01-2016 16:03:29:244">0206</NumeroReducoes>
+				<Return Time="25-01-2016 16:03:29:244">1</Return>
+			</Bematech_FI_NumeroReducoes>
+			<ReductionData Time="25-01-2016 16:03:29:946">206,25012016,25012016102219 ,1,6407,6436,1,4030,000,000,000,000,000,000,1000,3,T,1800,4030,T,1200,000,T,0700,000,F1,0000,000,I1,0000,000,N1,0000,000,FS1,0000,000,IS1,0000,000,NS1,0000,000,010000,19386573000123,0022756120081,3070316670</ReductionData>
+			<Return Time="25-01-2016 16:03:29:946">1</Return>
+		</Bematech_FI_DadosUltimaReducaoCV0909>
+		<Date Time="25-01-2016 16:03:29:947">250116</Date>
+		<Hour Time="25-01-2016 16:03:29:948">102219</Hour>
+		<Return Time="25-01-2016 16:03:29:948">1</Return>
+	</Bematech_FI_DataHoraReducao>
+	<Bematech_FI_VendaBruta CV="0909" Time="25-01-2016 16:03:29:950">
+		<VendaBruta Time="25-01-2016 16:03:30:200">000000000000000000</VendaBruta>
+		<Return Time="25-01-2016 16:03:30:200">1</Return>
+	</Bematech_FI_VendaBruta>
+	<Bematech_FI_DadosUltimaReducaoMFD CV="0909" Time="25-01-2016 16:03:30:202">
+		<Bematech_FI_DadosUltimaReducaoCV0909 CV="0909" Time="25-01-2016 16:03:30:203">
+			<Bematech_FI_NumeroReducoes CV="0909" Time="25-01-2016 16:03:30:204">
+				<NumeroReducoes Time="25-01-2016 16:03:30:445">0206</NumeroReducoes>
+				<Return Time="25-01-2016 16:03:30:446">1</Return>
+			</Bematech_FI_NumeroReducoes>
+			<ReductionData Time="25-01-2016 16:03:31:142">206,25012016,25012016102219 ,1,6407,6436,1,4030,000,000,000,000,000,000,1000,3,T,1800,4030,T,1200,000,T,0700,000,F1,0000,000,I1,0000,000,N1,0000,000,FS1,0000,000,IS1,0000,000,NS1,0000,000,010000,19386573000123,0022756120081,3070316670</ReductionData>
+			<Return Time="25-01-2016 16:03:31:142">1</Return>
+		</Bematech_FI_DadosUltimaReducaoCV0909>
+		<Bematech_FI_GrandeTotalReducaoZ CV="0909" Time="25-01-2016 16:03:31:145">
+			<number Time="25-01-2016 16:03:31:146">0206</number>
+			<ValorInicial Time="25-01-2016 16:03:31:711">6873205793</ValorInicial>
+			<ValorFinal Time="25-01-2016 16:03:31:712">6873209823</ValorFinal>
+			<Return Time="25-01-2016 16:03:31:712">1</Return>
+		</Bematech_FI_GrandeTotalReducaoZ>
+		<ReductionData Time="25-01-2016 16:03:31:716">00,0001,0206,006436,000000,000000,000000,000000,0000,0000,000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0000,0000,0000,000000006873209823,00000000004030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,00000000000000,00000000000000,00000000000000,00000000000000,00000000000000,00000000000000,00000000000000,00000000000000,00000000000000,00000000000000,00000000000000,00000000000000,00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,00000000000000,00000000000000,00000000000000,00000000000000,00000000000000,1800120007000000000000000000000000000000000000000000000000000000,250116</ReductionData>
+		<Modo Time="25-01-2016 16:03:31:717">00</Modo>
+		<ContadorReinicioOperacao Time="25-01-2016 16:03:31:718">0001</ContadorReinicioOperacao>
+		<ContadorReducaoZ Time="25-01-2016 16:03:31:718">0206</ContadorReducaoZ>
+		<COO Time="25-01-2016 16:03:31:719">006436</COO>
+		<ContadorGeralOperacoesNaoFiscais Time="25-01-2016 16:03:31:720">000000</ContadorGeralOperacoesNaoFiscais>
+		<ContadorCupomFiscal Time="25-01-2016 16:03:31:720">000000</ContadorCupomFiscal>
+		<ContadorGeralRelatorioGerencial Time="25-01-2016 16:03:31:721">000000</ContadorGeralRelatorioGerencial>
+		<ContadorFitaDetalheEmitida Time="25-01-2016 16:03:31:722">000000</ContadorFitaDetalheEmitida>
+		<ContadorOperacaoNaoFiscalCancelada Time="25-01-2016 16:03:31:723">0000</ContadorOperacaoNaoFiscalCancelada>
+		<ContadorCupomFiscalCandelado Time="25-01-2016 16:03:31:723">0000</ContadorCupomFiscalCandelado>
+		<ContadorEspecificoOperacoesNaoFiscais Time="25-01-2016 16:03:31:724">000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</ContadorEspecificoOperacoesNaoFiscais>
+		<ContadorEspecificoRelatoriosGerenciais Time="25-01-2016 16:03:31:725">000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</ContadorEspecificoRelatoriosGerenciais>
+		<ContadorComprovantesDebitoCredito Time="25-01-2016 16:03:31:726">0000</ContadorComprovantesDebitoCredito>
+		<ContadorComprovantesDebitoCreditoNaoEmitidos Time="25-01-2016 16:03:31:726">0000</ContadorComprovantesDebitoCreditoNaoEmitidos>
+		<ContadorComprovantesDebitoCreditoCancelados Time="25-01-2016 16:03:31:727">0000</ContadorComprovantesDebitoCreditoCancelados>
+		<GrandeTotal Time="25-01-2016 16:03:31:728">000000006873209823</GrandeTotal>
+		<TotalizadoresParciaisTributados Time="25-01-2016 16:03:31:728">00000000004030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</TotalizadoresParciaisTributados>
+		<TotalizadorIsencaoICMS Time="25-01-2016 16:03:31:729">00000000000000</TotalizadorIsencaoICMS>
+		<TotalizadorNaoIncidenciaICMS Time="25-01-2016 16:03:31:730">00000000000000</TotalizadorNaoIncidenciaICMS>
+		<TotalizadorSubstituicaoTributariaICMS Time="25-01-2016 16:03:31:730">00000000000000</TotalizadorSubstituicaoTributariaICMS>
+		<TotalizadorIsencaoISSQN Time="25-01-2016 16:03:31:731">00000000000000</TotalizadorIsencaoISSQN>
+		<TotalizadorNaoIncidenciaISSQN Time="25-01-2016 16:03:31:732">00000000000000</TotalizadorNaoIncidenciaISSQN>
+		<TotalizadorSubstituicaoTributariaISSQN Time="25-01-2016 16:03:31:732">00000000000000</TotalizadorSubstituicaoTributariaISSQN>
+		<TotalizadorDescontosICSM Time="25-01-2016 16:03:31:733">00000000000000</TotalizadorDescontosICSM>
+		<TotalizadorDescontosISSQN Time="25-01-2016 16:03:31:734">00000000000000</TotalizadorDescontosISSQN>
+		<TotalizadorAcrescimosICMS Time="25-01-2016 16:03:31:734">00000000000000</TotalizadorAcrescimosICMS>
+		<TotalizadorAcrescimosISSQN Time="25-01-2016 16:03:31:735">00000000000000</TotalizadorAcrescimosISSQN>
+		<TotalizadorCancelamentosICMS Time="25-01-2016 16:03:31:736">00000000000000</TotalizadorCancelamentosICMS>
+		<TotalizadorCancelamentosISSQN Time="25-01-2016 16:03:31:736">00000000000000</TotalizadorCancelamentosISSQN>
+		<TotalizadoresParciaisNaoSujeitosICMS Time="25-01-2016 16:03:31:737">00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</TotalizadoresParciaisNaoSujeitosICMS>
+		<Sangria Time="25-01-2016 16:03:31:738">00000000000000</Sangria>
+		<Suprimento Time="25-01-2016 16:03:31:739">00000000000000</Suprimento>
+		<TotalizadorCancelamentosNaoFiscais Time="25-01-2016 16:03:31:739">00000000000000</TotalizadorCancelamentosNaoFiscais>
+		<TotalizadorDescontosNaoFiscais Time="25-01-2016 16:03:31:740">00000000000000</TotalizadorDescontosNaoFiscais>
+		<TotalizadorAcrescimosNaoFiscais Time="25-01-2016 16:03:31:741">00000000000000</TotalizadorAcrescimosNaoFiscais>
+		<AliquotasTributarias Time="25-01-2016 16:03:31:741">1800120007000000000000000000000000000000000000000000000000000000</AliquotasTributarias>
+		<DataMovimento Time="25-01-2016 16:03:31:742">250116</DataMovimento>
+		<Return Time="25-01-2016 16:03:31:743">1</Return>
+	</Bematech_FI_DadosUltimaReducaoMFD>
+	<Bematech_FI_DataHoraReducao CV="0909" Time="25-01-2016 16:03:31:769">
+		<Bematech_FI_DadosUltimaReducaoCV0909 CV="0909" Time="25-01-2016 16:03:31:770">
+			<Bematech_FI_NumeroReducoes CV="0909" Time="25-01-2016 16:03:31:771">
+				<NumeroReducoes Time="25-01-2016 16:03:32:063">0206</NumeroReducoes>
+				<Return Time="25-01-2016 16:03:32:064">1</Return>
+			</Bematech_FI_NumeroReducoes>
+			<ReductionData Time="25-01-2016 16:03:32:719">206,25012016,25012016102219 ,1,6407,6436,1,4030,000,000,000,000,000,000,1000,3,T,1800,4030,T,1200,000,T,0700,000,F1,0000,000,I1,0000,000,N1,0000,000,FS1,0000,000,IS1,0000,000,NS1,0000,000,010000,19386573000123,0022756120081,3070316670</ReductionData>
+			<Return Time="25-01-2016 16:03:32:720">1</Return>
+		</Bematech_FI_DadosUltimaReducaoCV0909>
+		<Date Time="25-01-2016 16:03:32:721">250116</Date>
+		<Hour Time="25-01-2016 16:03:32:721">102219</Hour>
+		<Return Time="25-01-2016 16:03:32:722">1</Return>
+	</Bematech_FI_DataHoraReducao>
+	<Bematech_FI_VerificaTruncamento CV="0909" Time="25-01-2016 16:03:32:724">
+		<Flag Time="25-01-2016 16:03:32:785">0</Flag>
+		<Return Time="25-01-2016 16:03:32:785">1</Return>
+	</Bematech_FI_VerificaTruncamento>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 16:03:32:787">
+		<TotalGrid Time="25-01-2016 16:03:33:071">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 16:03:33:072">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 16:03:33:085">
+		<TotalGrid Time="25-01-2016 16:03:33:335">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 16:03:33:336">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_GrandeTotalDescriptografado Time="25-01-2016 16:03:33:338">
+		<encryptedTotalGrid Time="25-01-2016 16:03:33:339">DL¥¬€*ÃNjcºDö’ Î</encryptedTotalGrid>
+		<totalGrid Time="25-01-2016 16:03:33:340">000000006873209823</totalGrid>
+		<Return Time="25-01-2016 16:03:33:340">1</Return>
+	</Bematech_FI_GrandeTotalDescriptografado>
+	<Bematech_FI_NumeroLoja CV="0909" Time="25-01-2016 16:03:33:344">
+		<NumeroLoja Time="25-01-2016 16:03:33:587">001</NumeroLoja>
+		<Return Time="25-01-2016 16:03:33:588">1</Return>
+	</Bematech_FI_NumeroLoja>
+	<Bematech_FI_CGC_IE CV="0909" Time="25-01-2016 16:03:33:590">
+		<Bematech_FI_CNPJCV0909 CV="0909" Time="25-01-2016 16:03:33:590">
+			<CNPJ Time="25-01-2016 16:03:33:883">19386573000123</CNPJ>
+			<Return Time="25-01-2016 16:03:33:884">1</Return>
+		</Bematech_FI_CNPJCV0909>
+		<Bematech_FI_InscricaoEstadual CV="0909" Time="25-01-2016 16:03:33:885">
+			<IE Time="25-01-2016 16:03:34:129">0022756120081</IE>
+			<Return Time="25-01-2016 16:03:34:130">1</Return>
+		</Bematech_FI_InscricaoEstadual>
+		<CGC Time="25-01-2016 16:03:34:130">19386573000123</CGC>
+		<IE Time="25-01-2016 16:03:34:131">0022756120081</IE>
+		<Return Time="25-01-2016 16:03:34:132">1</Return>
+	</Bematech_FI_CGC_IE>
+	<Bematech_FI_NumeroCaixa CV="0909" Time="25-01-2016 16:03:34:136">
+		<NumeroCaixa Time="25-01-2016 16:03:34:381">001</NumeroCaixa>
+		<Return Time="25-01-2016 16:03:34:382">1</Return>
+	</Bematech_FI_NumeroCaixa>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 16:03:34:386">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 16:03:34:387">
+			<StatusMovimento Time="25-01-2016 16:03:34:677">00000000</StatusMovimento>
+			<Return Time="25-01-2016 16:03:34:678">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 16:03:34:678">000000</Date>
+		<Return Time="25-01-2016 16:03:34:679">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_DataHoraImpressora CV="0909" Time="25-01-2016 16:03:34:683">
+		<Date Time="25-01-2016 16:03:35:019">250116</Date>
+		<Hour Time="25-01-2016 16:03:35:020">155636</Hour>
+		<Return Time="25-01-2016 16:03:35:020">1</Return>
+	</Bematech_FI_DataHoraImpressora>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 16:03:35:026">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 16:03:35:027">
+			<StatusMovimento Time="25-01-2016 16:03:35:275">00000000</StatusMovimento>
+			<Return Time="25-01-2016 16:03:35:276">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 16:03:35:276">000000</Date>
+		<Return Time="25-01-2016 16:03:35:277">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_ProgramaFormaPagamentoMFD CV="0909" Time="25-01-2016 16:03:35:279">
+		<paymentForm Time="25-01-2016 16:03:35:280">Dinheiro</paymentForm>
+		<operationTef Time="25-01-2016 16:03:35:281">0</operationTef>
+		<Bematech_FI_ProgramaFormaPagamentoCV0909 CV="0909" Time="25-01-2016 16:03:35:282">
+			<paymentIndex Time="25-01-2016 16:03:35:282">0</paymentIndex>
+			<paymentForm Time="25-01-2016 16:03:35:283">Dinheiro</paymentForm>
+			<linkedCCD Time="25-01-2016 16:03:35:284">0</linkedCCD>
+			<Return Time="25-01-2016 16:03:35:285">-2</Return>
+		</Bematech_FI_ProgramaFormaPagamentoCV0909>
+		<Return Time="25-01-2016 16:03:35:285">1</Return>
+	</Bematech_FI_ProgramaFormaPagamentoMFD>
+	<Bematech_FI_ProgramaFormaPagamentoMFD CV="0909" Time="25-01-2016 16:03:35:286">
+		<paymentForm Time="25-01-2016 16:03:35:287">Cheque</paymentForm>
+		<operationTef Time="25-01-2016 16:03:35:288">1</operationTef>
+		<Bematech_FI_ProgramaFormaPagamentoCV0909 CV="0909" Time="25-01-2016 16:03:35:288">
+			<paymentIndex Time="25-01-2016 16:03:35:289">0</paymentIndex>
+			<paymentForm Time="25-01-2016 16:03:35:290">Cheque</paymentForm>
+			<linkedCCD Time="25-01-2016 16:03:35:290">1</linkedCCD>
+			<Return Time="25-01-2016 16:03:35:291">-2</Return>
+		</Bematech_FI_ProgramaFormaPagamentoCV0909>
+		<Return Time="25-01-2016 16:03:35:292">1</Return>
+	</Bematech_FI_ProgramaFormaPagamentoMFD>
+	<Bematech_FI_ProgramaFormaPagamentoMFD CV="0909" Time="25-01-2016 16:03:35:293">
+		<paymentForm Time="25-01-2016 16:03:35:293">Crediario</paymentForm>
+		<operationTef Time="25-01-2016 16:03:35:294">1</operationTef>
+		<Bematech_FI_ProgramaFormaPagamentoCV0909 CV="0909" Time="25-01-2016 16:03:35:295">
+			<paymentIndex Time="25-01-2016 16:03:35:295">0</paymentIndex>
+			<paymentForm Time="25-01-2016 16:03:35:296">Crediario</paymentForm>
+			<linkedCCD Time="25-01-2016 16:03:35:297">1</linkedCCD>
+			<Return Time="25-01-2016 16:03:35:298">-2</Return>
+		</Bematech_FI_ProgramaFormaPagamentoCV0909>
+		<Return Time="25-01-2016 16:03:35:298">1</Return>
+	</Bematech_FI_ProgramaFormaPagamentoMFD>
+	<Bematech_FI_ProgramaFormaPagamentoMFD CV="0909" Time="25-01-2016 16:03:35:299">
+		<paymentForm Time="25-01-2016 16:03:35:300">Convenio</paymentForm>
+		<operationTef Time="25-01-2016 16:03:35:300">1</operationTef>
+		<Bematech_FI_ProgramaFormaPagamentoCV0909 CV="0909" Time="25-01-2016 16:03:35:301">
+			<paymentIndex Time="25-01-2016 16:03:35:302">0</paymentIndex>
+			<paymentForm Time="25-01-2016 16:03:35:303">Convenio</paymentForm>
+			<linkedCCD Time="25-01-2016 16:03:35:303">1</linkedCCD>
+			<Return Time="25-01-2016 16:03:35:304">-2</Return>
+		</Bematech_FI_ProgramaFormaPagamentoCV0909>
+		<Return Time="25-01-2016 16:03:35:305">1</Return>
+	</Bematech_FI_ProgramaFormaPagamentoMFD>
+	<Bematech_FI_ProgramaFormaPagamentoMFD CV="0909" Time="25-01-2016 16:03:35:306">
+		<paymentForm Time="25-01-2016 16:03:35:306">Cartao Credito</paymentForm>
+		<operationTef Time="25-01-2016 16:03:35:307">1</operationTef>
+		<Bematech_FI_ProgramaFormaPagamentoCV0909 CV="0909" Time="25-01-2016 16:03:35:308">
+			<paymentIndex Time="25-01-2016 16:03:35:308">0</paymentIndex>
+			<paymentForm Time="25-01-2016 16:03:35:309">Cartao Credito</paymentForm>
+			<linkedCCD Time="25-01-2016 16:03:35:310">1</linkedCCD>
+			<Return Time="25-01-2016 16:03:35:310">-2</Return>
+		</Bematech_FI_ProgramaFormaPagamentoCV0909>
+		<Return Time="25-01-2016 16:03:35:311">1</Return>
+	</Bematech_FI_ProgramaFormaPagamentoMFD>
+	<Bematech_FI_ProgramaFormaPagamentoMFD CV="0909" Time="25-01-2016 16:03:35:312">
+		<paymentForm Time="25-01-2016 16:03:35:313">Cartao Debito</paymentForm>
+		<operationTef Time="25-01-2016 16:03:35:313">1</operationTef>
+		<Bematech_FI_ProgramaFormaPagamentoCV0909 CV="0909" Time="25-01-2016 16:03:35:314">
+			<paymentIndex Time="25-01-2016 16:03:35:315">0</paymentIndex>
+			<paymentForm Time="25-01-2016 16:03:35:315">Cartao Debito</paymentForm>
+			<linkedCCD Time="25-01-2016 16:03:35:316">1</linkedCCD>
+			<Return Time="25-01-2016 16:03:35:317">-2</Return>
+		</Bematech_FI_ProgramaFormaPagamentoCV0909>
+		<Return Time="25-01-2016 16:03:35:317">1</Return>
+	</Bematech_FI_ProgramaFormaPagamentoMFD>
+	<Bematech_FI_ProgramaFormaPagamentoMFD CV="0909" Time="25-01-2016 16:03:35:318">
+		<paymentForm Time="25-01-2016 16:03:35:319">Boleto</paymentForm>
+		<operationTef Time="25-01-2016 16:03:35:319">0</operationTef>
+		<Bematech_FI_ProgramaFormaPagamentoCV0909 CV="0909" Time="25-01-2016 16:03:35:320">
+			<paymentIndex Time="25-01-2016 16:03:35:321">0</paymentIndex>
+			<paymentForm Time="25-01-2016 16:03:35:321">Boleto</paymentForm>
+			<linkedCCD Time="25-01-2016 16:03:35:322">0</linkedCCD>
+			<Return Time="25-01-2016 16:03:35:323">-2</Return>
+		</Bematech_FI_ProgramaFormaPagamentoCV0909>
+		<Return Time="25-01-2016 16:03:35:323">1</Return>
+	</Bematech_FI_ProgramaFormaPagamentoMFD>
+	<Bematech_FI_ProgramaFormaPagamentoMFD CV="0909" Time="25-01-2016 16:03:35:324">
+		<paymentForm Time="25-01-2016 16:03:35:325">Duplicata</paymentForm>
+		<operationTef Time="25-01-2016 16:03:35:325">0</operationTef>
+		<Bematech_FI_ProgramaFormaPagamentoCV0909 CV="0909" Time="25-01-2016 16:03:35:326">
+			<paymentIndex Time="25-01-2016 16:03:35:327">0</paymentIndex>
+			<paymentForm Time="25-01-2016 16:03:35:328">Duplicata</paymentForm>
+			<linkedCCD Time="25-01-2016 16:03:35:328">0</linkedCCD>
+			<Return Time="25-01-2016 16:03:35:329">-2</Return>
+		</Bematech_FI_ProgramaFormaPagamentoCV0909>
+		<Return Time="25-01-2016 16:03:35:330">1</Return>
+	</Bematech_FI_ProgramaFormaPagamentoMFD>
+	<Bematech_FI_ProgramaFormaPagamentoMFD CV="0909" Time="25-01-2016 16:03:35:330">
+		<paymentForm Time="25-01-2016 16:03:35:331">Recebimento</paymentForm>
+		<operationTef Time="25-01-2016 16:03:35:332">0</operationTef>
+		<Bematech_FI_ProgramaFormaPagamentoCV0909 CV="0909" Time="25-01-2016 16:03:35:332">
+			<paymentIndex Time="25-01-2016 16:03:35:333">0</paymentIndex>
+			<paymentForm Time="25-01-2016 16:03:35:334">Recebimento</paymentForm>
+			<linkedCCD Time="25-01-2016 16:03:35:334">0</linkedCCD>
+			<Return Time="25-01-2016 16:03:35:335">-2</Return>
+		</Bematech_FI_ProgramaFormaPagamentoCV0909>
+		<Return Time="25-01-2016 16:03:35:336">1</Return>
+	</Bematech_FI_ProgramaFormaPagamentoMFD>
+	<Bematech_FI_ProgramaFormaPagamentoMFD CV="0909" Time="25-01-2016 16:03:35:336">
+		<paymentForm Time="25-01-2016 16:03:35:337">Vale</paymentForm>
+		<operationTef Time="25-01-2016 16:03:35:338">0</operationTef>
+		<Bematech_FI_ProgramaFormaPagamentoCV0909 CV="0909" Time="25-01-2016 16:03:35:338">
+			<paymentIndex Time="25-01-2016 16:03:35:339">0</paymentIndex>
+			<paymentForm Time="25-01-2016 16:03:35:340">Vale</paymentForm>
+			<linkedCCD Time="25-01-2016 16:03:35:340">0</linkedCCD>
+			<Return Time="25-01-2016 16:03:35:341">-2</Return>
+		</Bematech_FI_ProgramaFormaPagamentoCV0909>
+		<Return Time="25-01-2016 16:03:35:342">1</Return>
+	</Bematech_FI_ProgramaFormaPagamentoMFD>
+	<Bematech_FI_GrandeTotalCriptografado Time="25-01-2016 16:03:35:345">
+		<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 16:03:35:345">
+			<TotalGrid Time="25-01-2016 16:03:35:641">000000006873209823</TotalGrid>
+			<Return Time="25-01-2016 16:03:35:642">1</Return>
+		</Bematech_FI_GrandeTotal>
+		<totalGridHex Time="25-01-2016 16:03:35:642">444CA5AC802AC34E6A63BA44F69216120CE</totalGridHex>
+		<Return Time="25-01-2016 16:03:35:643">1</Return>
+	</Bematech_FI_GrandeTotalCriptografado>
+	<Bematech_FI_NumeroSerieCV0909 CV="0909" Time="25-01-2016 16:03:35:675">
+		<SerialNumber Time="25-01-2016 16:03:35:971">BE101310100700000619</SerialNumber>
+		<Return Time="25-01-2016 16:03:35:972">1</Return>
+	</Bematech_FI_NumeroSerieCV0909>
+	<Bematech_FI_SubTotal CV="0909" Time="25-01-2016 16:03:35:974">
+		<SubTotal Time="25-01-2016 16:03:35:977">00000000000000</SubTotal>
+		<Return Time="25-01-2016 16:03:35:978">1</Return>
+	</Bematech_FI_SubTotal>
+	<Bematech_FI_Descontos CV="0909" Time="25-01-2016 16:03:35:980">
+		<Bematech_FI_DescontosICMS CV="0909" Time="25-01-2016 16:03:35:981">
+			<DiscountICMSValue Time="25-01-2016 16:03:36:231">000</DiscountICMSValue>
+			<Return Time="25-01-2016 16:03:36:231">1</Return>
+		</Bematech_FI_DescontosICMS>
+		<Discount Time="25-01-2016 16:03:36:232">00000000000000</Discount>
+		<Return Time="25-01-2016 16:03:36:233">1</Return>
+	</Bematech_FI_Descontos>
+	<Bematech_FI_Cancelamentos CV="0909" Time="25-01-2016 16:03:36:235">
+		<Bematech_FI_CancelamentosICMS CV="0909" Time="25-01-2016 16:03:36:236">
+			<CancellationICMSValue Time="25-01-2016 16:03:36:477">0000000000000</CancellationICMSValue>
+			<Return Time="25-01-2016 16:03:36:477">1</Return>
+		</Bematech_FI_CancelamentosICMS>
+		<CancellationValue Time="25-01-2016 16:03:36:478">00000000000000</CancellationValue>
+		<Return Time="25-01-2016 16:03:36:479">1</Return>
+	</Bematech_FI_Cancelamentos>
+	<Bematech_FI_Cancelamentos CV="0909" Time="25-01-2016 16:03:36:481">
+		<Bematech_FI_CancelamentosICMS CV="0909" Time="25-01-2016 16:03:36:482">
+			<CancellationICMSValue Time="25-01-2016 16:03:36:775">0000000000000</CancellationICMSValue>
+			<Return Time="25-01-2016 16:03:36:775">1</Return>
+		</Bematech_FI_CancelamentosICMS>
+		<CancellationValue Time="25-01-2016 16:03:36:776">00000000000000</CancellationValue>
+		<Return Time="25-01-2016 16:03:36:777">1</Return>
+	</Bematech_FI_Cancelamentos>
+	<Bematech_FI_NumeroCuponsCancelados CV="0909" Time="25-01-2016 16:03:36:780">
+		<NumeroCuponsCancelados Time="25-01-2016 16:03:37:029">0000</NumeroCuponsCancelados>
+		<Return Time="25-01-2016 16:03:37:029">1</Return>
+	</Bematech_FI_NumeroCuponsCancelados>
+	<Bematech_FI_NumeroCupom CV="0909" Time="25-01-2016 16:03:37:032">
+		<NumeroCupom Time="25-01-2016 16:03:37:285">006436</NumeroCupom>
+		<Return Time="25-01-2016 16:03:37:285">1</Return>
+	</Bematech_FI_NumeroCupom>
+	<Bematech_FI_VerificaZPendente CV="0909" Time="25-01-2016 16:03:37:288">
+		<Status Time="25-01-2016 16:03:37:537">0</Status>
+		<Return Time="25-01-2016 16:03:37:537">1</Return>
+	</Bematech_FI_VerificaZPendente>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 16:03:37:540">
+		<Flag Time="25-01-2016 16:03:38:171">8</Flag>
+		<Return Time="25-01-2016 16:03:38:172">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_NumeroIntervencoes CV="0909" Time="25-01-2016 16:03:46:977">
+		<NumeroIntervecoes Time="25-01-2016 16:03:47:311">0001</NumeroIntervecoes>
+		<Return Time="25-01-2016 16:03:47:311">1</Return>
+	</Bematech_FI_NumeroIntervencoes>
+	<Bematech_FI_NumeroReducoes CV="0909" Time="25-01-2016 16:03:47:312">
+		<NumeroReducoes Time="25-01-2016 16:03:47:557">0206</NumeroReducoes>
+		<Return Time="25-01-2016 16:03:47:557">1</Return>
+	</Bematech_FI_NumeroReducoes>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 16:03:47:573">
+		<TotalGrid Time="25-01-2016 16:03:47:817">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 16:03:47:817">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_HabilitaDesabilitaRetornoEstendidoMFD Time="25-01-2016 16:03:47:969">
+		<Return Time="25-01-2016 16:03:47:970">1</Return>
+	</Bematech_FI_HabilitaDesabilitaRetornoEstendidoMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 16:03:52:565">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 16:03:52:566">
+			<StatusMovimento Time="25-01-2016 16:03:52:852">00000000</StatusMovimento>
+			<Return Time="25-01-2016 16:03:52:853">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 16:03:52:853">000000</Date>
+		<Return Time="25-01-2016 16:03:52:854">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 16:03:52:855">
+		<Flag Time="25-01-2016 16:03:53:486">8</Flag>
+		<Return Time="25-01-2016 16:03:53:487">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 16:03:56:679">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 16:03:56:680">
+			<StatusMovimento Time="25-01-2016 16:03:56:975">00000000</StatusMovimento>
+			<Return Time="25-01-2016 16:03:56:976">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 16:03:56:976">000000</Date>
+		<Return Time="25-01-2016 16:03:56:977">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 16:03:57:115">
+		<CAT Time="25-01-2016 16:03:57:115">0</CAT>
+		<RET0 Time="25-01-2016 16:03:57:116">1</RET0>
+		<RET1 Time="25-01-2016 16:03:57:117">0</RET1>
+		<RET2 Time="25-01-2016 16:03:57:117">0</RET2>
+		<RET3 Time="25-01-2016 16:03:57:118">0</RET3>
+		<ACK Time="25-01-2016 16:03:57:118">6</ACK>
+		<ST1 Time="25-01-2016 16:03:57:119">0</ST1>
+		<ST2 Time="25-01-2016 16:03:57:120">0</ST2>
+		<ST3 Time="25-01-2016 16:03:57:120">0</ST3>
+		<Return Time="25-01-2016 16:03:57:121">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 16:03:57:125">
+		<TotalGrid Time="25-01-2016 16:03:57:373">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 16:03:57:373">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 16:03:57:478">
+		<TotalGrid Time="25-01-2016 16:03:57:721">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 16:03:57:722">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_GrandeTotalDescriptografado Time="25-01-2016 16:03:57:724">
+		<encryptedTotalGrid Time="25-01-2016 16:03:57:725">DL¥¬€*ÃNjcºDö’ Î</encryptedTotalGrid>
+		<totalGrid Time="25-01-2016 16:03:57:725">000000006873209823</totalGrid>
+		<Return Time="25-01-2016 16:03:57:726">1</Return>
+	</Bematech_FI_GrandeTotalDescriptografado>
+	<Bematech_FI_GrandeTotalCriptografado Time="25-01-2016 16:03:57:729">
+		<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 16:03:57:730">
+			<TotalGrid Time="25-01-2016 16:03:58:016">000000006873209823</TotalGrid>
+			<Return Time="25-01-2016 16:03:58:017">1</Return>
+		</Bematech_FI_GrandeTotal>
+		<totalGridHex Time="25-01-2016 16:03:58:018">444CA5AC802AC34E6A63BA44F69216120CE</totalGridHex>
+		<Return Time="25-01-2016 16:03:58:018">1</Return>
+	</Bematech_FI_GrandeTotalCriptografado>
+	<Bematech_FI_NumeroSerieCV0909 CV="0909" Time="25-01-2016 16:03:58:024">
+		<SerialNumber Time="25-01-2016 16:03:58:275">BE101310100700000619</SerialNumber>
+		<Return Time="25-01-2016 16:03:58:275">1</Return>
+	</Bematech_FI_NumeroSerieCV0909>
+	<Bematech_FI_GrandeTotalCriptografado Time="25-01-2016 16:03:58:286">
+		<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 16:03:58:286">
+			<TotalGrid Time="25-01-2016 16:03:58:537">000000006873209823</TotalGrid>
+			<Return Time="25-01-2016 16:03:58:538">1</Return>
+		</Bematech_FI_GrandeTotal>
+		<totalGridHex Time="25-01-2016 16:03:58:538">444CA5AC802AC34E6A63BA44F69216120CE</totalGridHex>
+		<Return Time="25-01-2016 16:03:58:539">1</Return>
+	</Bematech_FI_GrandeTotalCriptografado>
+	<Bematech_FI_VendaBruta CV="0909" Time="25-01-2016 16:03:58:540">
+		<VendaBruta Time="25-01-2016 16:03:58:789">000000000000000000</VendaBruta>
+		<Return Time="25-01-2016 16:03:58:789">1</Return>
+	</Bematech_FI_VendaBruta>
+	<Bematech_FI_NumeroReducoes CV="0909" Time="25-01-2016 16:03:58:799">
+		<NumeroReducoes Time="25-01-2016 16:03:59:049">0206</NumeroReducoes>
+		<Return Time="25-01-2016 16:03:59:050">1</Return>
+	</Bematech_FI_NumeroReducoes>
+	<Bematech_FI_NumeroIntervencoes CV="0909" Time="25-01-2016 16:03:59:060">
+		<NumeroIntervecoes Time="25-01-2016 16:03:59:307">0001</NumeroIntervecoes>
+		<Return Time="25-01-2016 16:03:59:307">1</Return>
+	</Bematech_FI_NumeroIntervencoes>
+	<Bematech_FI_VerificaEstadoGaveta CV="0909" Time="25-01-2016 16:04:00:266">
+		<EstadoGaveta Time="25-01-2016 16:04:00:516">1</EstadoGaveta>
+		<Return Time="25-01-2016 16:04:00:517">1</Return>
+	</Bematech_FI_VerificaEstadoGaveta>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 16:04:00:719">
+		<TotalGrid Time="25-01-2016 16:04:00:924">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 16:04:00:925">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_DataHoraImpressora CV="0909" Time="25-01-2016 16:04:00:961">
+		<Date Time="25-01-2016 16:04:01:296">250116</Date>
+		<Hour Time="25-01-2016 16:04:01:297">155703</Hour>
+		<Return Time="25-01-2016 16:04:01:298">1</Return>
+	</Bematech_FI_DataHoraImpressora>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 16:04:01:303">
+		<CAT Time="25-01-2016 16:04:01:304">0</CAT>
+		<RET0 Time="25-01-2016 16:04:01:304">1</RET0>
+		<RET1 Time="25-01-2016 16:04:01:305">0</RET1>
+		<RET2 Time="25-01-2016 16:04:01:306">0</RET2>
+		<RET3 Time="25-01-2016 16:04:01:307">0</RET3>
+		<ACK Time="25-01-2016 16:04:01:307">6</ACK>
+		<ST1 Time="25-01-2016 16:04:01:308">0</ST1>
+		<ST2 Time="25-01-2016 16:04:01:309">0</ST2>
+		<ST3 Time="25-01-2016 16:04:01:309">0</ST3>
+		<Return Time="25-01-2016 16:04:01:310">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 16:04:01:349">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 16:04:01:350">
+			<StatusMovimento Time="25-01-2016 16:04:01:644">00000000</StatusMovimento>
+			<Return Time="25-01-2016 16:04:01:645">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 16:04:01:646">000000</Date>
+		<Return Time="25-01-2016 16:04:01:647">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 16:04:01:647">
+		<CAT Time="25-01-2016 16:04:01:648">0</CAT>
+		<RET0 Time="25-01-2016 16:04:01:649">1</RET0>
+		<RET1 Time="25-01-2016 16:04:01:650">0</RET1>
+		<RET2 Time="25-01-2016 16:04:01:650">0</RET2>
+		<RET3 Time="25-01-2016 16:04:01:651">0</RET3>
+		<ACK Time="25-01-2016 16:04:01:652">6</ACK>
+		<ST1 Time="25-01-2016 16:04:01:652">0</ST1>
+		<ST2 Time="25-01-2016 16:04:01:653">0</ST2>
+		<ST3 Time="25-01-2016 16:04:01:654">0</ST3>
+		<Return Time="25-01-2016 16:04:01:655">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 16:04:01:656">
+		<TotalGrid Time="25-01-2016 16:04:01:904">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 16:04:01:905">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 16:04:01:917">
+		<TotalGrid Time="25-01-2016 16:04:02:160">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 16:04:02:161">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_GrandeTotalDescriptografado Time="25-01-2016 16:04:02:162">
+		<encryptedTotalGrid Time="25-01-2016 16:04:02:163">DL¥¬€*ÃNjcºDö’ Î</encryptedTotalGrid>
+		<totalGrid Time="25-01-2016 16:04:02:164">000000006873209823</totalGrid>
+		<Return Time="25-01-2016 16:04:02:164">1</Return>
+	</Bematech_FI_GrandeTotalDescriptografado>
+	<Bematech_FI_GrandeTotalCriptografado Time="25-01-2016 16:04:02:167">
+		<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 16:04:02:167">
+			<TotalGrid Time="25-01-2016 16:04:02:414">000000006873209823</TotalGrid>
+			<Return Time="25-01-2016 16:04:02:415">1</Return>
+		</Bematech_FI_GrandeTotal>
+		<totalGridHex Time="25-01-2016 16:04:02:416">444CA5AC802AC34E6A63BA44F69216120CE</totalGridHex>
+		<Return Time="25-01-2016 16:04:02:417">1</Return>
+	</Bematech_FI_GrandeTotalCriptografado>
+	<Bematech_FI_NumeroSerieCV0909 CV="0909" Time="25-01-2016 16:04:02:443">
+		<SerialNumber Time="25-01-2016 16:04:02:696">BE101310100700000619</SerialNumber>
+		<Return Time="25-01-2016 16:04:02:697">1</Return>
+	</Bematech_FI_NumeroSerieCV0909>
+	<Bematech_FI_GrandeTotalCriptografado Time="25-01-2016 16:04:02:698">
+		<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 16:04:02:699">
+			<TotalGrid Time="25-01-2016 16:04:02:948">000000006873209823</TotalGrid>
+			<Return Time="25-01-2016 16:04:02:949">1</Return>
+		</Bematech_FI_GrandeTotal>
+		<totalGridHex Time="25-01-2016 16:04:02:950">444CA5AC802AC34E6A63BA44F69216120CE</totalGridHex>
+		<Return Time="25-01-2016 16:04:02:950">1</Return>
+	</Bematech_FI_GrandeTotalCriptografado>
+	<Bematech_FI_VendaBruta CV="0909" Time="25-01-2016 16:04:02:955">
+		<VendaBruta Time="25-01-2016 16:04:03:248">000000000000000000</VendaBruta>
+		<Return Time="25-01-2016 16:04:03:249">1</Return>
+	</Bematech_FI_VendaBruta>
+	<Bematech_FI_NumeroReducoes CV="0909" Time="25-01-2016 16:04:03:251">
+		<NumeroReducoes Time="25-01-2016 16:04:03:500">0206</NumeroReducoes>
+		<Return Time="25-01-2016 16:04:03:501">1</Return>
+	</Bematech_FI_NumeroReducoes>
+	<Bematech_FI_NumeroIntervencoes CV="0909" Time="25-01-2016 16:04:03:501">
+		<NumeroIntervecoes Time="25-01-2016 16:04:03:746">0001</NumeroIntervecoes>
+		<Return Time="25-01-2016 16:04:03:747">1</Return>
+	</Bematech_FI_NumeroIntervencoes>
+	<Bematech_FI_VerificaEstadoGaveta CV="0909" Time="25-01-2016 16:04:04:173">
+		<EstadoGaveta Time="25-01-2016 16:04:04:418">1</EstadoGaveta>
+		<Return Time="25-01-2016 16:04:04:419">1</Return>
+	</Bematech_FI_VerificaEstadoGaveta>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 16:04:04:574">
+		<TotalGrid Time="25-01-2016 16:04:04:844">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 16:04:04:845">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_DataHoraImpressora CV="0909" Time="25-01-2016 16:04:04:876">
+		<Date Time="25-01-2016 16:04:05:214">250116</Date>
+		<Hour Time="25-01-2016 16:04:05:215">155707</Hour>
+		<Return Time="25-01-2016 16:04:05:215">1</Return>
+	</Bematech_FI_DataHoraImpressora>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 16:04:05:216">
+		<CAT Time="25-01-2016 16:04:05:217">0</CAT>
+		<RET0 Time="25-01-2016 16:04:05:218">1</RET0>
+		<RET1 Time="25-01-2016 16:04:05:218">0</RET1>
+		<RET2 Time="25-01-2016 16:04:05:219">0</RET2>
+		<RET3 Time="25-01-2016 16:04:05:220">0</RET3>
+		<ACK Time="25-01-2016 16:04:05:221">6</ACK>
+		<ST1 Time="25-01-2016 16:04:05:221">0</ST1>
+		<ST2 Time="25-01-2016 16:04:05:222">0</ST2>
+		<ST3 Time="25-01-2016 16:04:05:223">0</ST3>
+		<Return Time="25-01-2016 16:04:05:224">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 16:04:07:301">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 16:04:07:302">
+			<StatusMovimento Time="25-01-2016 16:04:07:597">00000000</StatusMovimento>
+			<Return Time="25-01-2016 16:04:07:598">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 16:04:07:599">000000</Date>
+		<Return Time="25-01-2016 16:04:07:599">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 16:04:07:600">
+		<CAT Time="25-01-2016 16:04:07:601">0</CAT>
+		<RET0 Time="25-01-2016 16:04:07:602">1</RET0>
+		<RET1 Time="25-01-2016 16:04:07:603">0</RET1>
+		<RET2 Time="25-01-2016 16:04:07:603">0</RET2>
+		<RET3 Time="25-01-2016 16:04:07:604">0</RET3>
+		<ACK Time="25-01-2016 16:04:07:605">6</ACK>
+		<ST1 Time="25-01-2016 16:04:07:606">0</ST1>
+		<ST2 Time="25-01-2016 16:04:07:607">0</ST2>
+		<ST3 Time="25-01-2016 16:04:07:607">0</ST3>
+		<Return Time="25-01-2016 16:04:07:608">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 16:04:07:610">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 16:04:07:610">
+			<StatusMovimento Time="25-01-2016 16:04:07:860">00000000</StatusMovimento>
+			<Return Time="25-01-2016 16:04:07:861">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 16:04:07:861">000000</Date>
+		<Return Time="25-01-2016 16:04:07:862">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 16:04:07:879">
+		<CAT Time="25-01-2016 16:04:07:879">0</CAT>
+		<RET0 Time="25-01-2016 16:04:07:880">1</RET0>
+		<RET1 Time="25-01-2016 16:04:07:881">0</RET1>
+		<RET2 Time="25-01-2016 16:04:07:882">0</RET2>
+		<RET3 Time="25-01-2016 16:04:07:882">0</RET3>
+		<ACK Time="25-01-2016 16:04:07:883">6</ACK>
+		<ST1 Time="25-01-2016 16:04:07:884">0</ST1>
+		<ST2 Time="25-01-2016 16:04:07:884">0</ST2>
+		<ST3 Time="25-01-2016 16:04:07:885">0</ST3>
+		<Return Time="25-01-2016 16:04:07:886">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 16:04:07:903">
+		<Flag Time="25-01-2016 16:04:08:477">8</Flag>
+		<Return Time="25-01-2016 16:04:08:478">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 16:04:08:482">
+		<CAT Time="25-01-2016 16:04:08:483">0</CAT>
+		<RET0 Time="25-01-2016 16:04:08:483">1</RET0>
+		<RET1 Time="25-01-2016 16:04:08:484">0</RET1>
+		<RET2 Time="25-01-2016 16:04:08:485">0</RET2>
+		<RET3 Time="25-01-2016 16:04:08:486">0</RET3>
+		<ACK Time="25-01-2016 16:04:08:487">6</ACK>
+		<ST1 Time="25-01-2016 16:04:08:487">0</ST1>
+		<ST2 Time="25-01-2016 16:04:08:488">0</ST2>
+		<ST3 Time="25-01-2016 16:04:08:489">0</ST3>
+		<Return Time="25-01-2016 16:04:08:489">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_VerificaEstadoGaveta CV="0909" Time="25-01-2016 16:04:08:504">
+		<EstadoGaveta Time="25-01-2016 16:04:08:751">1</EstadoGaveta>
+		<Return Time="25-01-2016 16:04:08:752">1</Return>
+	</Bematech_FI_VerificaEstadoGaveta>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 16:04:08:776">
+		<TotalGrid Time="25-01-2016 16:04:09:019">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 16:04:09:020">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_DataHoraImpressora CV="0909" Time="25-01-2016 16:04:09:232">
+		<Date Time="25-01-2016 16:04:09:609">250116</Date>
+		<Hour Time="25-01-2016 16:04:09:610">155711</Hour>
+		<Return Time="25-01-2016 16:04:09:611">1</Return>
+	</Bematech_FI_DataHoraImpressora>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 16:04:09:612">
+		<CAT Time="25-01-2016 16:04:09:613">0</CAT>
+		<RET0 Time="25-01-2016 16:04:09:613">1</RET0>
+		<RET1 Time="25-01-2016 16:04:09:614">0</RET1>
+		<RET2 Time="25-01-2016 16:04:09:615">0</RET2>
+		<RET3 Time="25-01-2016 16:04:09:615">0</RET3>
+		<ACK Time="25-01-2016 16:04:09:616">6</ACK>
+		<ST1 Time="25-01-2016 16:04:09:617">0</ST1>
+		<ST2 Time="25-01-2016 16:04:09:618">0</ST2>
+		<ST3 Time="25-01-2016 16:04:09:618">0</ST3>
+		<Return Time="25-01-2016 16:04:09:619">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 16:04:09:620">
+		<Flag Time="25-01-2016 16:04:10:234">8</Flag>
+		<Return Time="25-01-2016 16:04:10:235">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 16:04:35:769">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 16:04:35:770">
+			<StatusMovimento Time="25-01-2016 16:04:36:009">00000000</StatusMovimento>
+			<Return Time="25-01-2016 16:04:36:010">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 16:04:36:010">000000</Date>
+		<Return Time="25-01-2016 16:04:36:011">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 16:04:36:017">
+		<CAT Time="25-01-2016 16:04:36:018">0</CAT>
+		<RET0 Time="25-01-2016 16:04:36:019">1</RET0>
+		<RET1 Time="25-01-2016 16:04:36:020">0</RET1>
+		<RET2 Time="25-01-2016 16:04:36:021">0</RET2>
+		<RET3 Time="25-01-2016 16:04:36:022">0</RET3>
+		<ACK Time="25-01-2016 16:04:36:023">6</ACK>
+		<ST1 Time="25-01-2016 16:04:36:023">0</ST1>
+		<ST2 Time="25-01-2016 16:04:36:024">0</ST2>
+		<ST3 Time="25-01-2016 16:04:36:025">0</ST3>
+		<Return Time="25-01-2016 16:04:36:026">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 16:04:36:036">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 16:04:36:037">
+			<StatusMovimento Time="25-01-2016 16:04:36:282">00000000</StatusMovimento>
+			<Return Time="25-01-2016 16:04:36:283">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 16:04:36:284">000000</Date>
+		<Return Time="25-01-2016 16:04:36:285">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_VerificaEstadoGaveta CV="0909" Time="25-01-2016 16:04:36:299">
+		<EstadoGaveta Time="25-01-2016 16:04:36:547">1</EstadoGaveta>
+		<Return Time="25-01-2016 16:04:36:548">1</Return>
+	</Bematech_FI_VerificaEstadoGaveta>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 16:04:36:598">
+		<TotalGrid Time="25-01-2016 16:04:36:889">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 16:04:36:889">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_DataHoraImpressora CV="0909" Time="25-01-2016 16:04:37:119">
+		<Date Time="25-01-2016 16:04:37:459">250116</Date>
+		<Hour Time="25-01-2016 16:04:37:460">155739</Hour>
+		<Return Time="25-01-2016 16:04:37:460">1</Return>
+	</Bematech_FI_DataHoraImpressora>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 16:04:37:471">
+		<CAT Time="25-01-2016 16:04:37:472">0</CAT>
+		<RET0 Time="25-01-2016 16:04:37:472">1</RET0>
+		<RET1 Time="25-01-2016 16:04:37:473">0</RET1>
+		<RET2 Time="25-01-2016 16:04:37:474">0</RET2>
+		<RET3 Time="25-01-2016 16:04:37:475">0</RET3>
+		<ACK Time="25-01-2016 16:04:37:476">6</ACK>
+		<ST1 Time="25-01-2016 16:04:37:476">0</ST1>
+		<ST2 Time="25-01-2016 16:04:37:477">0</ST2>
+		<ST3 Time="25-01-2016 16:04:37:478">0</ST3>
+		<Return Time="25-01-2016 16:04:37:479">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_VerificaImpressoraLigada CV="0909" Time="25-01-2016 16:04:37:483">
+		<Return Time="25-01-2016 16:04:37:540">1</Return>
+	</Bematech_FI_VerificaImpressoraLigada>
+	<Bematech_FI_LeituraX CV="0909" Time="25-01-2016 16:04:37:571">
+		<Return Time="25-01-2016 16:04:41:063">1</Return>
+	</Bematech_FI_LeituraX>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 16:04:41:063">
+		<CAT Time="25-01-2016 16:04:41:064">0</CAT>
+		<RET0 Time="25-01-2016 16:04:41:065">1</RET0>
+		<RET1 Time="25-01-2016 16:04:41:065">0</RET1>
+		<RET2 Time="25-01-2016 16:04:41:066">0</RET2>
+		<RET3 Time="25-01-2016 16:04:41:066">0</RET3>
+		<ACK Time="25-01-2016 16:04:41:067">6</ACK>
+		<ST1 Time="25-01-2016 16:04:41:067">0</ST1>
+		<ST2 Time="25-01-2016 16:04:41:068">0</ST2>
+		<ST3 Time="25-01-2016 16:04:41:068">0</ST3>
+		<Return Time="25-01-2016 16:04:41:069">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 16:04:41:074">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 16:04:41:075">
+			<StatusMovimento Time="25-01-2016 16:04:41:306">00000000</StatusMovimento>
+			<Return Time="25-01-2016 16:04:41:307">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 16:04:41:307">000000</Date>
+		<Return Time="25-01-2016 16:04:41:308">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_NumeroCupom CV="0909" Time="25-01-2016 16:04:41:308">
+		<NumeroCupom Time="25-01-2016 16:04:41:615">006437</NumeroCupom>
+		<Return Time="25-01-2016 16:04:41:616">1</Return>
+	</Bematech_FI_NumeroCupom>
+	<Bematech_FI_ContadorCupomFiscal CV="0909" Time="25-01-2016 16:04:41:617">
+		<Counter Time="25-01-2016 16:04:41:946">003284</Counter>
+		<Return Time="25-01-2016 16:04:41:947">1</Return>
+	</Bematech_FI_ContadorCupomFiscal>
+	<Bematech_FI_ContadorRelatoriosGerenciaisMFD CV="0909" Time="25-01-2016 16:04:41:976">
+		<Counter Time="25-01-2016 16:04:42:268">000909</Counter>
+		<Return Time="25-01-2016 16:04:42:268">1</Return>
+	</Bematech_FI_ContadorRelatoriosGerenciaisMFD>
+	<Bematech_FI_NumeroOperacoesNaoFiscaisCV0909 CV="0909" Time="25-01-2016 16:04:42:290">
+		<NumeroOperacoesNaoFiscais Time="25-01-2016 16:04:42:534">002246</NumeroOperacoesNaoFiscais>
+		<Return Time="25-01-2016 16:04:42:535">1</Return>
+	</Bematech_FI_NumeroOperacoesNaoFiscaisCV0909>
+	<Bematech_FI_ContadorComprovantesCredito CV="0909" Time="25-01-2016 16:04:42:556">
+		<Voucher Time="25-01-2016 16:04:42:804">0000</Voucher>
+		<Return Time="25-01-2016 16:04:42:804">1</Return>
+	</Bematech_FI_ContadorComprovantesCredito>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 16:04:43:424">
+		<Flag Time="25-01-2016 16:04:44:011">8</Flag>
+		<Return Time="25-01-2016 16:04:44:011">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 16:04:52:985">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 16:04:52:985">
+			<StatusMovimento Time="25-01-2016 16:04:53:272">00000000</StatusMovimento>
+			<Return Time="25-01-2016 16:04:53:272">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 16:04:53:272">000000</Date>
+		<Return Time="25-01-2016 16:04:53:273">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 16:04:53:276">
+		<CAT Time="25-01-2016 16:04:53:276">0</CAT>
+		<RET0 Time="25-01-2016 16:04:53:277">1</RET0>
+		<RET1 Time="25-01-2016 16:04:53:277">0</RET1>
+		<RET2 Time="25-01-2016 16:04:53:277">0</RET2>
+		<RET3 Time="25-01-2016 16:04:53:278">0</RET3>
+		<ACK Time="25-01-2016 16:04:53:278">6</ACK>
+		<ST1 Time="25-01-2016 16:04:53:278">0</ST1>
+		<ST2 Time="25-01-2016 16:04:53:279">0</ST2>
+		<ST3 Time="25-01-2016 16:04:53:279">0</ST3>
+		<Return Time="25-01-2016 16:04:53:279">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 16:04:53:365">
+		<Flag Time="25-01-2016 16:04:53:950">8</Flag>
+		<Return Time="25-01-2016 16:04:53:950">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_DataMovimento CV="0909" Time="25-01-2016 16:05:35:650">
+		<Bematech_FI_StatusMovimento CV="0909" Time="25-01-2016 16:05:35:651">
+			<StatusMovimento Time="25-01-2016 16:05:35:943">00000000</StatusMovimento>
+			<Return Time="25-01-2016 16:05:35:944">1</Return>
+		</Bematech_FI_StatusMovimento>
+		<Date Time="25-01-2016 16:05:35:945">000000</Date>
+		<Return Time="25-01-2016 16:05:35:946">1</Return>
+	</Bematech_FI_DataMovimento>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 16:05:35:953">
+		<CAT Time="25-01-2016 16:05:35:953">0</CAT>
+		<RET0 Time="25-01-2016 16:05:35:954">1</RET0>
+		<RET1 Time="25-01-2016 16:05:35:955">0</RET1>
+		<RET2 Time="25-01-2016 16:05:35:955">0</RET2>
+		<RET3 Time="25-01-2016 16:05:35:956">0</RET3>
+		<ACK Time="25-01-2016 16:05:35:957">6</ACK>
+		<ST1 Time="25-01-2016 16:05:35:957">0</ST1>
+		<ST2 Time="25-01-2016 16:05:35:958">0</ST2>
+		<ST3 Time="25-01-2016 16:05:35:959">0</ST3>
+		<Return Time="25-01-2016 16:05:35:959">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_VerificaEstadoGaveta CV="0909" Time="25-01-2016 16:05:35:988">
+		<EstadoGaveta Time="25-01-2016 16:05:36:234">1</EstadoGaveta>
+		<Return Time="25-01-2016 16:05:36:234">1</Return>
+	</Bematech_FI_VerificaEstadoGaveta>
+	<Bematech_FI_GrandeTotal CV="0909" Time="25-01-2016 16:05:36:684">
+		<TotalGrid Time="25-01-2016 16:05:37:020">000000006873209823</TotalGrid>
+		<Return Time="25-01-2016 16:05:37:021">1</Return>
+	</Bematech_FI_GrandeTotal>
+	<Bematech_FI_DataHoraImpressora CV="0909" Time="25-01-2016 16:05:37:219">
+		<Date Time="25-01-2016 16:05:37:601">250116</Date>
+		<Hour Time="25-01-2016 16:05:37:602">155839</Hour>
+		<Return Time="25-01-2016 16:05:37:602">1</Return>
+	</Bematech_FI_DataHoraImpressora>
+	<Bematech_FI_RetornoImpressoraMFD Time="25-01-2016 16:05:37:605">
+		<CAT Time="25-01-2016 16:05:37:605">0</CAT>
+		<RET0 Time="25-01-2016 16:05:37:606">1</RET0>
+		<RET1 Time="25-01-2016 16:05:37:607">0</RET1>
+		<RET2 Time="25-01-2016 16:05:37:607">0</RET2>
+		<RET3 Time="25-01-2016 16:05:37:608">0</RET3>
+		<ACK Time="25-01-2016 16:05:37:609">6</ACK>
+		<ST1 Time="25-01-2016 16:05:37:610">0</ST1>
+		<ST2 Time="25-01-2016 16:05:37:610">0</ST2>
+		<ST3 Time="25-01-2016 16:05:37:611">0</ST3>
+		<Return Time="25-01-2016 16:05:37:612">1</Return>
+	</Bematech_FI_RetornoImpressoraMFD>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 16:05:37:616">
+		<Flag Time="25-01-2016 16:05:38:203">8</Flag>
+		<Return Time="25-01-2016 16:05:38:205">1</Return>
+	</Bematech_FI_FlagsFiscais>
+	<Bematech_FI_FlagsFiscais CV="0909" Time="25-01-2016 16:05:38:603">
+		<Flag Time="25-01-2016 16:05:39:234">8</Flag>
+		<Return Time="25-01-2016 16:05:39:235">1</Return>
+	</Bematech_FI_FlagsFiscais>
+</bematech>

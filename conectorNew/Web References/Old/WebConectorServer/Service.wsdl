@@ -1,0 +1,1703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="ObterResultCheque">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="conta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="serie" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="agencia" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="banco" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="numeroCheque" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterResultChequeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ObterResultChequeResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPedido">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pedido" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="store" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tipo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPedidoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterPedidoResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPedidoLog">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pedido" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="store" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPedidoLogResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterPedidoLogResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPedidoExpire">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pedido" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="store" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="dmais2" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPedidoExpireResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterPedidoExpireResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPedidoItens">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pedido" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="store" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPedidoItensResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterPedidoItensResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPedidoFinanceiro">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pedido" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="store" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPedidoFinanceiroResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterPedidoFinanceiroResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPedidoParcelamento">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="escolha" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="pedido" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="store" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPedidoParcelamentoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterPedidoParcelamentoResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPedidoEntrega">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pedido" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="store" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPedidoEntregaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterPedidoEntregaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AlteraStatusPedido">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pedido" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="store" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AlteraStatusPedidoResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="AlteraStatusPedidoFinal">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="reserva" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="store" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="final" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="status" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sinal" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AlteraStatusPedidoFinalResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="VerificaStatusPedido">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pedido" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="store" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="VerificaStatusPedidoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="VerificaStatusPedidoResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="VerificaFinalPedido">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pedido" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="store" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="VerificaFinalPedidoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="VerificaFinalPedidoResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterCrediario">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="crediario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="store" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterCrediarioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterCrediarioResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterParcelamento">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="crediario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="store" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterParcelamentoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterParcelamentoResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterParcela">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="crediario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="store" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="parcela" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterParcelaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterParcelaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterDividento">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pessoa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="store" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="carne" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="prestacao" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tipo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterDividentoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterDividentoResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterHistoricoFull">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="tipo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="store" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pessoa" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="auxFiltraDate" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="di" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="df" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterHistoricoFullResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterHistoricoFullResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AlteraStatusParcelaCrediario">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="crediario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="store" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="parcela" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="status" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AlteraStatusParcelaCrediarioResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="verificaStatusParcelaCrediario">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="crediario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="store" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="parcela" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="verificaStatusParcelaCrediarioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="verificaStatusParcelaCrediarioResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="verificaStatusCrediario">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="crediario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="store" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="verificaStatusCrediarioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="verificaStatusCrediarioResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="verificaExitsPepleo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pepleo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="verificaExitsPepleoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="verificaExitsPepleoResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPepleoSingle">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pessoa" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPepleoSingleResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterPepleoSingleResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterMainPepleo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pessoa" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterMainPepleoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterMainPepleoResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterMainPepleoFisica">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pessoa" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterMainPepleoFisicaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterMainPepleoFisicaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterMainPepleoRural">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pessoa" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterMainPepleoRuralResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterMainPepleoRuralResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterMainPepleoJuridica">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pessoa" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterMainPepleoJuridicaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterMainPepleoJuridicaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterFone">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pessoa" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterFoneResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterFoneResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterStore">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="store" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterStoreResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterStoreResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterEndereco">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pessoa" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterEnderecoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterEnderecoResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPepleoCobranca">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pessoa" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPepleoCobrancaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterPepleoCobrancaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPepleoEntrega">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pessoa" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPepleoEntregaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterPepleoEntregaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPepleoProfissional">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pessoa" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPepleoProfissionalResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterPepleoProfissionalResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPepleoReferencia">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pessoa" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPepleoReferenciaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterPepleoReferenciaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPepleoRisco">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pessoa" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterPepleoRiscoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterPepleoRiscoResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterNumNr">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="store" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObterNumNrResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObterNumNrResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ObterResultChequeSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterResultCheque" />
+  </wsdl:message>
+  <wsdl:message name="ObterResultChequeSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterResultChequeResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterPedidoSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterPedido" />
+  </wsdl:message>
+  <wsdl:message name="ObterPedidoSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterPedidoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterPedidoLogSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterPedidoLog" />
+  </wsdl:message>
+  <wsdl:message name="ObterPedidoLogSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterPedidoLogResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterPedidoExpireSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterPedidoExpire" />
+  </wsdl:message>
+  <wsdl:message name="ObterPedidoExpireSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterPedidoExpireResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterPedidoItensSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterPedidoItens" />
+  </wsdl:message>
+  <wsdl:message name="ObterPedidoItensSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterPedidoItensResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterPedidoFinanceiroSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterPedidoFinanceiro" />
+  </wsdl:message>
+  <wsdl:message name="ObterPedidoFinanceiroSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterPedidoFinanceiroResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterPedidoParcelamentoSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterPedidoParcelamento" />
+  </wsdl:message>
+  <wsdl:message name="ObterPedidoParcelamentoSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterPedidoParcelamentoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterPedidoEntregaSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterPedidoEntrega" />
+  </wsdl:message>
+  <wsdl:message name="ObterPedidoEntregaSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterPedidoEntregaResponse" />
+  </wsdl:message>
+  <wsdl:message name="AlteraStatusPedidoSoapIn">
+    <wsdl:part name="parameters" element="tns:AlteraStatusPedido" />
+  </wsdl:message>
+  <wsdl:message name="AlteraStatusPedidoSoapOut">
+    <wsdl:part name="parameters" element="tns:AlteraStatusPedidoResponse" />
+  </wsdl:message>
+  <wsdl:message name="AlteraStatusPedidoFinalSoapIn">
+    <wsdl:part name="parameters" element="tns:AlteraStatusPedidoFinal" />
+  </wsdl:message>
+  <wsdl:message name="AlteraStatusPedidoFinalSoapOut">
+    <wsdl:part name="parameters" element="tns:AlteraStatusPedidoFinalResponse" />
+  </wsdl:message>
+  <wsdl:message name="VerificaStatusPedidoSoapIn">
+    <wsdl:part name="parameters" element="tns:VerificaStatusPedido" />
+  </wsdl:message>
+  <wsdl:message name="VerificaStatusPedidoSoapOut">
+    <wsdl:part name="parameters" element="tns:VerificaStatusPedidoResponse" />
+  </wsdl:message>
+  <wsdl:message name="VerificaFinalPedidoSoapIn">
+    <wsdl:part name="parameters" element="tns:VerificaFinalPedido" />
+  </wsdl:message>
+  <wsdl:message name="VerificaFinalPedidoSoapOut">
+    <wsdl:part name="parameters" element="tns:VerificaFinalPedidoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterCrediarioSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterCrediario" />
+  </wsdl:message>
+  <wsdl:message name="ObterCrediarioSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterCrediarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterParcelamentoSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterParcelamento" />
+  </wsdl:message>
+  <wsdl:message name="ObterParcelamentoSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterParcelamentoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterParcelaSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterParcela" />
+  </wsdl:message>
+  <wsdl:message name="ObterParcelaSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterParcelaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterDividentoSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterDividento" />
+  </wsdl:message>
+  <wsdl:message name="ObterDividentoSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterDividentoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterHistoricoFullSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterHistoricoFull" />
+  </wsdl:message>
+  <wsdl:message name="ObterHistoricoFullSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterHistoricoFullResponse" />
+  </wsdl:message>
+  <wsdl:message name="AlteraStatusParcelaCrediarioSoapIn">
+    <wsdl:part name="parameters" element="tns:AlteraStatusParcelaCrediario" />
+  </wsdl:message>
+  <wsdl:message name="AlteraStatusParcelaCrediarioSoapOut">
+    <wsdl:part name="parameters" element="tns:AlteraStatusParcelaCrediarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="verificaStatusParcelaCrediarioSoapIn">
+    <wsdl:part name="parameters" element="tns:verificaStatusParcelaCrediario" />
+  </wsdl:message>
+  <wsdl:message name="verificaStatusParcelaCrediarioSoapOut">
+    <wsdl:part name="parameters" element="tns:verificaStatusParcelaCrediarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="verificaStatusCrediarioSoapIn">
+    <wsdl:part name="parameters" element="tns:verificaStatusCrediario" />
+  </wsdl:message>
+  <wsdl:message name="verificaStatusCrediarioSoapOut">
+    <wsdl:part name="parameters" element="tns:verificaStatusCrediarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="verificaExitsPepleoSoapIn">
+    <wsdl:part name="parameters" element="tns:verificaExitsPepleo" />
+  </wsdl:message>
+  <wsdl:message name="verificaExitsPepleoSoapOut">
+    <wsdl:part name="parameters" element="tns:verificaExitsPepleoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterPepleoSingleSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterPepleoSingle" />
+  </wsdl:message>
+  <wsdl:message name="ObterPepleoSingleSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterPepleoSingleResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterMainPepleoSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterMainPepleo" />
+  </wsdl:message>
+  <wsdl:message name="ObterMainPepleoSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterMainPepleoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterMainPepleoFisicaSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterMainPepleoFisica" />
+  </wsdl:message>
+  <wsdl:message name="ObterMainPepleoFisicaSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterMainPepleoFisicaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterMainPepleoRuralSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterMainPepleoRural" />
+  </wsdl:message>
+  <wsdl:message name="ObterMainPepleoRuralSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterMainPepleoRuralResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterMainPepleoJuridicaSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterMainPepleoJuridica" />
+  </wsdl:message>
+  <wsdl:message name="ObterMainPepleoJuridicaSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterMainPepleoJuridicaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterFoneSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterFone" />
+  </wsdl:message>
+  <wsdl:message name="ObterFoneSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterFoneResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterStoreSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterStore" />
+  </wsdl:message>
+  <wsdl:message name="ObterStoreSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterStoreResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterEnderecoSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterEndereco" />
+  </wsdl:message>
+  <wsdl:message name="ObterEnderecoSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterEnderecoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterPepleoCobrancaSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterPepleoCobranca" />
+  </wsdl:message>
+  <wsdl:message name="ObterPepleoCobrancaSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterPepleoCobrancaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterPepleoEntregaSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterPepleoEntrega" />
+  </wsdl:message>
+  <wsdl:message name="ObterPepleoEntregaSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterPepleoEntregaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterPepleoProfissionalSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterPepleoProfissional" />
+  </wsdl:message>
+  <wsdl:message name="ObterPepleoProfissionalSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterPepleoProfissionalResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterPepleoReferenciaSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterPepleoReferencia" />
+  </wsdl:message>
+  <wsdl:message name="ObterPepleoReferenciaSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterPepleoReferenciaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterPepleoRiscoSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterPepleoRisco" />
+  </wsdl:message>
+  <wsdl:message name="ObterPepleoRiscoSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterPepleoRiscoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObterNumNrSoapIn">
+    <wsdl:part name="parameters" element="tns:ObterNumNr" />
+  </wsdl:message>
+  <wsdl:message name="ObterNumNrSoapOut">
+    <wsdl:part name="parameters" element="tns:ObterNumNrResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServiceSoap">
+    <wsdl:operation name="ObterResultCheque">
+      <wsdl:input message="tns:ObterResultChequeSoapIn" />
+      <wsdl:output message="tns:ObterResultChequeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterPedido">
+      <wsdl:input message="tns:ObterPedidoSoapIn" />
+      <wsdl:output message="tns:ObterPedidoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterPedidoLog">
+      <wsdl:input message="tns:ObterPedidoLogSoapIn" />
+      <wsdl:output message="tns:ObterPedidoLogSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterPedidoExpire">
+      <wsdl:input message="tns:ObterPedidoExpireSoapIn" />
+      <wsdl:output message="tns:ObterPedidoExpireSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterPedidoItens">
+      <wsdl:input message="tns:ObterPedidoItensSoapIn" />
+      <wsdl:output message="tns:ObterPedidoItensSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterPedidoFinanceiro">
+      <wsdl:input message="tns:ObterPedidoFinanceiroSoapIn" />
+      <wsdl:output message="tns:ObterPedidoFinanceiroSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterPedidoParcelamento">
+      <wsdl:input message="tns:ObterPedidoParcelamentoSoapIn" />
+      <wsdl:output message="tns:ObterPedidoParcelamentoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterPedidoEntrega">
+      <wsdl:input message="tns:ObterPedidoEntregaSoapIn" />
+      <wsdl:output message="tns:ObterPedidoEntregaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AlteraStatusPedido">
+      <wsdl:input message="tns:AlteraStatusPedidoSoapIn" />
+      <wsdl:output message="tns:AlteraStatusPedidoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AlteraStatusPedidoFinal">
+      <wsdl:input message="tns:AlteraStatusPedidoFinalSoapIn" />
+      <wsdl:output message="tns:AlteraStatusPedidoFinalSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="VerificaStatusPedido">
+      <wsdl:input message="tns:VerificaStatusPedidoSoapIn" />
+      <wsdl:output message="tns:VerificaStatusPedidoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="VerificaFinalPedido">
+      <wsdl:input message="tns:VerificaFinalPedidoSoapIn" />
+      <wsdl:output message="tns:VerificaFinalPedidoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterCrediario">
+      <wsdl:input message="tns:ObterCrediarioSoapIn" />
+      <wsdl:output message="tns:ObterCrediarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterParcelamento">
+      <wsdl:input message="tns:ObterParcelamentoSoapIn" />
+      <wsdl:output message="tns:ObterParcelamentoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterParcela">
+      <wsdl:input message="tns:ObterParcelaSoapIn" />
+      <wsdl:output message="tns:ObterParcelaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterDividento">
+      <wsdl:input message="tns:ObterDividentoSoapIn" />
+      <wsdl:output message="tns:ObterDividentoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterHistoricoFull">
+      <wsdl:input message="tns:ObterHistoricoFullSoapIn" />
+      <wsdl:output message="tns:ObterHistoricoFullSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AlteraStatusParcelaCrediario">
+      <wsdl:input message="tns:AlteraStatusParcelaCrediarioSoapIn" />
+      <wsdl:output message="tns:AlteraStatusParcelaCrediarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="verificaStatusParcelaCrediario">
+      <wsdl:input message="tns:verificaStatusParcelaCrediarioSoapIn" />
+      <wsdl:output message="tns:verificaStatusParcelaCrediarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="verificaStatusCrediario">
+      <wsdl:input message="tns:verificaStatusCrediarioSoapIn" />
+      <wsdl:output message="tns:verificaStatusCrediarioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="verificaExitsPepleo">
+      <wsdl:input message="tns:verificaExitsPepleoSoapIn" />
+      <wsdl:output message="tns:verificaExitsPepleoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterPepleoSingle">
+      <wsdl:input message="tns:ObterPepleoSingleSoapIn" />
+      <wsdl:output message="tns:ObterPepleoSingleSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterMainPepleo">
+      <wsdl:input message="tns:ObterMainPepleoSoapIn" />
+      <wsdl:output message="tns:ObterMainPepleoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterMainPepleoFisica">
+      <wsdl:input message="tns:ObterMainPepleoFisicaSoapIn" />
+      <wsdl:output message="tns:ObterMainPepleoFisicaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterMainPepleoRural">
+      <wsdl:input message="tns:ObterMainPepleoRuralSoapIn" />
+      <wsdl:output message="tns:ObterMainPepleoRuralSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterMainPepleoJuridica">
+      <wsdl:input message="tns:ObterMainPepleoJuridicaSoapIn" />
+      <wsdl:output message="tns:ObterMainPepleoJuridicaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterFone">
+      <wsdl:input message="tns:ObterFoneSoapIn" />
+      <wsdl:output message="tns:ObterFoneSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterStore">
+      <wsdl:input message="tns:ObterStoreSoapIn" />
+      <wsdl:output message="tns:ObterStoreSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterEndereco">
+      <wsdl:input message="tns:ObterEnderecoSoapIn" />
+      <wsdl:output message="tns:ObterEnderecoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterPepleoCobranca">
+      <wsdl:input message="tns:ObterPepleoCobrancaSoapIn" />
+      <wsdl:output message="tns:ObterPepleoCobrancaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterPepleoEntrega">
+      <wsdl:input message="tns:ObterPepleoEntregaSoapIn" />
+      <wsdl:output message="tns:ObterPepleoEntregaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterPepleoProfissional">
+      <wsdl:input message="tns:ObterPepleoProfissionalSoapIn" />
+      <wsdl:output message="tns:ObterPepleoProfissionalSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterPepleoReferencia">
+      <wsdl:input message="tns:ObterPepleoReferenciaSoapIn" />
+      <wsdl:output message="tns:ObterPepleoReferenciaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterPepleoRisco">
+      <wsdl:input message="tns:ObterPepleoRiscoSoapIn" />
+      <wsdl:output message="tns:ObterPepleoRiscoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObterNumNr">
+      <wsdl:input message="tns:ObterNumNrSoapIn" />
+      <wsdl:output message="tns:ObterNumNrSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServiceSoap" type="tns:ServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ObterResultCheque">
+      <soap:operation soapAction="http://tempuri.org/ObterResultCheque" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPedido">
+      <soap:operation soapAction="http://tempuri.org/ObterPedido" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPedidoLog">
+      <soap:operation soapAction="http://tempuri.org/ObterPedidoLog" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPedidoExpire">
+      <soap:operation soapAction="http://tempuri.org/ObterPedidoExpire" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPedidoItens">
+      <soap:operation soapAction="http://tempuri.org/ObterPedidoItens" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPedidoFinanceiro">
+      <soap:operation soapAction="http://tempuri.org/ObterPedidoFinanceiro" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPedidoParcelamento">
+      <soap:operation soapAction="http://tempuri.org/ObterPedidoParcelamento" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPedidoEntrega">
+      <soap:operation soapAction="http://tempuri.org/ObterPedidoEntrega" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AlteraStatusPedido">
+      <soap:operation soapAction="http://tempuri.org/AlteraStatusPedido" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AlteraStatusPedidoFinal">
+      <soap:operation soapAction="http://tempuri.org/AlteraStatusPedidoFinal" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="VerificaStatusPedido">
+      <soap:operation soapAction="http://tempuri.org/VerificaStatusPedido" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="VerificaFinalPedido">
+      <soap:operation soapAction="http://tempuri.org/VerificaFinalPedido" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterCrediario">
+      <soap:operation soapAction="http://tempuri.org/ObterCrediario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterParcelamento">
+      <soap:operation soapAction="http://tempuri.org/ObterParcelamento" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterParcela">
+      <soap:operation soapAction="http://tempuri.org/ObterParcela" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterDividento">
+      <soap:operation soapAction="http://tempuri.org/ObterDividento" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterHistoricoFull">
+      <soap:operation soapAction="http://tempuri.org/ObterHistoricoFull" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AlteraStatusParcelaCrediario">
+      <soap:operation soapAction="http://tempuri.org/AlteraStatusParcelaCrediario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="verificaStatusParcelaCrediario">
+      <soap:operation soapAction="http://tempuri.org/verificaStatusParcelaCrediario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="verificaStatusCrediario">
+      <soap:operation soapAction="http://tempuri.org/verificaStatusCrediario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="verificaExitsPepleo">
+      <soap:operation soapAction="http://tempuri.org/verificaExitsPepleo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPepleoSingle">
+      <soap:operation soapAction="http://tempuri.org/ObterPepleoSingle" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterMainPepleo">
+      <soap:operation soapAction="http://tempuri.org/ObterMainPepleo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterMainPepleoFisica">
+      <soap:operation soapAction="http://tempuri.org/ObterMainPepleoFisica" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterMainPepleoRural">
+      <soap:operation soapAction="http://tempuri.org/ObterMainPepleoRural" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterMainPepleoJuridica">
+      <soap:operation soapAction="http://tempuri.org/ObterMainPepleoJuridica" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterFone">
+      <soap:operation soapAction="http://tempuri.org/ObterFone" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterStore">
+      <soap:operation soapAction="http://tempuri.org/ObterStore" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterEndereco">
+      <soap:operation soapAction="http://tempuri.org/ObterEndereco" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPepleoCobranca">
+      <soap:operation soapAction="http://tempuri.org/ObterPepleoCobranca" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPepleoEntrega">
+      <soap:operation soapAction="http://tempuri.org/ObterPepleoEntrega" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPepleoProfissional">
+      <soap:operation soapAction="http://tempuri.org/ObterPepleoProfissional" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPepleoReferencia">
+      <soap:operation soapAction="http://tempuri.org/ObterPepleoReferencia" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPepleoRisco">
+      <soap:operation soapAction="http://tempuri.org/ObterPepleoRisco" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterNumNr">
+      <soap:operation soapAction="http://tempuri.org/ObterNumNr" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServiceSoap12" type="tns:ServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ObterResultCheque">
+      <soap12:operation soapAction="http://tempuri.org/ObterResultCheque" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPedido">
+      <soap12:operation soapAction="http://tempuri.org/ObterPedido" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPedidoLog">
+      <soap12:operation soapAction="http://tempuri.org/ObterPedidoLog" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPedidoExpire">
+      <soap12:operation soapAction="http://tempuri.org/ObterPedidoExpire" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPedidoItens">
+      <soap12:operation soapAction="http://tempuri.org/ObterPedidoItens" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPedidoFinanceiro">
+      <soap12:operation soapAction="http://tempuri.org/ObterPedidoFinanceiro" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPedidoParcelamento">
+      <soap12:operation soapAction="http://tempuri.org/ObterPedidoParcelamento" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPedidoEntrega">
+      <soap12:operation soapAction="http://tempuri.org/ObterPedidoEntrega" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AlteraStatusPedido">
+      <soap12:operation soapAction="http://tempuri.org/AlteraStatusPedido" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AlteraStatusPedidoFinal">
+      <soap12:operation soapAction="http://tempuri.org/AlteraStatusPedidoFinal" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="VerificaStatusPedido">
+      <soap12:operation soapAction="http://tempuri.org/VerificaStatusPedido" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="VerificaFinalPedido">
+      <soap12:operation soapAction="http://tempuri.org/VerificaFinalPedido" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterCrediario">
+      <soap12:operation soapAction="http://tempuri.org/ObterCrediario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterParcelamento">
+      <soap12:operation soapAction="http://tempuri.org/ObterParcelamento" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterParcela">
+      <soap12:operation soapAction="http://tempuri.org/ObterParcela" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterDividento">
+      <soap12:operation soapAction="http://tempuri.org/ObterDividento" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterHistoricoFull">
+      <soap12:operation soapAction="http://tempuri.org/ObterHistoricoFull" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AlteraStatusParcelaCrediario">
+      <soap12:operation soapAction="http://tempuri.org/AlteraStatusParcelaCrediario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="verificaStatusParcelaCrediario">
+      <soap12:operation soapAction="http://tempuri.org/verificaStatusParcelaCrediario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="verificaStatusCrediario">
+      <soap12:operation soapAction="http://tempuri.org/verificaStatusCrediario" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="verificaExitsPepleo">
+      <soap12:operation soapAction="http://tempuri.org/verificaExitsPepleo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPepleoSingle">
+      <soap12:operation soapAction="http://tempuri.org/ObterPepleoSingle" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterMainPepleo">
+      <soap12:operation soapAction="http://tempuri.org/ObterMainPepleo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterMainPepleoFisica">
+      <soap12:operation soapAction="http://tempuri.org/ObterMainPepleoFisica" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterMainPepleoRural">
+      <soap12:operation soapAction="http://tempuri.org/ObterMainPepleoRural" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterMainPepleoJuridica">
+      <soap12:operation soapAction="http://tempuri.org/ObterMainPepleoJuridica" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterFone">
+      <soap12:operation soapAction="http://tempuri.org/ObterFone" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterStore">
+      <soap12:operation soapAction="http://tempuri.org/ObterStore" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterEndereco">
+      <soap12:operation soapAction="http://tempuri.org/ObterEndereco" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPepleoCobranca">
+      <soap12:operation soapAction="http://tempuri.org/ObterPepleoCobranca" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPepleoEntrega">
+      <soap12:operation soapAction="http://tempuri.org/ObterPepleoEntrega" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPepleoProfissional">
+      <soap12:operation soapAction="http://tempuri.org/ObterPepleoProfissional" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPepleoReferencia">
+      <soap12:operation soapAction="http://tempuri.org/ObterPepleoReferencia" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterPepleoRisco">
+      <soap12:operation soapAction="http://tempuri.org/ObterPepleoRisco" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObterNumNr">
+      <soap12:operation soapAction="http://tempuri.org/ObterNumNr" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service">
+    <wsdl:port name="ServiceSoap" binding="tns:ServiceSoap">
+      <soap:address location="http://localhost:49159/WebConectorServer/Service.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServiceSoap12" binding="tns:ServiceSoap12">
+      <soap12:address location="http://localhost:49159/WebConectorServer/Service.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

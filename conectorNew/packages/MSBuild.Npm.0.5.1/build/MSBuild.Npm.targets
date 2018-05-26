@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <Target Name="RunNpm"
+        DependsOnTargets="EnsureNode"
+        BeforeTargets="BeforeBuild;BeforeClean"
+        Condition=" Exists('$(NpmFile)') ">
+        <PropertyGroup>
+            <NpmWorkingDirectory>$([System.IO.Path]::GetDirectoryName('$(NpmFile)'))</NpmWorkingDirectory>
+            <RunNpmCmd>"$(NodePath)\npm" $(NpmCommand)</RunNpmCmd>
+        </PropertyGroup>
+
+        <Message Text="Npm Working Directory: '$(NpmWorkingDirectory)'" />
+
+        <Exec Command="$(RunNpmCmd)"
+            WorkingDirectory="$(NpmWorkingDirectory)"
+            CustomErrorRegularExpression="(ERR!.*is not in the npm registry|Usage:)"/>
+    </Target>
+<!-- vim: set ft=xml sw=4 :-->
+</Project>

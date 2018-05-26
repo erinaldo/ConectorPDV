@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conectorPDV001", "conectorPDV001.csproj", "{4D7F5935-F214-404E-A1F5-E3F72D6CE733}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\Setup1\Setup1.vdproj", "{DC8A2132-8F3A-4793-AD86-1C121A734198}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D7F5935-F214-404E-A1F5-E3F72D6CE733}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7F5935-F214-404E-A1F5-E3F72D6CE733}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{4D7F5935-F214-404E-A1F5-E3F72D6CE733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7F5935-F214-404E-A1F5-E3F72D6CE733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D7F5935-F214-404E-A1F5-E3F72D6CE733}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7F5935-F214-404E-A1F5-E3F72D6CE733}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{4D7F5935-F214-404E-A1F5-E3F72D6CE733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7F5935-F214-404E-A1F5-E3F72D6CE733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D7F5935-F214-404E-A1F5-E3F72D6CE733}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7F5935-F214-404E-A1F5-E3F72D6CE733}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{DC8A2132-8F3A-4793-AD86-1C121A734198}.CD_ROM|Any CPU.ActiveCfg = Release
+		{DC8A2132-8F3A-4793-AD86-1C121A734198}.Debug|Any CPU.ActiveCfg = Debug
+		{DC8A2132-8F3A-4793-AD86-1C121A734198}.DVD-5|Any CPU.ActiveCfg = Debug
+		{DC8A2132-8F3A-4793-AD86-1C121A734198}.Release|Any CPU.ActiveCfg = Release
+		{DC8A2132-8F3A-4793-AD86-1C121A734198}.SingleImage|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
